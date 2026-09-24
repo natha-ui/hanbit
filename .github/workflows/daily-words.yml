@@ -1,0 +1,46 @@
+name: Daily words
+on:
+  schedule:
+    - cron: "30 20 * * *"   # 05:30 in Korea, 21:30 UK summer time
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  words:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r pipeline/requirements.txt
+      - run: python pipeline/daily_words.py --out data
+        env:
+          KRDICT_KEY: ${{ secrets.KRDICT_KEY }}
+      - name: Save today's words to the repo
+        run: |
+          git config user.name "hanbit-bot"
+          git config user.email "hanbit-bot@users.noreply.github.com"
+          git add data
+          git commit -m "Daily words $(date -u +%F)" || echo "no change"
+          git push
+      # Publish the iPhone web app together with the new words
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp -r web/. _site/
+          cp -r data _site/data
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
