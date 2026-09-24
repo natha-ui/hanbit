@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/w_root" android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/widget_bg" android:orientation="vertical" android:padding="12dp">
+    <TextView android:id="@+id/w_tag" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:maxLines="1" android:textColor="#E2B236" android:textSize="11sp" />
+    <TextView android:id="@+id/w_main" android:layout_width="match_parent" android:layout_height="0dp"
+        android:layout_weight="1" android:gravity="center_vertical|start" android:maxLines="1"
+        android:textColor="#FFFFFF" android:textStyle="bold"
+        android:autoSizeTextType="uniform" android:autoSizeMinTextSize="14sp"
+        android:autoSizeMaxTextSize="40sp" android:autoSizeStepGranularity="1sp" />
+    <TextView android:id="@+id/w_hunum" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:ellipsize="end" android:maxLines="1" android:textColor="#E6EDE8" android:textSize="14sp" />
+    <TextView android:id="@+id/w_en" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:ellipsize="end" android:maxLines="2" android:textColor="#B8C6D0" android:textSize="13sp" />
+</LinearLayout>

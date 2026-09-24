@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Samsung Flex Window (Z Flip cover screen): Samsung's recommended full-page size -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/widget_desc"
+    android:initialLayout="@layout/widget_cover"
+    android:previewLayout="@layout/widget_cover"
+    android:minWidth="339dp"
+    android:minHeight="352dp"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="10800000"
+    android:widgetCategory="keyguard" />
