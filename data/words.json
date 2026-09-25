@@ -1,0 +1,240 @@
+{
+ "generated": "2026-09-25T00:44:24Z",
+ "days": [
+  {
+   "date": "2026-09-25",
+   "topics": [
+    "룰라",
+    "배두나",
+    "열차",
+    "vix",
+    "추석 차례상",
+    "모유",
+    "天气",
+    "해외여행",
+    "ionq",
+    "서울지하철"
+   ],
+   "words": [
+    {
+     "ko": "연휴",
+     "hanja": "連休",
+     "en": "consecutive days off, long weekend",
+     "grade": "",
+     "pos": "",
+     "example": "\"올해 설 연휴 열차, 매일 6만석이 비었다…부정 승차는 늘어\"",
+     "chars": [
+      {
+       "c": "連",
+       "hun": "잇닿을",
+       "eum": "련",
+       "en": ""
+      },
+      {
+       "c": "休",
+       "hun": "쉴",
+       "eum": "휴",
+       "en": "rest"
+      }
+     ]
+    },
+    {
+     "ko": "따르다",
+     "hanja": "",
+     "en": "to follow; to pour",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "위하다",
+     "hanja": "",
+     "en": "to help, to serve, to benefit; to honour, to esteem; to do for the sake of / for the purpose of",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "되다",
+     "hanja": "",
+     "en": "to become; to come, to arrive",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "공개",
+     "hanja": "公開",
+     "en": "Opening to the public; announcement; disclosure",
+     "grade": "",
+     "pos": "",
+     "example": "교제 사실 알려질까 中유학생 살해…후배 김다현 공개 저격한 심수봉 “실언했다” 사과 [주간사건일지]",
+     "chars": [
+      {
+       "c": "公",
+       "hun": "공평할",
+       "eum": "공",
+       "en": "fair; public"
+      },
+      {
+       "c": "開",
+       "hun": "열",
+       "eum": "개",
+       "en": "open"
+      }
+     ]
+    },
+    {
+     "ko": "없다",
+     "hanja": "",
+     "en": "to have none; (to be) lacking; (to be) nonexistent; to die",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "늘다",
+     "hanja": "",
+     "en": "to increase; to improve, to advance, to become better",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [
+     {
+      "ko": "물리학",
+      "hanja": "物理學",
+      "en": "physics",
+      "grade": "",
+      "example": "물리학(한국 한자: 物理學, 영어: physics)은 물질과 그것의 시공간에서의 운동, 그리고 그것과 관련된 에너지나 힘 등을 연구하는 자연과학의 한 분야이다.",
+      "source": "물리학",
+      "chars": [
+       {
+        "c": "物",
+        "hun": "물건",
+        "eum": "물",
+        "en": "thing"
+       },
+       {
+        "c": "理",
+        "hun": "다스릴",
+        "eum": "리",
+        "en": "reason, principle"
+       },
+       {
+        "c": "學",
+        "hun": "배울",
+        "eum": "학",
+        "en": "learn"
+       }
+      ]
+     },
+     {
+      "ko": "분야",
+      "hanja": "分野",
+      "en": "sector; field of business or study",
+      "grade": "",
+      "example": "물리학(한국 한자: 物理學, 영어: physics)은 물질과 그것의 시공간에서의 운동, 그리고 그것과 관련된 에너지나 힘 등을 연구하는 자연과학의 한 분야이다.",
+      "source": "물리학",
+      "chars": [
+       {
+        "c": "分",
+        "hun": "나눌",
+        "eum": "분",
+        "en": "divide; minute"
+       },
+       {
+        "c": "野",
+        "hun": "들",
+        "eum": "야",
+        "en": ""
+       }
+      ]
+     },
+     {
+      "ko": "세기",
+      "hanja": "世紀",
+      "en": "century",
+      "grade": "",
+      "example": "그러나 20세기 초, 원자·분자·소립자 등 미시세계를 다루는 양자역학이 발달하면서 자연 현상의 예측에는 본질적으로 불확실성이 있음이 알려졌다.",
+      "source": "물리학",
+      "chars": [
+       {
+        "c": "世",
+        "hun": "인간",
+        "eum": "세",
+        "en": "world; generation"
+       },
+       {
+        "c": "紀",
+        "hun": "벼리",
+        "eum": "기",
+        "en": ""
+       }
+      ]
+     }
+    ],
+    "engineering": [
+     {
+      "ko": "사용",
+      "hanja": "使用",
+      "en": "usage in order to fulfill a purpose or role",
+      "grade": "",
+      "example": "동시에 ‘engine’은 ‘전쟁에 사용되는 기계장치’, 즉, 무기라는 의미가 있었다.",
+      "source": "공학",
+      "chars": [
+       {
+        "c": "使",
+        "hun": "부릴",
+        "eum": "사",
+        "en": ""
+       },
+       {
+        "c": "用",
+        "hun": "쓸",
+        "eum": "용",
+        "en": "use"
+       }
+      ]
+     },
+     {
+      "ko": "연구",
+      "hanja": "硏究",
+      "en": "research",
+      "grade": "",
+      "example": "반면, 과학적 기초를 닦는 연구는 이론 물리학과 실험을 결합하는 것으로 행해졌다.",
+      "source": "공학",
+      "chars": [
+       {
+        "c": "硏",
+        "hun": "",
+        "eum": "",
+        "en": ""
+       },
+       {
+        "c": "究",
+        "hun": "",
+        "eum": "",
+        "en": ""
+       }
+      ]
+     }
+    ],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  }
+ ]
+}
