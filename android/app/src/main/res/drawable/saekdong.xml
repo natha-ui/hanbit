@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 색동: the rainbow stripes of a hanbok sleeve -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="26dp" android:height="5dp" android:viewportWidth="26" android:viewportHeight="5">
+    <clip-path android:pathData="M2.5,0 L23.5,0 A2.5,2.5 0 0,1 23.5,5 L2.5,5 A2.5,2.5 0 0,1 2.5,0 Z" />
+    <path android:fillColor="#C23B2C" android:pathData="M0,0 L5.4,0 L5.4,5 L0,5 Z" />
+    <path android:fillColor="#E2B45A" android:pathData="M5.2,0 L10.6,0 L10.6,5 L5.2,5 Z" />
+    <path android:fillColor="#8DB85A" android:pathData="M10.4,0 L15.8,0 L15.8,5 L10.4,5 Z" />
+    <path android:fillColor="#27405F" android:pathData="M15.6,0 L21,0 L21,5 L15.6,5 Z" />
+    <path android:fillColor="#E48BA0" android:pathData="M20.8,0 L26,0 L26,5 L20.8,5 Z" />
+</vector>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">한빛 학당</string>
+    <string name="widget_name">오늘의 단어</string>
+    <string name="cover_widget_name">오늘의 단어 (cover screen)</string>
+    <string name="widget_desc">Today\'s Korean word with its hanja</string>
+</resources>

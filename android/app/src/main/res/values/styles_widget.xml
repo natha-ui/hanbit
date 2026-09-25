@@ -1,0 +1,10 @@
+<resources>
+    <!-- Soft shadow keeps white text readable on light wallpapers -->
+    <style name="WidgetText">
+        <item name="android:shadowColor">#73000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">3</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>

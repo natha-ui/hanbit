@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Three magpies (까치) flying toward the tiger -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp" android:height="60dp" android:viewportWidth="120" android:viewportHeight="60">
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M19,22 C21,28 24,33 30,36 C29,33 29,30.5 30,29 C28,28.5 27,26 27,23 Z" android:fillColor="#2E333B" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M23.5,27.5 C25,30.5 27,33 29.6,34.8 C29,32.6 29,30.8 29.8,29.4 C27.8,29.2 25.6,28.6 23.5,27.5 Z" android:fillColor="#F4F1EA" />
+    </group>
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M29,20 C38,21 48,23.5 58,27.5 C57,29.5 55,30 53,29.6 C45,28 37,26 29,24 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M38,23.2 C44,24.4 50,26 55.6,28.2" android:strokeColor="#3E6E78" android:strokeWidth="0.9" android:strokeLineCap="round" />
+    </group>
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M6.5,19.5 C7,15.8 10.5,14 14,14.6 C20,14.6 27,17 31,21 C28,25 21,26.5 15,25 C10.5,24 7,22.5 6.5,19.5 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M15,22.2 C19,25.6 25,25.6 30,22.8 C27,21 20,20.6 15,22.2 Z" android:fillColor="#F4F1EA" />
+    </group>
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M6.8,18.8 L2.4,19.6 L6.9,20.4 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M16,17 C16,10 20,3 29,0.5 C31,2 31.5,4 30.5,5.5 C33,6 33.5,8 32,9.5 C33.5,11 33,13 31,13.5 C30,16 28,18 26,19 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M22.5,7 C24.5,4 27,2.2 29.5,1.4 C31,3 31,4.6 30.2,5.8 C32.4,6.4 32.8,8.2 31.6,9.4 C28.5,9.6 25,8.8 22.5,7 Z" android:fillColor="#F4F1EA" />
+    </group>
+    <group android:translateX="56" android:translateY="2" android:scaleX="0.95" android:scaleY="0.95">
+        <path android:pathData="M18.6,12.5 C20.5,8.8 23.5,5.8 27,3.8" android:strokeColor="#3E6E78" android:strokeWidth="0.9" android:strokeLineCap="round" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M19,22 C21,28 24,33 30,36 C29,33 29,30.5 30,29 C28,28.5 27,26 27,23 Z" android:fillColor="#2E333B" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M23.5,27.5 C25,30.5 27,33 29.6,34.8 C29,32.6 29,30.8 29.8,29.4 C27.8,29.2 25.6,28.6 23.5,27.5 Z" android:fillColor="#F4F1EA" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M29,20 C38,21 48,23.5 58,27.5 C57,29.5 55,30 53,29.6 C45,28 37,26 29,24 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M38,23.2 C44,24.4 50,26 55.6,28.2" android:strokeColor="#3E6E78" android:strokeWidth="0.9" android:strokeLineCap="round" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M6.5,19.5 C7,15.8 10.5,14 14,14.6 C20,14.6 27,17 31,21 C28,25 21,26.5 15,25 C10.5,24 7,22.5 6.5,19.5 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M15,22.2 C19,25.6 25,25.6 30,22.8 C27,21 20,20.6 15,22.2 Z" android:fillColor="#F4F1EA" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M6.8,18.8 L2.4,19.6 L6.9,20.4 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M16,17 C16,10 20,3 29,0.5 C31,2 31.5,4 30.5,5.5 C33,6 33.5,8 32,9.5 C33.5,11 33,13 31,13.5 C30,16 28,18 26,19 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M22.5,7 C24.5,4 27,2.2 29.5,1.4 C31,3 31,4.6 30.2,5.8 C32.4,6.4 32.8,8.2 31.6,9.4 C28.5,9.6 25,8.8 22.5,7 Z" android:fillColor="#F4F1EA" />
+    </group>
+    <group android:translateX="22" android:translateY="20" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M18.6,12.5 C20.5,8.8 23.5,5.8 27,3.8" android:strokeColor="#3E6E78" android:strokeWidth="0.9" android:strokeLineCap="round" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M19,22 C21,28 24,33 30,36 C29,33 29,30.5 30,29 C28,28.5 27,26 27,23 Z" android:fillColor="#2E333B" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M23.5,27.5 C25,30.5 27,33 29.6,34.8 C29,32.6 29,30.8 29.8,29.4 C27.8,29.2 25.6,28.6 23.5,27.5 Z" android:fillColor="#F4F1EA" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M29,20 C38,21 48,23.5 58,27.5 C57,29.5 55,30 53,29.6 C45,28 37,26 29,24 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M38,23.2 C44,24.4 50,26 55.6,28.2" android:strokeColor="#3E6E78" android:strokeWidth="0.9" android:strokeLineCap="round" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M6.5,19.5 C7,15.8 10.5,14 14,14.6 C20,14.6 27,17 31,21 C28,25 21,26.5 15,25 C10.5,24 7,22.5 6.5,19.5 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M15,22.2 C19,25.6 25,25.6 30,22.8 C27,21 20,20.6 15,22.2 Z" android:fillColor="#F4F1EA" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M6.8,18.8 L2.4,19.6 L6.9,20.4 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M16,17 C16,10 20,3 29,0.5 C31,2 31.5,4 30.5,5.5 C33,6 33.5,8 32,9.5 C33.5,11 33,13 31,13.5 C30,16 28,18 26,19 Z" android:fillColor="#1B1E23" android:strokeColor="#F6F0E1" android:strokeAlpha="0.35" android:strokeWidth="0.6" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M22.5,7 C24.5,4 27,2.2 29.5,1.4 C31,3 31,4.6 30.2,5.8 C32.4,6.4 32.8,8.2 31.6,9.4 C28.5,9.6 25,8.8 22.5,7 Z" android:fillColor="#F4F1EA" />
+    </group>
+    <group android:translateX="88" android:translateY="34" android:scaleX="0.45" android:scaleY="0.45">
+        <path android:pathData="M18.6,12.5 C20.5,8.8 23.5,5.8 27,3.8" android:strokeColor="#3E6E78" android:strokeWidth="0.9" android:strokeLineCap="round" />
+    </group>
+</vector>
