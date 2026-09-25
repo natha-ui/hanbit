@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T00:44:24Z",
+ "generated": "2026-09-25T23:27:43Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -229,6 +229,122 @@
       ]
      }
     ],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-09-26",
+   "topics": [
+    "날씨",
+    "뉴스",
+    "weather",
+    "앤트로픽",
+    "유시민",
+    "노윤서",
+    "vix",
+    "погода",
+    "สภาพอากาศ"
+   ],
+   "words": [
+    {
+     "ko": "밝히다",
+     "hanja": "",
+     "en": "to make bright, light up, brighten, illuminate; to make clear, reveal, disclose, uncover",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "대표",
+     "hanja": "代表",
+     "en": "something which is representative; representative",
+     "grade": "",
+     "pos": "",
+     "example": "(부산=연합뉴스) 김선호 기자 = 부산 대표 관광지인 중구 자갈치현대화시장 상인의 20년 무상사용 기간이 다음 달 말 종료된다.",
+     "chars": [
+      {
+       "c": "代",
+       "hun": "대신할",
+       "eum": "대",
+       "en": "replace; era"
+      },
+      {
+       "c": "表",
+       "hun": "겉",
+       "eum": "표",
+       "en": "surface; show"
+      }
+     ]
+    },
+    {
+     "ko": "호우",
+     "hanja": "豪雨",
+     "en": "downpour; heavy rain",
+     "grade": "",
+     "pos": "",
+     "example": "제주도산지 등 3곳 호우·강풍주의보",
+     "chars": [
+      {
+       "c": "豪",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "雨",
+       "hun": "비",
+       "eum": "우",
+       "en": "rain"
+      }
+     ]
+    },
+    {
+     "ko": "지난해",
+     "hanja": "",
+     "en": "the previous year",
+     "grade": "",
+     "pos": "",
+     "example": "(서울=연합뉴스) 김윤구 기자 = 올해 들어 고유가로 여행심리가 위축됐는데도 국제선 항공 여객이 지난해보다 약 10% 증가한 것으로 나타났다.",
+     "chars": []
+    },
+    {
+     "ko": "나타나다",
+     "hanja": "",
+     "en": "to appear, to become manifest",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "있다",
+     "hanja": "",
+     "en": "to stay, remain in a location; for time to pass",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "열리다",
+     "hanja": "",
+     "en": "to open, to be opened; to ripen",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
     "business": [],
     "culture": [],
     "philosophy": [],
