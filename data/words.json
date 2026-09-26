@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T23:27:43Z",
+ "generated": "2026-09-26T23:06:31Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -334,6 +334,148 @@
      "ko": "열리다",
      "hanja": "",
      "en": "to open, to be opened; to ripen",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-09-27",
+   "topics": [
+    "왕 즈이",
+    "운수",
+    "예금",
+    "복권",
+    "육상 경기",
+    "100일의 거짓말",
+    "심수봉",
+    "대통령",
+    "빌 게이츠"
+   ],
+   "words": [
+    {
+     "ko": "게임",
+     "hanja": "",
+     "en": "game, especially computer games",
+     "grade": "",
+     "pos": "",
+     "example": "(도요하시[일본]=연합뉴스) 김경윤 기자 = 같은 꿈을 꾸며 함께 땀을 흘렸던 고교 선후배가 아시안게임에서 상대 팀 선수로 다시 만났다.",
+     "chars": []
+    },
+    {
+     "ko": "경기",
+     "hanja": "競技",
+     "en": "a sporting or athletic competition or match; capital city and its surrounding area",
+     "grade": "",
+     "pos": "",
+     "example": "[아시안게임] 황당한 '1일 2경기' 일정에 안세영도 갸웃…\"이런 경우 처음\"",
+     "chars": [
+      {
+       "c": "競",
+       "hun": "다툴",
+       "eum": "경",
+       "en": "compete"
+      },
+      {
+       "c": "技",
+       "hun": "재주",
+       "eum": "기",
+       "en": "skill"
+      }
+     ]
+    },
+    {
+     "ko": "결승",
+     "hanja": "決勝",
+     "en": "final; the last round of a game or competition to determine the winner",
+     "grade": "",
+     "pos": "",
+     "example": "\"밥이 너무 부실해\" 불만 터뜨린 韓 미녀 스프린터, 준결승 탈락에도 日 사로잡았다 \"말을 잃을 정도 미모\"",
+     "chars": [
+      {
+       "c": "決",
+       "hun": "결단할",
+       "eum": "결",
+       "en": ""
+      },
+      {
+       "c": "勝",
+       "hun": "이길",
+       "eum": "승",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "정상",
+     "hanja": "正常",
+     "en": "normality; peak; apex",
+     "grade": "",
+     "pos": "",
+     "example": "[뉴욕증시-주간전망] 美中 정상회담 세부 결과는…물가·고용 지표 '촉각'",
+     "chars": [
+      {
+       "c": "正",
+       "hun": "바를",
+       "eum": "정",
+       "en": "right, correct"
+      },
+      {
+       "c": "常",
+       "hun": "떳떳할",
+       "eum": "상",
+       "en": "constant, usual"
+      }
+     ]
+    },
+    {
+     "ko": "넘다",
+     "hanja": "",
+     "en": "to exceed, to surpass, to go beyond; to jump/climb (over), to go over, to go across",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "야구",
+     "hanja": "野球",
+     "en": "baseball",
+     "grade": "",
+     "pos": "",
+     "example": "밤 10시 넘었는데…로또 추첨, 아시안게임 야구 경기로 지연 - 머니투데이",
+     "chars": [
+      {
+       "c": "野",
+       "hun": "들",
+       "eum": "야",
+       "en": ""
+      },
+      {
+       "c": "球",
+       "hun": "공",
+       "eum": "구",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "대하다",
+     "hanja": "",
+     "en": "to pertain or relate to a topic; to greet or respond to",
      "grade": "",
      "pos": "",
      "example": "",
