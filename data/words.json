@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T23:06:31Z",
+ "generated": "2026-09-27T23:19:56Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -480,6 +480,143 @@
      "pos": "",
      "example": "",
      "chars": []
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-09-28",
+   "topics": [
+    "식중독",
+    "권상우",
+    "엔비디아",
+    "weather",
+    "차범근",
+    "김량하",
+    "퇴직",
+    "청원",
+    "이슬람 혁명 수비대"
+   ],
+   "words": [
+    {
+     "ko": "현지",
+     "hanja": "現地",
+     "en": "local",
+     "grade": "",
+     "pos": "",
+     "example": "[아프리카 녹색전환] ②\"소리 없이 바뀐다\"…현지서 본 전기차 혁명",
+     "chars": [
+      {
+       "c": "現",
+       "hun": "나타날",
+       "eum": "현",
+       "en": "appear; present"
+      },
+      {
+       "c": "地",
+       "hun": "땅",
+       "eum": "지",
+       "en": "earth, land"
+      }
+     ]
+    },
+    {
+     "ko": "시설",
+     "hanja": "施設",
+     "en": "facilities; establishment",
+     "grade": "",
+     "pos": "",
+     "example": "대구광역시, 다중이용시설 135곳 위생점검...식중독균 검사 병행",
+     "chars": [
+      {
+       "c": "施",
+       "hun": "베풀",
+       "eum": "시",
+       "en": ""
+      },
+      {
+       "c": "設",
+       "hun": "베풀",
+       "eum": "설",
+       "en": "set up"
+      }
+     ]
+    },
+    {
+     "ko": "논의",
+     "hanja": "論議",
+     "en": "discussion",
+     "grade": "",
+     "pos": "",
+     "example": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의",
+     "chars": [
+      {
+       "c": "論",
+       "hun": "논할",
+       "eum": "론",
+       "en": "discuss"
+      },
+      {
+       "c": "議",
+       "hun": "의논할",
+       "eum": "의",
+       "en": "discuss"
+      }
+     ]
+    },
+    {
+     "ko": "축구",
+     "hanja": "蹴球",
+     "en": "football,  soccer",
+     "grade": "",
+     "pos": "",
+     "example": "손태영, ♥권상우 닮은 '훈남 아들' 앞길 걱정..\"고3인데 축구 올인\" 한숨 - 조선비즈",
+     "chars": [
+      {
+       "c": "蹴",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "球",
+       "hun": "공",
+       "eum": "구",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "지원",
+     "hanja": "支援",
+     "en": "support; aid; application",
+     "grade": "",
+     "pos": "",
+     "example": "“재수는 꿈도 꾸지말자” 확 바뀌는 내년 수능…수험생 10명 중 8명 수시 지원 영향 [세상&]",
+     "chars": [
+      {
+       "c": "支",
+       "hun": "지탱할",
+       "eum": "지",
+       "en": ""
+      },
+      {
+       "c": "援",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
     }
    ],
    "stories": [],
