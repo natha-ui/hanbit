@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T00:30:18Z",
+ "generated": "2026-09-29T23:56:17Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -891,6 +891,270 @@
     }
    ],
    "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-09-30",
+   "topics": [
+    "연애전쟁",
+    "송은이",
+    "오픈ai",
+    "한화 이글스",
+    "국군의 날",
+    "2026년 국군의날 공휴일 지정 되나",
+    "우서윤",
+    "สภาพอากาศ",
+    "잠실주공5단지 아파트",
+    "날씨"
+   ],
+   "words": [
+    {
+     "ko": "지뢰",
+     "hanja": "地雷",
+     "en": "land mine; Certain works, characters, organizations, and parties that a particular individual (mainly a speaker) dislike",
+     "grade": "",
+     "pos": "",
+     "example": "▲ 경향신문 = \"북 지뢰, 유실 아닌 매설\"…현장서 1발 추가 발견",
+     "chars": [
+      {
+       "c": "地",
+       "hun": "땅",
+       "eum": "지",
+       "en": "earth, land"
+      },
+      {
+       "c": "雷",
+       "hun": "우레",
+       "eum": "뢰",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "사업",
+     "hanja": "事業",
+     "en": "business; project",
+     "grade": "",
+     "pos": "",
+     "example": "■ \"트럼프, 이르면 30일 알래스카 LNG사업에 韓투자 발표 가능성\"",
+     "chars": [
+      {
+       "c": "事",
+       "hun": "일",
+       "eum": "사",
+       "en": "matter, affair"
+      },
+      {
+       "c": "業",
+       "hun": "업",
+       "eum": "업",
+       "en": "work, business"
+      }
+     ]
+    },
+    {
+     "ko": "오픈",
+     "hanja": "",
+     "en": "open",
+     "grade": "",
+     "pos": "",
+     "example": "오픈AI '학습 중단' 파장…광통신·반도체 등 AI 인프라주 급락",
+     "chars": []
+    },
+    {
+     "ko": "가능",
+     "hanja": "可能",
+     "en": "possibility; potentiality",
+     "grade": "",
+     "pos": "",
+     "example": "■ \"트럼프, 이르면 30일 알래스카 LNG사업에 韓투자 발표 가능성\"",
+     "chars": [
+      {
+       "c": "可",
+       "hun": "옳을",
+       "eum": "가",
+       "en": ""
+      },
+      {
+       "c": "能",
+       "hun": "능할",
+       "eum": "능",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "맑다",
+     "hanja": "",
+     "en": "(air, water, material) to be clear, clean, fresh, pure, limpid, transparent; (sky, weather) to be clear, fine, sunny",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "공군",
+     "hanja": "空軍",
+     "en": "air force",
+     "grade": "",
+     "pos": "",
+     "example": "공군사관학교 관사서 부사관 숨진 채 발견…군 당국 수사",
+     "chars": [
+      {
+       "c": "空",
+       "hun": "빌",
+       "eum": "공",
+       "en": "empty; sky"
+      },
+      {
+       "c": "軍",
+       "hun": "군사",
+       "eum": "군",
+       "en": "army, soldier"
+      }
+     ]
+    },
+    {
+     "ko": "증권",
+     "hanja": "證券",
+     "en": "security",
+     "grade": "",
+     "pos": "",
+     "example": "하나증권 \"LX인터내셔널, 3분기 실적 기대치 상회 전망\"",
+     "chars": [
+      {
+       "c": "證",
+       "hun": "증거",
+       "eum": "증",
+       "en": "proof"
+      },
+      {
+       "c": "券",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "강화",
+     "hanja": "",
+     "en": "strengthening, reinforcement, intensification ; consolidation; enchanting or levelling up an item",
+     "grade": "",
+     "pos": "",
+     "example": "\"오픈AI, 직원들 '보안 강화' 경고 있었지만 무시\"",
+     "chars": []
+    },
+    {
+     "ko": "선수",
+     "hanja": "選手",
+     "en": "athlete; sportsman; a person who participates in a sport",
+     "grade": "",
+     "pos": "",
+     "example": "'153km 흙속의 진주' 한화 유니폼 입는다…육성선수 입단 합의, 드래프트 미지명→프로행 기적 또 탄생",
+     "chars": [
+      {
+       "c": "選",
+       "hun": "가릴",
+       "eum": "선",
+       "en": ""
+      },
+      {
+       "c": "手",
+       "hun": "손",
+       "eum": "수",
+       "en": "hand"
+      }
+     ]
+    }
+   ],
+   "stories": [
+    {
+     "title": "한화 이글스",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "한화 이글스(영어: Hanwha Eagles)는 대한민국의 대전광역시를 연고지로 하는 KBO 소속 프로야구단이다.",
+       ""
+      ],
+      [
+       "2025년부터 대전 한화생명 볼파크를 홈구장으로 사용하며, 관람석 규모는 20,007석이다.",
+       ""
+      ],
+      [
+       "퓨처스 구장은 충청남도 서산시 성연면의 서산야구장이다.",
+       ""
+      ],
+      [
+       "현재와 같은 지역을 연고지로 1986년 3월 8일에 빙그레 이글스라는 이름으로 창단되었다.",
+       ""
+      ]
+     ],
+     "vocab": [
+      [
+       "광역시",
+       "廣域市",
+       "metropolitan city"
+      ],
+      [
+       "연고지",
+       "緣故地",
+       "place a person or group has close ties to (e.g. a past hometown for a person)"
+      ]
+     ],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%99%94_%EC%9D%B4%EA%B8%80%EC%8A%A4",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": [
+      {
+       "c": "廣",
+       "hun": "넓을",
+       "eum": "광",
+       "en": "wide"
+      },
+      {
+       "c": "域",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "市",
+       "hun": "저자",
+       "eum": "시",
+       "en": "market; city"
+      },
+      {
+       "c": "緣",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "故",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "地",
+       "hun": "땅",
+       "eum": "지",
+       "en": "earth, land"
+      }
+     ]
+    }
+   ],
    "subjects": {
     "math": [],
     "science": [],
