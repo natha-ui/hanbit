@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T23:19:56Z",
+ "generated": "2026-09-29T00:30:18Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -612,6 +612,277 @@
       },
       {
        "c": "援",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-09-29",
+   "topics": [
+    "sl vs nep",
+    "재산",
+    "창신메모리테크놀로지",
+    "대학",
+    "골프",
+    "수익률",
+    "놀면 뭐하니?",
+    "핑클",
+    "전설 의 사내",
+    "‘전설의사내’ 빈예서·성리 듀엣"
+   ],
+   "words": [
+    {
+     "ko": "골프",
+     "hanja": "",
+     "en": "golf",
+     "grade": "",
+     "pos": "",
+     "example": "여자골프 전설 박인비, 세계골프 명예의 전당 최종 후보",
+     "chars": []
+    },
+    {
+     "ko": "재산",
+     "hanja": "財産",
+     "en": "public or private property; monetary assets",
+     "grade": "",
+     "pos": "",
+     "example": "김상욱 울산시장 재산, 반년 새 31억 늘어 50억",
+     "chars": [
+      {
+       "c": "財",
+       "hun": "재물",
+       "eum": "재",
+       "en": "wealth"
+      },
+      {
+       "c": "産",
+       "hun": "낳을",
+       "eum": "산",
+       "en": "produce"
+      }
+     ]
+    },
+    {
+     "ko": "지능",
+     "hanja": "知能",
+     "en": "intelligence",
+     "grade": "",
+     "pos": "",
+     "example": "(서울=연합뉴스) 임순현 기자 = 멕시코 방송사들이 다큐멘터리를 통해 한국 문화와 인공지능(AI)을 조명했다.",
+     "chars": [
+      {
+       "c": "知",
+       "hun": "알",
+       "eum": "지",
+       "en": "know"
+      },
+      {
+       "c": "能",
+       "hun": "능할",
+       "eum": "능",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "전설",
+     "hanja": "傳說",
+     "en": "legend",
+     "grade": "",
+     "pos": "",
+     "example": "여자골프 전설 박인비, 세계골프 명예의 전당 최종 후보",
+     "chars": [
+      {
+       "c": "傳",
+       "hun": "전할",
+       "eum": "전",
+       "en": "pass on"
+      },
+      {
+       "c": "說",
+       "hun": "말씀",
+       "eum": "설",
+       "en": "explain; theory"
+      }
+     ]
+    },
+    {
+     "ko": "글로벌",
+     "hanja": "",
+     "en": "being global",
+     "grade": "",
+     "pos": "",
+     "example": "브레이크 없는 美 국채…\"전쟁 끝나도 안 돌아갈 것\" [글로벌 뉴스픽]",
+     "chars": []
+    },
+    {
+     "ko": "날씨",
+     "hanja": "",
+     "en": "weather",
+     "grade": "",
+     "pos": "",
+     "example": "[날씨] 동해안 중심 비…모레부터 기온 '뚝'",
+     "chars": []
+    },
+    {
+     "ko": "추진",
+     "hanja": "推進",
+     "en": "promotion, thrust, driving force, propulsion",
+     "grade": "",
+     "pos": "",
+     "example": "日도쿄대 첫 여성 총장 선출…개혁·국제화 추진 전망",
+     "chars": [
+      {
+       "c": "推",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "進",
+       "hun": "나아갈",
+       "eum": "진",
+       "en": "advance"
+      }
+     ]
+    },
+    {
+     "ko": "폭발",
+     "hanja": "爆發",
+     "en": "explosion",
+     "grade": "",
+     "pos": "",
+     "example": "▲ 경향신문 = \"DMZ 폭발, 북 지뢰 가능성 매우 높아\"",
+     "chars": [
+      {
+       "c": "爆",
+       "hun": "터질",
+       "eum": "폭",
+       "en": ""
+      },
+      {
+       "c": "發",
+       "hun": "필",
+       "eum": "발",
+       "en": "bloom; set off"
+      }
+     ]
+    },
+    {
+     "ko": "이어지다",
+     "hanja": "",
+     "en": "to continue, for one thing to follow another; to be connected",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "메모리",
+     "hanja": "",
+     "en": "memory",
+     "grade": "",
+     "pos": "",
+     "example": "창신메모리테크놀로지",
+     "chars": []
+    },
+    {
+     "ko": "고가",
+     "hanja": "高價",
+     "en": "high price; elevated; overhead",
+     "grade": "",
+     "pos": "",
+     "example": "\"대학 품은 단지가 대세\"...대학 인근 아파트 신고가 행진",
+     "chars": [
+      {
+       "c": "高",
+       "hun": "높을",
+       "eum": "고",
+       "en": "high"
+      },
+      {
+       "c": "價",
+       "hun": "값",
+       "eum": "가",
+       "en": "price"
+      }
+     ]
+    },
+    {
+     "ko": "행진",
+     "hanja": "行進",
+     "en": "march; parade",
+     "grade": "",
+     "pos": "",
+     "example": "\"대학 품은 단지가 대세\"...대학 인근 아파트 신고가 행진",
+     "chars": [
+      {
+       "c": "行",
+       "hun": "다닐",
+       "eum": "행",
+       "en": "go, act"
+      },
+      {
+       "c": "進",
+       "hun": "나아갈",
+       "eum": "진",
+       "en": "advance"
+      }
+     ]
+    },
+    {
+     "ko": "도전",
+     "hanja": "挑戰",
+     "en": "challenge; difficulty",
+     "grade": "",
+     "pos": "",
+     "example": "박인비, 세계 골프 명예의 전당 최종 후보…LPGA 이어 10년 만에 입성 도전",
+     "chars": [
+      {
+       "c": "挑",
+       "hun": "돋울",
+       "eum": "도",
+       "en": ""
+      },
+      {
+       "c": "戰",
+       "hun": "싸움",
+       "eum": "전",
+       "en": "war"
+      }
+     ]
+    },
+    {
+     "ko": "상승",
+     "hanja": "上昇",
+     "en": "rise, increase",
+     "grade": "",
+     "pos": "",
+     "example": "미·이란 대치 속 美국채금리 또 상승…뉴욕증시 하락(종합)",
+     "chars": [
+      {
+       "c": "上",
+       "hun": "윗",
+       "eum": "상",
+       "en": "up, above"
+      },
+      {
+       "c": "昇",
        "hun": "",
        "eum": "",
        "en": ""
