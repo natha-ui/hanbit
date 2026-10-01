@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T23:56:17Z",
+ "generated": "2026-10-01T00:06:59Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -1155,6 +1155,96 @@
      ]
     }
    ],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-01",
+   "topics": [
+    "웨스팅하우스",
+    "쓰레기봉투",
+    "최유빈",
+    "이상순",
+    "토트넘 홋스퍼 fc",
+    "이옥섭",
+    "분리수거",
+    "이영표",
+    "gemini 4",
+    "신승호"
+   ],
+   "words": [
+    {
+     "ko": "연속",
+     "hanja": "連續",
+     "en": "continuation; succession",
+     "grade": "",
+     "pos": "",
+     "example": "\"한국전 분한 마음 쏟고 싶다\" 日 감독, 출사표 던졌다!...'또 너냐' 3연속 결승 한일전→항저우 패배 설욕 다짐",
+     "chars": [
+      {
+       "c": "連",
+       "hun": "잇닿을",
+       "eum": "련",
+       "en": ""
+      },
+      {
+       "c": "續",
+       "hun": "이을",
+       "eum": "속",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "봉투",
+     "hanja": "封套",
+     "en": "envelope (wrapper for mailing); bag, sack",
+     "grade": "",
+     "pos": "",
+     "example": "“종량제 봉투 아끼려면?”…페트병 압착·상자 접어 분리배출",
+     "chars": [
+      {
+       "c": "封",
+       "hun": "봉할",
+       "eum": "봉",
+       "en": ""
+      },
+      {
+       "c": "套",
+       "hun": "씌울",
+       "eum": "투",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "계획",
+     "hanja": "",
+     "en": "a plan",
+     "grade": "",
+     "pos": "",
+     "example": "구교환♥이옥섭, 4년 전 이미 법적 부부…\"결혼식 계획 없다\" - 머니투데이",
+     "chars": []
+    },
+    {
+     "ko": "맞다",
+     "hanja": "",
+     "en": "to be correct, right; to suit (one's liking), to meet (one's wishes)",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    }
+   ],
+   "stories": [],
    "subjects": {
     "math": [],
     "science": [],
