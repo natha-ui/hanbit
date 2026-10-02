@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T00:06:59Z",
+ "generated": "2026-10-02T00:04:30Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -1242,6 +1242,224 @@
      "pos": "",
      "example": "",
      "chars": []
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-02",
+   "topics": [
+    "추성훈",
+    "콜레스테롤",
+    "패션",
+    "skhy",
+    "김지원",
+    "박성현",
+    "육군사관학교",
+    "제미 나이 4 아르곤",
+    "경제",
+    "■10월 2일 (금) 경제 캘린더"
+   ],
+   "words": [
+    {
+     "ko": "지나다",
+     "hanja": "",
+     "en": "to pass (by, beyond, through; also of time)",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "지난달",
+     "hanja": "",
+     "en": "last month",
+     "grade": "",
+     "pos": "",
+     "example": "(세종=연합뉴스) 이대희 김수현 송정은 기자 = 지난달 소비자물가 상승률이 다시 2%대로 내려왔다.",
+     "chars": []
+    },
+    {
+     "ko": "최고",
+     "hanja": "最高",
+     "en": "the peak, the pinnacle, the topmost point; the best",
+     "grade": "",
+     "pos": "",
+     "example": "한투증권 \"3분기 상장사 영업익 사상 최고 전망…증가율은 둔화\"",
+     "chars": [
+      {
+       "c": "最",
+       "hun": "가장",
+       "eum": "최",
+       "en": ""
+      },
+      {
+       "c": "高",
+       "hun": "높을",
+       "eum": "고",
+       "en": "high"
+      }
+     ]
+    },
+    {
+     "ko": "조사",
+     "hanja": "調査",
+     "en": "investigation; examination; particle; postposition",
+     "grade": "",
+     "pos": "",
+     "example": "[게시판] 로보락, 2026 고객만족도 조사서 2년 연속 1위",
+     "chars": [
+      {
+       "c": "調",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "査",
+       "hun": "조사할",
+       "eum": "사",
+       "en": "investigate"
+      }
+     ]
+    },
+    {
+     "ko": "보이다",
+     "hanja": "",
+     "en": "to be seen; to be visible",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "정책",
+     "hanja": "政策",
+     "en": "policy",
+     "grade": "",
+     "pos": "",
+     "example": "시민이 만드는 일자리사업…인천시, 정책아이디어 공모",
+     "chars": [
+      {
+       "c": "政",
+       "hun": "정사",
+       "eum": "정",
+       "en": ""
+      },
+      {
+       "c": "策",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "행사",
+     "hanja": "行事",
+     "en": "an event or observance; an action",
+     "grade": "",
+     "pos": "",
+     "example": "(서울=연합뉴스) 정수연 기자 = 신세계사이먼은 여주·파주·부산·시흥 프리미엄 아울렛에서 '슈퍼 골든 위크' 행사를 연다고 2일 밝혔다.",
+     "chars": [
+      {
+       "c": "行",
+       "hun": "다닐",
+       "eum": "행",
+       "en": "go, act"
+      },
+      {
+       "c": "事",
+       "hun": "일",
+       "eum": "사",
+       "en": "matter, affair"
+      }
+     ]
+    },
+    {
+     "ko": "앞두다",
+     "hanja": "",
+     "en": "To have lying ahead of one; to look toward",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "화재",
+     "hanja": "火災",
+     "en": "fire (as a disaster), blaze, conflagration",
+     "grade": "",
+     "pos": "",
+     "example": "\"호르무즈 해협 지나던 유조선, 피격에 화재…선원 무사\"",
+     "chars": [
+      {
+       "c": "火",
+       "hun": "불",
+       "eum": "화",
+       "en": "fire"
+      },
+      {
+       "c": "災",
+       "hun": "재앙",
+       "eum": "재",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "선거",
+     "hanja": "選擧",
+     "en": "election; any process to select an officer",
+     "grade": "",
+     "pos": "",
+     "example": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능”",
+     "chars": [
+      {
+       "c": "選",
+       "hun": "가릴",
+       "eum": "선",
+       "en": ""
+      },
+      {
+       "c": "擧",
+       "hun": "들",
+       "eum": "거",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "핵심",
+     "hanja": "核心",
+     "en": "Something which is central or of key importance; The top social class in North Korean society",
+     "grade": "",
+     "pos": "",
+     "example": "구글 제미나이 4 반격에도…월가 \"주가 가를 핵심은 '스파크'\"",
+     "chars": [
+      {
+       "c": "核",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "心",
+       "hun": "마음",
+       "eum": "심",
+       "en": "heart, mind"
+      }
+     ]
     }
    ],
    "stories": [],
