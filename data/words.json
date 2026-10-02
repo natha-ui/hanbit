@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T00:04:30Z",
+ "generated": "2026-10-02T23:58:33Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -1458,6 +1458,118 @@
        "hun": "마음",
        "eum": "심",
        "en": "heart, mind"
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-03",
+   "topics": [
+    "한화 이글스",
+    "7승 화이트, 한화 재계약 불발되나?",
+    "1박 2일",
+    "‘1박 2일’ 문세윤, 먹튀에 사과",
+    "김구라",
+    "문가영",
+    "[포토] 문가영 '이기적인 미모'",
+    "보그",
+    "경복궁",
+    "원자력"
+   ],
+   "words": [
+    {
+     "ko": "발사",
+     "hanja": "發射",
+     "en": "launch, discharge, fire, shoot",
+     "grade": "",
+     "pos": "",
+     "example": "[속보] 합참 \"北, 동해상으로 미상 발사체 발사\"",
+     "chars": [
+      {
+       "c": "發",
+       "hun": "필",
+       "eum": "발",
+       "en": "bloom; set off"
+      },
+      {
+       "c": "射",
+       "hun": "쏠",
+       "eum": "사",
+       "en": "shoot"
+      }
+     ]
+    },
+    {
+     "ko": "정보",
+     "hanja": "情報",
+     "en": "information",
+     "grade": "",
+     "pos": "",
+     "example": "도쿄전력, 미국 PSEG 뉴클리어와 원자력 분야 정보교환 협정 체결",
+     "chars": [
+      {
+       "c": "情",
+       "hun": "뜻",
+       "eum": "정",
+       "en": ""
+      },
+      {
+       "c": "報",
+       "hun": "알릴",
+       "eum": "보",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "아파트",
+     "hanja": "",
+     "en": "apartment building, block of flats; an apartment, a flat",
+     "grade": "",
+     "pos": "",
+     "example": "'김구라 아들' 그리 \"아파트 하나 사놨다\" 재산 공개 - 머니투데이",
+     "chars": []
+    },
+    {
+     "ko": "미사일",
+     "hanja": "",
+     "en": "missile",
+     "grade": "",
+     "pos": "",
+     "example": "北, 김여정 '남북대화 일축' 하루 뒤 동해로 탄도미사일(종합)",
+     "chars": []
+    },
+    {
+     "ko": "법원",
+     "hanja": "法院",
+     "en": "court (of law)",
+     "grade": "",
+     "pos": "",
+     "example": "만취상태로 예인선 오르던 선원 추락사…법원 \"직무상 재해\"",
+     "chars": [
+      {
+       "c": "法",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "院",
+       "hun": "집",
+       "eum": "원",
+       "en": "institution"
       }
      ]
     }
