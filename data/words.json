@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T23:58:33Z",
+ "generated": "2026-10-03T23:17:16Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -1570,6 +1570,277 @@
        "hun": "집",
        "eum": "원",
        "en": "institution"
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-04",
+   "topics": [
+    "날씨",
+    "선물",
+    "연금 개혁",
+    "하와이 화산 국립공원",
+    "기상",
+    "namibia vs uae",
+    "해리 케인",
+    "이동국",
+    "스타 가족 슬라이드",
+    "원자력 발전소"
+   ],
+   "words": [
+    {
+     "ko": "대회",
+     "hanja": "大會",
+     "en": "a competition, contest or tournament",
+     "grade": "",
+     "pos": "",
+     "example": "(나고야=연합뉴스) 오명언 기자 = 아시안게임 같은 종합 스포츠 대회는 굵직한 '스타'의 탄생을 알리고는 하는 화려한 무대다.",
+     "chars": [
+      {
+       "c": "大",
+       "hun": "큰",
+       "eum": "대",
+       "en": "big"
+      },
+      {
+       "c": "會",
+       "hun": "모일",
+       "eum": "회",
+       "en": "meet, gather"
+      }
+     ]
+    },
+    {
+     "ko": "미래",
+     "hanja": "未來",
+     "en": "the future",
+     "grade": "",
+     "pos": "",
+     "example": "\"국민연금 미적립부채 1450조…개혁 미루면 미래세대 부담\"",
+     "chars": [
+      {
+       "c": "未",
+       "hun": "아닐",
+       "eum": "미",
+       "en": "not yet"
+      },
+      {
+       "c": "來",
+       "hun": "올",
+       "eum": "래",
+       "en": "come"
+      }
+     ]
+    },
+    {
+     "ko": "금메달",
+     "hanja": "",
+     "en": "gold medal",
+     "grade": "",
+     "pos": "",
+     "example": "[아시안게임 결산] ①44년 만에 최소 금메달…'역대급 선전' 일본과 멀어진 격차",
+     "chars": []
+    },
+    {
+     "ko": "연금",
+     "hanja": "年金",
+     "en": "pension; annuity",
+     "grade": "",
+     "pos": "",
+     "example": "“부유한 노인도 받는다”…기초연금 ‘하위 70%’ 기준 개편 추진",
+     "chars": [
+      {
+       "c": "年",
+       "hun": "해",
+       "eum": "년",
+       "en": "year"
+      },
+      {
+       "c": "金",
+       "hun": "쇠",
+       "eum": "금",
+       "en": "metal; gold (also the surname 김)"
+      }
+     ]
+    },
+    {
+     "ko": "소음",
+     "hanja": "騷音",
+     "en": "noise; din",
+     "grade": "",
+     "pos": "",
+     "example": "층간소음 걱정했는데…“다 이해하니 편하게 살아라” 아래층 이웃 손편지",
+     "chars": [
+      {
+       "c": "騷",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "音",
+       "hun": "소리",
+       "eum": "음",
+       "en": "sound"
+      }
+     ]
+    },
+    {
+     "ko": "흐리다",
+     "hanja": "",
+     "en": "to be unclear, impure, turbid, muddy; to be cloudy, overcast",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "기준",
+     "hanja": "基準",
+     "en": "a fundamental standard or criterion",
+     "grade": "",
+     "pos": "",
+     "example": "“부유한 노인도 받는다”…기초연금 ‘하위 70%’ 기준 개편 추진",
+     "chars": [
+      {
+       "c": "基",
+       "hun": "터",
+       "eum": "기",
+       "en": ""
+      },
+      {
+       "c": "準",
+       "hun": "준할",
+       "eum": "준",
+       "en": "standard; level"
+      }
+     ]
+    },
+    {
+     "ko": "연패",
+     "hanja": "連敗",
+     "en": "consecutive losses; consecutive championships",
+     "grade": "",
+     "pos": "",
+     "example": "(서울=연합뉴스) 천병혁 기자 = 월드시리즈(WS) 3연패에 도전하는 로스앤젤레스 다저스가 가을야구 첫판을 승리로 장식했다.",
+     "chars": [
+      {
+       "c": "連",
+       "hun": "잇닿을",
+       "eum": "련",
+       "en": ""
+      },
+      {
+       "c": "敗",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "차지",
+     "hanja": "",
+     "en": "winning, taking possession of",
+     "grade": "",
+     "pos": "",
+     "example": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
+     "chars": []
+    },
+    {
+     "ko": "집행",
+     "hanja": "執行",
+     "en": "execution, implementation, carrying out; enforcement, compulsion",
+     "grade": "",
+     "pos": "",
+     "example": "'2차례 사형집행 시도 실패' 책임론에…美테네시 교정국장 사임",
+     "chars": [
+      {
+       "c": "執",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "行",
+       "hun": "다닐",
+       "eum": "행",
+       "en": "go, act"
+      }
+     ]
+    },
+    {
+     "ko": "선고",
+     "hanja": "宣告",
+     "en": "announcement; sentence",
+     "grade": "",
+     "pos": "",
+     "example": "尹부부 유무죄 엇갈린 '명태균 여론조사'…이번주 尹 2심 선고",
+     "chars": [
+      {
+       "c": "宣",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "告",
+       "hun": "고할",
+       "eum": "고",
+       "en": "tell, announce"
+      }
+     ]
+    },
+    {
+     "ko": "해킹",
+     "hanja": "",
+     "en": "hacking",
+     "grade": "",
+     "pos": "",
+     "example": "[AI해킹] ② AI가 해커 손에 들렸다…은행권 덮친 '해킹의 진화'",
+     "chars": []
+    },
+    {
+     "ko": "동메달",
+     "hanja": "",
+     "en": "bronze medal",
+     "grade": "",
+     "pos": "",
+     "example": "남자 하키, 동메달 결정전서 파키스탄에 역전패…4위 마감",
+     "chars": []
+    },
+    {
+     "ko": "기초",
+     "hanja": "基礎",
+     "en": "foundation, basis",
+     "grade": "",
+     "pos": "",
+     "example": "“부유한 노인도 받는다”…기초연금 ‘하위 70%’ 기준 개편 추진",
+     "chars": [
+      {
+       "c": "基",
+       "hun": "터",
+       "eum": "기",
+       "en": ""
+      },
+      {
+       "c": "礎",
+       "hun": "주춧돌",
+       "eum": "초",
+       "en": ""
       }
      ]
     }
