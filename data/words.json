@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T23:17:16Z",
+ "generated": "2026-10-04T23:31:27Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -1840,6 +1840,294 @@
        "c": "礎",
        "hun": "주춧돌",
        "eum": "초",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-05",
+   "topics": [
+    "나는 solo",
+    "임신",
+    "100일의 거짓말",
+    "조현아",
+    "초과근무",
+    "검사",
+    "비트코인",
+    "금",
+    "삼전 닉스",
+    "눈사태"
+   ],
+   "words": [
+    {
+     "ko": "확인",
+     "hanja": "確認",
+     "en": "check; confirmation; verification; affirmation",
+     "grade": "",
+     "pos": "",
+     "example": "평창군, 사회보장급여 정기확인조사…복지 사각지대도 살핀다",
+     "chars": [
+      {
+       "c": "確",
+       "hun": "굳을",
+       "eum": "확",
+       "en": "certain"
+      },
+      {
+       "c": "認",
+       "hun": "알",
+       "eum": "인",
+       "en": "recognise"
+      }
+     ]
+    },
+    {
+     "ko": "발생",
+     "hanja": "發生",
+     "en": "occurrence, incidence",
+     "grade": "",
+     "pos": "",
+     "example": "(고양=연합뉴스) 심민규 기자 = 경기 고양시 북한산 인수봉에서 암벽 등반을 하던 60대 여성이 추락해 숨지는 사고가 발생했다.",
+     "chars": [
+      {
+       "c": "發",
+       "hun": "필",
+       "eum": "발",
+       "en": "bloom; set off"
+      },
+      {
+       "c": "生",
+       "hun": "날",
+       "eum": "생",
+       "en": "be born; life"
+      }
+     ]
+    },
+    {
+     "ko": "기관",
+     "hanja": "機關",
+     "en": "engine; machine; agency",
+     "grade": "",
+     "pos": "",
+     "example": "[인터뷰] 앱토스 CEO \"미래 금융은 '온체인 경제'…韓서 기관 협업 기대\"",
+     "chars": [
+      {
+       "c": "機",
+       "hun": "틀",
+       "eum": "기",
+       "en": "machine"
+      },
+      {
+       "c": "關",
+       "hun": "빗장",
+       "eum": "관",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "규모",
+     "hanja": "規模",
+     "en": "scale or dimensions; framework",
+     "grade": "",
+     "pos": "",
+     "example": "국힘 유상범 \"새만금산단 4.4조 규모 사업, 계약해지·공사중단\"",
+     "chars": [
+      {
+       "c": "規",
+       "hun": "법",
+       "eum": "규",
+       "en": "rule"
+      },
+      {
+       "c": "模",
+       "hun": "본뜰",
+       "eum": "모",
+       "en": "copy, model"
+      }
+     ]
+    },
+    {
+     "ko": "모습",
+     "hanja": "",
+     "en": "the appearance of a person; surface appearance in general",
+     "grade": "",
+     "pos": "",
+     "example": "'식탐' 지적받은 '나는 솔로' 33기 영수 \"부족한 모습…개선하도록 노력\"",
+     "chars": []
+    },
+    {
+     "ko": "나오다",
+     "hanja": "",
+     "en": "to come out, come forth; to become apparent",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "관리",
+     "hanja": "管理",
+     "en": "administration, management, supervision; government official",
+     "grade": "",
+     "pos": "",
+     "example": "'이긴자로'였던 배성재 \"아내 김다영 관리 덕에 100kg→85kg 감량\"",
+     "chars": [
+      {
+       "c": "管",
+       "hun": "피리",
+       "eum": "관",
+       "en": ""
+      },
+      {
+       "c": "理",
+       "hun": "다스릴",
+       "eum": "리",
+       "en": "reason, principle"
+      }
+     ]
+    },
+    {
+     "ko": "추가",
+     "hanja": "追加",
+     "en": "addition",
+     "grade": "",
+     "pos": "",
+     "example": "Bitcoin, $87,188 저항선이 추가 상승을 제한하며 보합 거래",
+     "chars": [
+      {
+       "c": "追",
+       "hun": "쫓을",
+       "eum": "추",
+       "en": ""
+      },
+      {
+       "c": "加",
+       "hun": "더할",
+       "eum": "가",
+       "en": "add"
+      }
+     ]
+    },
+    {
+     "ko": "제한",
+     "hanja": "制限",
+     "en": "limit, restriction",
+     "grade": "",
+     "pos": "",
+     "example": "Bitcoin, $87,188 저항선이 추가 상승을 제한하며 보합 거래",
+     "chars": [
+      {
+       "c": "制",
+       "hun": "절제할",
+       "eum": "제",
+       "en": "control; system"
+      },
+      {
+       "c": "限",
+       "hun": "한할",
+       "eum": "한",
+       "en": "limit"
+      }
+     ]
+    },
+    {
+     "ko": "상장",
+     "hanja": "賞狀",
+     "en": "certificate of award; listing a company on a stock exchange",
+     "grade": "",
+     "pos": "",
+     "example": "미 SEC, 금·비트코인 등 일일 3배 ETP 상장 규칙 승인",
+     "chars": [
+      {
+       "c": "賞",
+       "hun": "상줄",
+       "eum": "상",
+       "en": "prize; appreciate"
+      },
+      {
+       "c": "狀",
+       "hun": "형상",
+       "eum": "상",
+       "en": "shape, state"
+      }
+     ]
+    },
+    {
+     "ko": "고수",
+     "hanja": "高手",
+     "en": "coriander/cilantro; gosu; highly skilled person",
+     "grade": "",
+     "pos": "",
+     "example": "어제는 순매도 1위 삼성전기, 오늘은 순매수 1위 [주식 초고수는 지금]",
+     "chars": [
+      {
+       "c": "高",
+       "hun": "높을",
+       "eum": "고",
+       "en": "high"
+      },
+      {
+       "c": "手",
+       "hun": "손",
+       "eum": "수",
+       "en": "hand"
+      }
+     ]
+    },
+    {
+     "ko": "사망",
+     "hanja": "死亡",
+     "en": "death",
+     "grade": "",
+     "pos": "",
+     "example": "남편과 함께 눈사태에 휩쓸려 홀로 사망…29세 스키 스타, 400m 밀려 1.5m 눈 속 매몰→끝내 목숨 잃었다",
+     "chars": [
+      {
+       "c": "死",
+       "hun": "죽을",
+       "eum": "사",
+       "en": ""
+      },
+      {
+       "c": "亡",
+       "hun": "망할",
+       "eum": "망",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "상태",
+     "hanja": "狀態",
+     "en": "condition, status",
+     "grade": "",
+     "pos": "",
+     "example": "엄홍길 “네팔 대홍수 한국인 실종자들 터널에 있지 않았고, 버스에 탑승한 상태였다”",
+     "chars": [
+      {
+       "c": "狀",
+       "hun": "형상",
+       "eum": "상",
+       "en": "shape, state"
+      },
+      {
+       "c": "態",
+       "hun": "",
+       "eum": "",
        "en": ""
       }
      ]
