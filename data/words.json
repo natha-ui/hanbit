@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T23:31:27Z",
+ "generated": "2026-10-06T01:24:14Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -1142,8 +1142,8 @@
       },
       {
        "c": "故",
-       "hun": "",
-       "eum": "",
+       "hun": "옛",
+       "eum": "고",
        "en": ""
       },
       {
@@ -2129,6 +2129,255 @@
        "hun": "",
        "eum": "",
        "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-06",
+   "topics": [
+    "성현주",
+    "우리은행",
+    "하나은행",
+    "클로드",
+    "엔화",
+    "1박 2일",
+    "이자",
+    "송강",
+    "유승민",
+    "백악관 대변인"
+   ],
+   "words": [
+    {
+     "ko": "사고",
+     "hanja": "事故",
+     "en": "an accident; thought; reflection",
+     "grade": "",
+     "pos": "",
+     "example": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
+     "chars": [
+      {
+       "c": "事",
+       "hun": "일",
+       "eum": "사",
+       "en": "matter, affair"
+      },
+      {
+       "c": "故",
+       "hun": "옛",
+       "eum": "고",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "센터",
+     "hanja": "",
+     "en": "center",
+     "grade": "",
+     "pos": "",
+     "example": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
+     "chars": []
+    },
+    {
+     "ko": "대응",
+     "hanja": "對應",
+     "en": "action or maneuver; correspondence with something",
+     "grade": "",
+     "pos": "",
+     "example": "[인뱅 보안 시험대]③ 케이뱅크, 망분리 완화 '선제 대응'…IT 자산·취약점 관리 강화",
+     "chars": [
+      {
+       "c": "對",
+       "hun": "대할",
+       "eum": "대",
+       "en": "face, respond"
+      },
+      {
+       "c": "應",
+       "hun": "응할",
+       "eum": "응",
+       "en": "respond"
+      }
+     ]
+    },
+    {
+     "ko": "수사",
+     "hanja": "數詞",
+     "en": "number; numeral; a criminal investigation",
+     "grade": "",
+     "pos": "",
+     "example": "경찰, 삼성전자 노조위원장 '장인회사 계약 논란' 수사 착수",
+     "chars": [
+      {
+       "c": "數",
+       "hun": "셈",
+       "eum": "수",
+       "en": "number, count"
+      },
+      {
+       "c": "詞",
+       "hun": "말",
+       "eum": "사",
+       "en": "words, lyrics"
+      }
+     ]
+    },
+    {
+     "ko": "합류",
+     "hanja": "合流",
+     "en": "joining, merger, act of coming together",
+     "grade": "",
+     "pos": "",
+     "example": "'1박2일' 신입 이기택, 합류 100일 소감…\"많이 편해졌다\"",
+     "chars": [
+      {
+       "c": "合",
+       "hun": "합할",
+       "eum": "합",
+       "en": "combine"
+      },
+      {
+       "c": "流",
+       "hun": "흐를",
+       "eum": "류",
+       "en": "flow"
+      }
+     ]
+    },
+    {
+     "ko": "배우",
+     "hanja": "俳優",
+     "en": "actor (person who performs in a theatrical play or film)",
+     "grade": "",
+     "pos": "",
+     "example": "송강 옆에서 '쩍벌'한 태국 배우…\"미안해, 다음엔 내 다리 쳐도 돼\"",
+     "chars": [
+      {
+       "c": "俳",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "優",
+       "hun": "넉넉할",
+       "eum": "우",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "전하다",
+     "hanja": "",
+     "en": "to pass along; to convey",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "눈물",
+     "hanja": "",
+     "en": "tears",
+     "grade": "",
+     "pos": "",
+     "example": "성현주, 8살 아들상 비보..\"천일간 의식 無→마지막 눈 직접 감겨줘\" 눈물[짠한형]",
+     "chars": []
+    },
+    {
+     "ko": "최초",
+     "hanja": "最初",
+     "en": "first; earliest",
+     "grade": "",
+     "pos": "",
+     "example": "우리은행 런던서 현지 기업과 첫 파생상품 거래, 국내 은행 최초 자체 운용",
+     "chars": [
+      {
+       "c": "最",
+       "hun": "가장",
+       "eum": "최",
+       "en": ""
+      },
+      {
+       "c": "初",
+       "hun": "처음",
+       "eum": "초",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "자체",
+     "hanja": "自體",
+     "en": "the thing itself",
+     "grade": "",
+     "pos": "",
+     "example": "우리은행 런던서 현지 기업과 첫 파생상품 거래, 국내 은행 최초 자체 운용",
+     "chars": [
+      {
+       "c": "自",
+       "hun": "스스로",
+       "eum": "자",
+       "en": "self"
+      },
+      {
+       "c": "體",
+       "hun": "몸",
+       "eum": "체",
+       "en": "body"
+      }
+     ]
+    },
+    {
+     "ko": "마크",
+     "hanja": "",
+     "en": "mark",
+     "grade": "",
+     "pos": "",
+     "example": "클로드 이어 챗GPT도 텍스트 워터마크 적용…EU지역 우선 적용",
+     "chars": []
+    },
+    {
+     "ko": "토스",
+     "hanja": "",
+     "en": "Toss",
+     "grade": "",
+     "pos": "",
+     "example": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
+     "chars": []
+    },
+    {
+     "ko": "보안",
+     "hanja": "保安",
+     "en": "preservation of public security",
+     "grade": "",
+     "pos": "",
+     "example": "[인뱅 보안 시험대]③ 케이뱅크, 망분리 완화 '선제 대응'…IT 자산·취약점 관리 강화",
+     "chars": [
+      {
+       "c": "保",
+       "hun": "지킬",
+       "eum": "보",
+       "en": "protect"
+      },
+      {
+       "c": "安",
+       "hun": "편안",
+       "eum": "안",
+       "en": "peaceful, safe"
       }
      ]
     }
