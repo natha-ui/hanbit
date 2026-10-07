@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T01:24:14Z",
+ "generated": "2026-10-07T00:00:32Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -2378,6 +2378,131 @@
        "hun": "편안",
        "eum": "안",
        "en": "peaceful, safe"
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-07",
+   "topics": [
+    "부산국제영화제",
+    "모아타운",
+    "한화 이글스",
+    "인베스팅닷컴",
+    "알파고",
+    "아르헨티나 축구",
+    "파크 골프",
+    "원자력 잠수함",
+    "수출",
+    "argentina vs benin"
+   ],
+   "words": [
+    {
+     "ko": "국제",
+     "hanja": "國際",
+     "en": "international, internationality",
+     "grade": "",
+     "pos": "",
+     "example": "부산, 영화의 바다로…31회 국제영화제 개막",
+     "chars": [
+      {
+       "c": "國",
+       "hun": "나라",
+       "eum": "국",
+       "en": "country"
+      },
+      {
+       "c": "際",
+       "hun": "즈음",
+       "eum": "제",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "확대",
+     "hanja": "擴大",
+     "en": "expansion",
+     "grade": "",
+     "pos": "",
+     "example": "노브랜드 버거, 대학가 매장 확대…1년 새 54% 늘어",
+     "chars": [
+      {
+       "c": "擴",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "大",
+       "hun": "큰",
+       "eum": "대",
+       "en": "big"
+      }
+     ]
+    },
+    {
+     "ko": "우려",
+     "hanja": "憂慮",
+     "en": "concern; worry; reason to believe",
+     "grade": "",
+     "pos": "",
+     "example": "85세 김혜자, 한복 입고 레드카펫…연신 기침에 팬들 '우려' - 머니투데이",
+     "chars": [
+      {
+       "c": "憂",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "慮",
+       "hun": "생각할",
+       "eum": "려",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "오르다",
+     "hanja": "",
+     "en": "to go up",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "주택",
+     "hanja": "住宅",
+     "en": "A residential building",
+     "grade": "",
+     "pos": "",
+     "example": "‘모아타운’ 시흥3동 959, 가로주택 조합설립인가",
+     "chars": [
+      {
+       "c": "住",
+       "hun": "살",
+       "eum": "주",
+       "en": "live, dwell"
+      },
+      {
+       "c": "宅",
+       "hun": "",
+       "eum": "",
+       "en": ""
       }
      ]
     }
