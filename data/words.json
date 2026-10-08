@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T00:00:32Z",
+ "generated": "2026-10-08T00:21:58Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -2503,6 +2503,146 @@
        "hun": "",
        "eum": "",
        "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-08",
+   "topics": [
+    "트로트",
+    "삼성전자 실적",
+    "한글날",
+    "임윤찬",
+    "에페",
+    "성심당",
+    "전북경찰청",
+    "조두순",
+    "버크셔 해서웨이",
+    "베이비뉴스"
+   ],
+   "words": [
+    {
+     "ko": "분기",
+     "hanja": "分期",
+     "en": "quarter; bifurcation, division, divarication",
+     "grade": "",
+     "pos": "",
+     "example": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록",
+     "chars": [
+      {
+       "c": "分",
+       "hun": "나눌",
+       "eum": "분",
+       "en": "divide; minute"
+      },
+      {
+       "c": "期",
+       "hun": "기약할",
+       "eum": "기",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "영업",
+     "hanja": "營業",
+     "en": "business, trade, sales",
+     "grade": "",
+     "pos": "",
+     "example": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록",
+     "chars": [
+      {
+       "c": "營",
+       "hun": "경영할",
+       "eum": "영",
+       "en": "manage"
+      },
+      {
+       "c": "業",
+       "hun": "업",
+       "eum": "업",
+       "en": "work, business"
+      }
+     ]
+    },
+    {
+     "ko": "브랜드",
+     "hanja": "",
+     "en": "brand",
+     "grade": "",
+     "pos": "",
+     "example": "[빅데이터로본다] 제과제빵 전문점 2026년 10월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠",
+     "chars": []
+    },
+    {
+     "ko": "한글",
+     "hanja": "",
+     "en": "hangul; the Korean alphabet; the Korean language",
+     "grade": "",
+     "pos": "",
+     "example": "29CM, 한글날 100주년 맞아 '한글문화상품' 선보인다",
+     "chars": []
+    },
+    {
+     "ko": "위원회",
+     "hanja": "委員會",
+     "en": "committee",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": [
+      {
+       "c": "委",
+       "hun": "맡길",
+       "eum": "위",
+       "en": ""
+      },
+      {
+       "c": "員",
+       "hun": "인원",
+       "eum": "원",
+       "en": "member"
+      },
+      {
+       "c": "會",
+       "hun": "모일",
+       "eum": "회",
+       "en": "meet, gather"
+      }
+     ]
+    },
+    {
+     "ko": "의료",
+     "hanja": "醫療",
+     "en": "medical treatment",
+     "grade": "",
+     "pos": "",
+     "example": "단국대병원, 재난·응급의료 유공 충남도지사 표창",
+     "chars": [
+      {
+       "c": "醫",
+       "hun": "의원",
+       "eum": "의",
+       "en": "medicine, doctor"
+      },
+      {
+       "c": "療",
+       "hun": "병고칠",
+       "eum": "료",
+       "en": "heal"
       }
      ]
     }
