@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T00:21:58Z",
+ "generated": "2026-10-09T00:35:42Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -2645,6 +2645,96 @@
        "en": "heal"
       }
      ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-09",
+   "topics": [
+    "오윤아",
+    "한고은",
+    "잠실 돔구장",
+    "금양",
+    "해피투게더",
+    "해피투게더, 김범수의 후예들",
+    "류필립",
+    "박현경",
+    "아이언샷 치는 이예원",
+    "김승윤"
+   ],
+   "words": [
+    {
+     "ko": "연상",
+     "hanja": "聯想",
+     "en": "association; senior (older person)",
+     "grade": "",
+     "pos": "",
+     "example": "‘17세 연상 미나 남편’ 류필립, 홀로 미국행…“불안정한 미래 때문에”",
+     "chars": [
+      {
+       "c": "聯",
+       "hun": "잇달",
+       "eum": "련",
+       "en": ""
+      },
+      {
+       "c": "想",
+       "hun": "생각",
+       "eum": "상",
+       "en": "imagine"
+      }
+     ]
+    },
+    {
+     "ko": "위반",
+     "hanja": "違反",
+     "en": "violation, breach",
+     "grade": "",
+     "pos": "",
+     "example": "금융위, 금양에 과징금 76억 부과…“회계처리기준 위반”",
+     "chars": [
+      {
+       "c": "違",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "反",
+       "hun": "돌이킬",
+       "eum": "반",
+       "en": "reverse, oppose"
+      }
+     ]
+    },
+    {
+     "ko": "이틀",
+     "hanja": "",
+     "en": "two days; the second day of the month",
+     "grade": "",
+     "pos": "",
+     "example": "이유진, 9일 백년가약 맺는다…동명이인 배우 이틀 연속 결혼 발표 눈길",
+     "chars": []
+    },
+    {
+     "ko": "데뷔",
+     "hanja": "",
+     "en": "debut",
+     "grade": "",
+     "pos": "",
+     "example": "이수만 제작 신인 보이그룹·걸그룹 동시 데뷔",
+     "chars": []
     }
    ],
    "stories": [],
