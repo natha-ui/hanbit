@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T00:15:52Z",
+ "generated": "2026-10-10T23:46:00Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -2819,6 +2819,186 @@
     }
    ],
    "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-11",
+   "topics": [
+    "김사랑",
+    "lafc",
+    "박유나",
+    "고양이",
+    "성리",
+    "몽산포해수욕장",
+    "육영수",
+    "대전광역시",
+    "天気",
+    "１２日の天気（東日本）"
+   ],
+   "words": [
+    {
+     "ko": "소나기",
+     "hanja": "",
+     "en": "shower; thunder",
+     "grade": "",
+     "pos": "",
+     "example": "강원 남부 내륙·산지·태백에 5∼20㎜ 소나기…큰 일교차",
+     "chars": []
+    },
+    {
+     "ko": "발견",
+     "hanja": "發見",
+     "en": "find; discovery",
+     "grade": "",
+     "pos": "",
+     "example": "[속보]해수욕장 산책하러 나간 30대, 바다서 숨진 채 발견",
+     "chars": [
+      {
+       "c": "發",
+       "hun": "필",
+       "eum": "발",
+       "en": "bloom; set off"
+      },
+      {
+       "c": "見",
+       "hun": "볼",
+       "eum": "견",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "확정",
+     "hanja": "確定",
+     "en": "decision",
+     "grade": "",
+     "pos": "",
+     "example": "경남 고성군, 2차 인구감소지역 대응 기본계획 확정",
+     "chars": [
+      {
+       "c": "確",
+       "hun": "굳을",
+       "eum": "확",
+       "en": "certain"
+      },
+      {
+       "c": "定",
+       "hun": "정할",
+       "eum": "정",
+       "en": "decide, fix"
+      }
+     ]
+    },
+    {
+     "ko": "불륜",
+     "hanja": "不倫",
+     "en": "affair, adultery, infidelity, liaison, unfaithfulness",
+     "grade": "",
+     "pos": "",
+     "example": "‘사랑이 온다’ 박유나, 시부 불륜→남편 불륜 충격 이어… 시모는 ‘호빠’까지?",
+     "chars": [
+      {
+       "c": "不",
+       "hun": "아닐",
+       "eum": "불",
+       "en": "not"
+      },
+      {
+       "c": "倫",
+       "hun": "인륜",
+       "eum": "륜",
+       "en": "human relations"
+      }
+     ]
+    },
+    {
+     "ko": "현장",
+     "hanja": "現場",
+     "en": "site, location, place; workplace, construction site",
+     "grade": "",
+     "pos": "",
+     "example": "전남바이오진흥원 식품센터, '2026 나주영산강축제' 현장 환경정화 봉사",
+     "chars": [
+      {
+       "c": "現",
+       "hun": "나타날",
+       "eum": "현",
+       "en": "appear; present"
+      },
+      {
+       "c": "場",
+       "hun": "마당",
+       "eum": "장",
+       "en": "yard, place"
+      }
+     ]
+    },
+    {
+     "ko": "산책",
+     "hanja": "散策",
+     "en": "walk, stroll",
+     "grade": "",
+     "pos": "",
+     "example": "[속보]해수욕장 산책하러 나간 30대, 바다서 숨진 채 발견",
+     "chars": [
+      {
+       "c": "散",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "策",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [
+    {
+     "title": "육영수",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "육영수(陸英修, 일본식 이름: 陸海英修, 1925년 11월 29일~1974년 8월 15일) 여사는 대한민국의 제5·6·7·8·9대 박정희 대통령의 두 번째 배우자이자, 박근혜, 박지만, 박근령의 어머니이기도 하다.",
+       ""
+      ],
+      [
+       "본관은 옥천이다.",
+       ""
+      ],
+      [
+       "충청북도 옥천공립여자전수학교에서 교사로 1년여 간 재직한 바 있다.",
+       ""
+      ],
+      [
+       "1974년 8월 15일 서울 장충동의 국립극장에서 재일교포 문세광이 박정희 대통령을 저격하려 하였지만 육영수 여사가 총에 맞아서 사망했다.",
+       ""
+      ],
+      [
+       "장녀 박근혜 대통령은 육영수 여사의 사망 후 영부인의 역할을 대신 하였다.",
+       ""
+      ]
+     ],
+     "vocab": [],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": []
+    }
+   ],
    "subjects": {
     "math": [],
     "science": [],
