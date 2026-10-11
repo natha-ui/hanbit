@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T23:46:00Z",
+ "generated": "2026-10-11T23:52:34Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -2999,6 +2999,161 @@
      "chars": []
     }
    ],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-12",
+   "topics": [
+    "국제선",
+    "이수만",
+    "네팔",
+    "uae vs usa",
+    "날씨",
+    "weather",
+    "погода",
+    "키움 히어로즈",
+    "제민일보"
+   ],
+   "words": [
+    {
+     "ko": "나서다",
+     "hanja": "",
+     "en": "to go forth; to present oneself",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "에너지",
+     "hanja": "",
+     "en": "energy",
+     "grade": "",
+     "pos": "",
+     "example": "■ 트럼프, '러·우 에너지 휴전합의' 했다는데…러는 공습 계속",
+     "chars": []
+    },
+    {
+     "ko": "홍수",
+     "hanja": "洪水",
+     "en": "flood, spate, deluge",
+     "grade": "",
+     "pos": "",
+     "example": "네팔, 또 다시 산사태로 홍수 발생···최소 5명 실종",
+     "chars": [
+      {
+       "c": "洪",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "水",
+       "hun": "물",
+       "eum": "수",
+       "en": "water"
+      }
+     ]
+    },
+    {
+     "ko": "방출",
+     "hanja": "放出",
+     "en": "release, emission; removal, release, dismissal",
+     "grade": "",
+     "pos": "",
+     "example": "프로야구 키움, 2019년 1차 지명 박주성 등 8명 방출",
+     "chars": [
+      {
+       "c": "放",
+       "hun": "놓을",
+       "eum": "방",
+       "en": "release"
+      },
+      {
+       "c": "出",
+       "hun": "날",
+       "eum": "출",
+       "en": "go out"
+      }
+     ]
+    },
+    {
+     "ko": "검토",
+     "hanja": "檢討",
+     "en": "examination, review",
+     "grade": "",
+     "pos": "",
+     "example": "내년 '글로벌 고신뢰 탄소시장' 운영…디지털자산 발행 검토",
+     "chars": [
+      {
+       "c": "檢",
+       "hun": "검사할",
+       "eum": "검",
+       "en": "inspect"
+      },
+      {
+       "c": "討",
+       "hun": "칠",
+       "eum": "토",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "장관",
+     "hanja": "長官",
+     "en": "a minister, a member of Cabinet; magnificent spectacle; thrilling sight; grand view",
+     "grade": "",
+     "pos": "",
+     "example": "행안장관, 임은정 감찰 지시… 강경파와 충돌 확산",
+     "chars": [
+      {
+       "c": "長",
+       "hun": "긴",
+       "eum": "장",
+       "en": "long; eldest; chief"
+      },
+      {
+       "c": "官",
+       "hun": "벼슬",
+       "eum": "관",
+       "en": "official"
+      }
+     ]
+    },
+    {
+     "ko": "지명",
+     "hanja": "地名",
+     "en": "place name, toponym; nomination, designation",
+     "grade": "",
+     "pos": "",
+     "example": "프로야구 키움, 2019년 1차 지명 박주성 등 8명 방출",
+     "chars": [
+      {
+       "c": "地",
+       "hun": "땅",
+       "eum": "지",
+       "en": "earth, land"
+      },
+      {
+       "c": "名",
+       "hun": "이름",
+       "eum": "명",
+       "en": "name; famous"
+      }
+     ]
+    }
+   ],
+   "stories": [],
    "subjects": {
     "math": [],
     "science": [],
