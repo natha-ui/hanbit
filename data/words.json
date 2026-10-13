@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T23:52:34Z",
+ "generated": "2026-10-13T02:12:46Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -3149,6 +3149,153 @@
        "hun": "이름",
        "eum": "명",
        "en": "name; famous"
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "topics": [
+    "삼성전자 주가",
+    "kospi",
+    "국정감사",
+    "하이닉스 주가",
+    "rj 미테",
+    "창신메모리",
+    "야마모토 요시노부",
+    "톰 홀랜드",
+    "메간폭스",
+    "여배우 메간 폭스의 예상치 못한 행동"
+   ],
+   "words": [
+    {
+     "ko": "주가",
+     "hanja": "株價",
+     "en": "stock/share price",
+     "grade": "",
+     "pos": "",
+     "example": "100조원 영업이익에도 삼성전자 주가 왜 안올라? “감동이 없어서” [반도체 투자 리포트]",
+     "chars": [
+      {
+       "c": "株",
+       "hun": "그루",
+       "eum": "주",
+       "en": "stump; share (stock)"
+      },
+      {
+       "c": "價",
+       "hun": "값",
+       "eum": "가",
+       "en": "price"
+      }
+     ]
+    },
+    {
+     "ko": "수준",
+     "hanja": "水準",
+     "en": "a standard or criterion level",
+     "grade": "",
+     "pos": "",
+     "example": "“외국인 계속 팔더니”…삼성전자 外人 지분율, 17년 3개월 만에 최저수준 - 조선비즈",
+     "chars": [
+      {
+       "c": "水",
+       "hun": "물",
+       "eum": "수",
+       "en": "water"
+      },
+      {
+       "c": "準",
+       "hun": "준할",
+       "eum": "준",
+       "en": "standard; level"
+      }
+     ]
+    },
+    {
+     "ko": "운영",
+     "hanja": "運營",
+     "en": "management; administration; operation",
+     "grade": "",
+     "pos": "",
+     "example": "[세종소식] 2026 세종 밤마실 주간 운영",
+     "chars": [
+      {
+       "c": "運",
+       "hun": "옮길",
+       "eum": "운",
+       "en": "move, carry; luck"
+      },
+      {
+       "c": "營",
+       "hun": "경영할",
+       "eum": "영",
+       "en": "manage"
+      }
+     ]
+    },
+    {
+     "ko": "업무",
+     "hanja": "業務",
+     "en": "business, work, task, duty, business operations, service",
+     "grade": "",
+     "pos": "",
+     "example": "한국 대표 선사 HMM, 본사 부산 이전…120명 업무 시작",
+     "chars": [
+      {
+       "c": "業",
+       "hun": "업",
+       "eum": "업",
+       "en": "work, business"
+      },
+      {
+       "c": "務",
+       "hun": "힘쓸",
+       "eum": "무",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "버스",
+     "hanja": "",
+     "en": "bus",
+     "grade": "",
+     "pos": "",
+     "example": "파주시, GTX 연계 마을버스 노선 신설…하루 36회 운행",
+     "chars": []
+    },
+    {
+     "ko": "전망",
+     "hanja": "展望",
+     "en": "Prospect: physical view or future outlook",
+     "grade": "",
+     "pos": "",
+     "example": "행안위 경기도 국감, '재정위기·관사' 최대 쟁점 전망",
+     "chars": [
+      {
+       "c": "展",
+       "hun": "펼",
+       "eum": "전",
+       "en": "unfold, display"
+      },
+      {
+       "c": "望",
+       "hun": "바랄",
+       "eum": "망",
+       "en": ""
       }
      ]
     }
