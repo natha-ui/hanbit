@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T23:49:49Z",
+ "generated": "2026-10-14T23:23:40Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -3456,6 +3456,170 @@
        "hun": "숯",
        "eum": "탄",
        "en": "charcoal"
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-15",
+   "topics": [
+    "로봇",
+    "송전선",
+    "코어위브",
+    "날씨",
+    "그린란드",
+    "셀트리온",
+    "weather",
+    "天气"
+   ],
+   "words": [
+    {
+     "ko": "국회",
+     "hanja": "國會",
+     "en": "A national parliament or assembly",
+     "grade": "",
+     "pos": "",
+     "example": "'트럼프 밀착' 베네수 국회의장 8년 만에 美 제재서 벗어나",
+     "chars": [
+      {
+       "c": "國",
+       "hun": "나라",
+       "eum": "국",
+       "en": "country"
+      },
+      {
+       "c": "會",
+       "hun": "모일",
+       "eum": "회",
+       "en": "meet, gather"
+      }
+     ]
+    },
+    {
+     "ko": "승인",
+     "hanja": "承認",
+     "en": "approval, recognition",
+     "grade": "",
+     "pos": "",
+     "example": "셀트리온, 짐펜트라 류마티스 관절염 국내 3상 승인",
+     "chars": [
+      {
+       "c": "承",
+       "hun": "이을",
+       "eum": "승",
+       "en": ""
+      },
+      {
+       "c": "認",
+       "hun": "알",
+       "eum": "인",
+       "en": "recognise"
+      }
+     ]
+    },
+    {
+     "ko": "주요",
+     "hanja": "主要",
+     "en": "importance, primacy",
+     "grade": "",
+     "pos": "",
+     "example": "[전국 주요 신문 톱뉴스](15일 조간)",
+     "chars": [
+      {
+       "c": "主",
+       "hun": "주인",
+       "eum": "주",
+       "en": "master; main"
+      },
+      {
+       "c": "要",
+       "hun": "요긴할",
+       "eum": "요",
+       "en": "need, important"
+      }
+     ]
+    },
+    {
+     "ko": "전환",
+     "hanja": "轉換",
+     "en": "change, switch, changeover",
+     "grade": "",
+     "pos": "",
+     "example": "상의 55차 물류위원회…\"AI 전환은 선택 아닌 필수\"",
+     "chars": [
+      {
+       "c": "轉",
+       "hun": "구를",
+       "eum": "전",
+       "en": "roll, turn"
+      },
+      {
+       "c": "換",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "청소기",
+     "hanja": "淸掃機",
+     "en": "vacuum cleaner, hoover",
+     "grade": "",
+     "pos": "",
+     "example": "롯데하이마트, 로봇청소기 할인전…신제품 체험 기회도",
+     "chars": [
+      {
+       "c": "淸",
+       "hun": "맑을",
+       "eum": "청",
+       "en": ""
+      },
+      {
+       "c": "掃",
+       "hun": "쓸",
+       "eum": "소",
+       "en": ""
+      },
+      {
+       "c": "機",
+       "hun": "틀",
+       "eum": "기",
+       "en": "machine"
+      }
+     ]
+    },
+    {
+     "ko": "필요",
+     "hanja": "必要",
+     "en": "need; necessity",
+     "grade": "",
+     "pos": "",
+     "example": "용인 '트리니티 팹' 주목…\"호남도 반도체 테스트 팹 필요\"",
+     "chars": [
+      {
+       "c": "必",
+       "hun": "반드시",
+       "eum": "필",
+       "en": ""
+      },
+      {
+       "c": "要",
+       "hun": "요긴할",
+       "eum": "요",
+       "en": "need, important"
       }
      ]
     }
