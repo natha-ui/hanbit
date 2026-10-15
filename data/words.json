@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T23:23:40Z",
+ "generated": "2026-10-15T23:13:16Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -3620,6 +3620,197 @@
        "hun": "요긴할",
        "eum": "요",
        "en": "need, important"
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "topics": [
+    "압수수색",
+    "xsmb",
+    "차예련",
+    "[사진]최명길, 가을 분위기",
+    "[사진]오현경, 딸 홍채령과 함께",
+    "수도권 광역급행철도 b노선",
+    "신지",
+    "다우 존스 산업평균지수",
+    "현대",
+    "극초음속 활공체"
+   ],
+   "words": [
+    {
+     "ko": "지수",
+     "hanja": "指數",
+     "en": "index, quotient; exponent",
+     "grade": "",
+     "pos": "",
+     "example": "다우 존스 산업평균지수",
+     "chars": [
+      {
+       "c": "指",
+       "hun": "손가락",
+       "eum": "지",
+       "en": ""
+      },
+      {
+       "c": "數",
+       "hun": "셈",
+       "eum": "수",
+       "en": "number, count"
+      }
+     ]
+    },
+    {
+     "ko": "살해",
+     "hanja": "殺害",
+     "en": "murder",
+     "grade": "",
+     "pos": "",
+     "example": "술자리 말다툼하다 동료 살해한 필리핀 국적자…징역 20년 확정",
+     "chars": [
+      {
+       "c": "殺",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "害",
+       "hun": "해할",
+       "eum": "해",
+       "en": "harm"
+      }
+     ]
+    },
+    {
+     "ko": "예상",
+     "hanja": "豫想",
+     "en": "expectation, anticipation",
+     "grade": "",
+     "pos": "",
+     "example": "\"HGV 발사로 北방공망 돌파수단 확보…전력화까지 3∼4년 예상\"",
+     "chars": [
+      {
+       "c": "豫",
+       "hun": "미리",
+       "eum": "예",
+       "en": "beforehand"
+      },
+      {
+       "c": "想",
+       "hun": "생각",
+       "eum": "상",
+       "en": "imagine"
+      }
+     ]
+    },
+    {
+     "ko": "노벨상",
+     "hanja": "",
+     "en": "a Nobel Prize",
+     "grade": "",
+     "pos": "",
+     "example": "[베스트셀러] 노벨상 앤 카슨 작품 인기…'빨강의 자서전' 10위",
+     "chars": []
+    },
+    {
+     "ko": "수상",
+     "hanja": "首相",
+     "en": "prime minister, premier, chancellor (e.g. Germany, Austria)",
+     "grade": "",
+     "pos": "",
+     "example": "(서울=연합뉴스) 김정은 기자 = 올해 노벨문학상을 수상한 캐나다 작가 앤 카슨에 대한 독자들의 관심이 폭발적으로 증가한 것으로 나타났다.",
+     "chars": [
+      {
+       "c": "首",
+       "hun": "머리",
+       "eum": "수",
+       "en": "head"
+      },
+      {
+       "c": "相",
+       "hun": "서로",
+       "eum": "상",
+       "en": "mutual"
+      }
+     ]
+    },
+    {
+     "ko": "작전",
+     "hanja": "作戰",
+     "en": "operation, mission; strategy, scheme, a tactical plan to achieve a goal",
+     "grade": "",
+     "pos": "",
+     "example": "▲ 경향신문 = 청해부대 작전 오만만으로 확대… 초계기 1대도 파견",
+     "chars": [
+      {
+       "c": "作",
+       "hun": "지을",
+       "eum": "작",
+       "en": "make"
+      },
+      {
+       "c": "戰",
+       "hun": "싸움",
+       "eum": "전",
+       "en": "war"
+      }
+     ]
+    },
+    {
+     "ko": "중계",
+     "hanja": "中繼",
+     "en": "relay broadcast; Writing comments on a certain topic in succession through multiple posts",
+     "grade": "",
+     "pos": "",
+     "example": "▲ 경향신문 = 장관들의 '국무회의 중계 축소' 요청, '하명식' 국정소통 바꿔야",
+     "chars": [
+      {
+       "c": "中",
+       "hun": "가운데",
+       "eum": "중",
+       "en": "middle"
+      },
+      {
+       "c": "繼",
+       "hun": "이을",
+       "eum": "계",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "후보",
+     "hanja": "候補",
+     "en": "candidate",
+     "grade": "",
+     "pos": "",
+     "example": "NBA 단장들 \"샌안토니오, 우승 후보 1순위…MVP는 웸반야마\"",
+     "chars": [
+      {
+       "c": "候",
+       "hun": "기후",
+       "eum": "후",
+       "en": ""
+      },
+      {
+       "c": "補",
+       "hun": "도울",
+       "eum": "보",
+       "en": ""
       }
      ]
     }
