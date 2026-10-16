@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T23:13:16Z",
+ "generated": "2026-10-16T22:58:58Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -3811,6 +3811,161 @@
        "hun": "도울",
        "eum": "보",
        "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "topics": [
+    "홍윤화",
+    "린, '슬로우 조깅' 유행 탑승 완료",
+    "심형탁",
+    "kia 타이거즈",
+    "'내일 선발' 네일",
+    "류필립",
+    "장인화",
+    "ionq",
+    "soxl",
+    "두산에너 빌리티"
+   ],
+   "words": [
+    {
+     "ko": "프로",
+     "hanja": "",
+     "en": "percent; proletarian",
+     "grade": "",
+     "pos": "",
+     "example": "프로야구 준PO 1,2차전 시구자에 데이식스 원필·배우 김의성",
+     "chars": []
+    },
+    {
+     "ko": "논란",
+     "hanja": "論難",
+     "en": "controversy",
+     "grade": "",
+     "pos": "",
+     "example": "백악관 대변인 나흘 만에 경질…허위경력·자질 논란에 하차(종합)",
+     "chars": [
+      {
+       "c": "論",
+       "hun": "논할",
+       "eum": "론",
+       "en": "discuss"
+      },
+      {
+       "c": "難",
+       "hun": "어려울",
+       "eum": "난",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "대변인",
+     "hanja": "代辯人",
+     "en": "spokesperson",
+     "grade": "",
+     "pos": "",
+     "example": "트럼프 손절에 '최단명 대변인' 오명…데뷔전이 마지막 브리핑돼",
+     "chars": [
+      {
+       "c": "代",
+       "hun": "대신할",
+       "eum": "대",
+       "en": "replace; era"
+      },
+      {
+       "c": "辯",
+       "hun": "말씀",
+       "eum": "변",
+       "en": ""
+      },
+      {
+       "c": "人",
+       "hun": "사람",
+       "eum": "인",
+       "en": "person"
+      }
+     ]
+    },
+    {
+     "ko": "승진",
+     "hanja": "",
+     "en": "promotion",
+     "grade": "",
+     "pos": "",
+     "example": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임",
+     "chars": []
+    },
+    {
+     "ko": "두다",
+     "hanja": "",
+     "en": "to put; to leave (behind), let there be",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "자산",
+     "hanja": "資産",
+     "en": "assets",
+     "grade": "",
+     "pos": "",
+     "example": "포스코그룹, 비핵심 자산 매각 속도…미래 투자 확대",
+     "chars": [
+      {
+       "c": "資",
+       "hun": "재물",
+       "eum": "자",
+       "en": "resources"
+      },
+      {
+       "c": "産",
+       "hun": "낳을",
+       "eum": "산",
+       "en": "produce"
+      }
+     ]
+    },
+    {
+     "ko": "부회장",
+     "hanja": "副會長",
+     "en": "vice-chairman",
+     "grade": "",
+     "pos": "",
+     "example": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임",
+     "chars": [
+      {
+       "c": "副",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "會",
+       "hun": "모일",
+       "eum": "회",
+       "en": "meet, gather"
+      },
+      {
+       "c": "長",
+       "hun": "긴",
+       "eum": "장",
+       "en": "long; eldest; chief"
       }
      ]
     }
