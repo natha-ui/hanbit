@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T22:58:58Z",
+ "generated": "2026-10-17T22:34:21Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -3966,6 +3966,223 @@
        "hun": "긴",
        "eum": "장",
        "en": "long; eldest; chief"
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "topics": [
+    "thời tiết",
+    "天气",
+    "적금",
+    "부동산",
+    "성과급",
+    "สภาพอากาศ",
+    "한국경제",
+    "ufc",
+    "봉화송이축제"
+   ],
+   "words": [
+    {
+     "ko": "최대",
+     "hanja": "最大",
+     "en": "the greatest; the largest",
+     "grade": "",
+     "pos": "",
+     "example": "(서울=연합뉴스) 홍규빈 기자 = 내년 3월 출범하는 국내 최대 저비용항공사(LCC) '통합 진에어'가 부산발 국제선 운항을 대폭 확대한다.",
+     "chars": [
+      {
+       "c": "最",
+       "hun": "가장",
+       "eum": "최",
+       "en": ""
+      },
+      {
+       "c": "大",
+       "hun": "큰",
+       "eum": "대",
+       "en": "big"
+      }
+     ]
+    },
+    {
+     "ko": "출신",
+     "hanja": "出身",
+     "en": "a native; someone native-born to a place",
+     "grade": "",
+     "pos": "",
+     "example": "\"성과급 못 받아\" 소송 낸 채용형 인턴 출신 한수원 직원 2천 명 패소",
+     "chars": [
+      {
+       "c": "出",
+       "hun": "날",
+       "eum": "출",
+       "en": "go out"
+      },
+      {
+       "c": "身",
+       "hun": "몸",
+       "eum": "신",
+       "en": "body"
+      }
+     ]
+    },
+    {
+     "ko": "반전",
+     "hanja": "反轉",
+     "en": "a twist (of a story); reversion, inversion",
+     "grade": "",
+     "pos": "",
+     "example": "“대출은 힘들고 아파트는 비싸졌네요”…다시 불붙기 시작한 빌라의 반전",
+     "chars": [
+      {
+       "c": "反",
+       "hun": "돌이킬",
+       "eum": "반",
+       "en": "reverse, oppose"
+      },
+      {
+       "c": "轉",
+       "hun": "구를",
+       "eum": "전",
+       "en": "roll, turn"
+      }
+     ]
+    },
+    {
+     "ko": "인턴",
+     "hanja": "",
+     "en": "intern",
+     "grade": "",
+     "pos": "",
+     "example": "\"성과급 못 받아\" 소송 낸 채용형 인턴 출신 한수원 직원 2천 명 패소",
+     "chars": []
+    },
+    {
+     "ko": "송이",
+     "hanja": "",
+     "en": "a bunch of flowers, grapes, mushrooms; a flake of snow; matsutake",
+     "grade": "",
+     "pos": "",
+     "example": "봉화송이축제서 교류도시 한자리에···지역 간 상생협력 강화",
+     "chars": []
+    },
+    {
+     "ko": "소방",
+     "hanja": "消防",
+     "en": "firefighting, fire prevention; chamberlet",
+     "grade": "",
+     "pos": "",
+     "example": "추미애 ‘소방 재정 빨대’ 발언 후폭풍...민주당 경기도당 공직자들까지 사과",
+     "chars": [
+      {
+       "c": "消",
+       "hun": "사라질",
+       "eum": "소",
+       "en": "vanish; consume"
+      },
+      {
+       "c": "防",
+       "hun": "막을",
+       "eum": "방",
+       "en": "defend"
+      }
+     ]
+    },
+    {
+     "ko": "내다",
+     "hanja": "",
+     "en": "to bring about, to pull forth; to put out, put forth, put forward, produce, yield, issue, pay, offer, present, submit, e",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "중간",
+     "hanja": "中間",
+     "en": "(in) the middle; medium",
+     "grade": "",
+     "pos": "",
+     "example": "경북 봉화군, 경북도민체전 상징물 디자인 매뉴얼 중간보고회 개최",
+     "chars": [
+      {
+       "c": "中",
+       "hun": "가운데",
+       "eum": "중",
+       "en": "middle"
+      },
+      {
+       "c": "間",
+       "hun": "사이",
+       "eum": "간",
+       "en": "between; interval"
+      }
+     ]
+    },
+    {
+     "ko": "처음",
+     "hanja": "",
+     "en": "the first time; the beginning",
+     "grade": "",
+     "pos": "",
+     "example": "(부산=연합뉴스) 김재홍 기자 = \"처음엔 회사가 노조 자체를 인정하지 않았지만, 최근에는 상생협력까지 체결했습니다.\"",
+     "chars": []
+    },
+    {
+     "ko": "피해",
+     "hanja": "被害",
+     "en": "harm; damage",
+     "grade": "",
+     "pos": "",
+     "example": "(김해=연합뉴스) 장지현 기자 = 밤사이 경남 김해시의 한 단독주택에서 불이 나 7천500만원 상당의 재산 피해가 났다.",
+     "chars": [
+      {
+       "c": "被",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "害",
+       "hun": "해할",
+       "eum": "해",
+       "en": "harm"
+      }
+     ]
+    },
+    {
+     "ko": "유지",
+     "hanja": "維持",
+     "en": "maintenance; sustenance; upkeep",
+     "grade": "",
+     "pos": "",
+     "example": "여수 등 전남 15곳 강풍주의보…흑산도·홍도에 강풍경보 유지",
+     "chars": [
+      {
+       "c": "維",
+       "hun": "벼리",
+       "eum": "유",
+       "en": ""
+      },
+      {
+       "c": "持",
+       "hun": "",
+       "eum": "",
+       "en": ""
       }
      ]
     }
