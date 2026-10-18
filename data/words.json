@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T22:34:21Z",
+ "generated": "2026-10-18T22:33:19Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -4180,6 +4180,275 @@
       },
       {
        "c": "持",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-19",
+   "topics": [
+    "라리가",
+    "김희재",
+    "신세계 백화점 강남점",
+    "madrid vs sevilla",
+    "로스앤젤레스 다저스",
+    "후티",
+    "배정남",
+    "기사"
+   ],
+   "words": [
+    {
+     "ko": "해제",
+     "hanja": "解除",
+     "en": "cancellation; description of a book",
+     "grade": "",
+     "pos": "",
+     "example": "동해남부먼바다 등 4곳 풍랑주의보 해제",
+     "chars": [
+      {
+       "c": "解",
+       "hun": "풀",
+       "eum": "해",
+       "en": "solve"
+      },
+      {
+       "c": "除",
+       "hun": "덜",
+       "eum": "제",
+       "en": "remove; divide"
+      }
+     ]
+    },
+    {
+     "ko": "강풍",
+     "hanja": "",
+     "en": "gale",
+     "grade": "",
+     "pos": "",
+     "example": "강풍에 지붕 날아가고…폭우에 곳곳 도로 침수",
+     "chars": []
+    },
+    {
+     "ko": "우승",
+     "hanja": "優勝",
+     "en": "victory; championship",
+     "grade": "",
+     "pos": "",
+     "example": "\"내가 마법을 부렸어!\" 前 한화 외인 타자 감격, 밀워키 '우승 요정' 되나…끝내기 안타 3번 다 현장에 있었다",
+     "chars": [
+      {
+       "c": "優",
+       "hun": "넉넉할",
+       "eum": "우",
+       "en": ""
+      },
+      {
+       "c": "勝",
+       "hun": "이길",
+       "eum": "승",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "시위",
+     "hanja": "示威",
+     "en": "demonstration; protest; bowstring",
+     "grade": "",
+     "pos": "",
+     "example": "\"전쟁터 같다\" 아수라장 된 파리…시위 격화 속 약탈도(종합)",
+     "chars": [
+      {
+       "c": "示",
+       "hun": "보일",
+       "eum": "시",
+       "en": "show"
+      },
+      {
+       "c": "威",
+       "hun": "위엄",
+       "eum": "위",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "빨대",
+     "hanja": "",
+     "en": "straw, drinking straw",
+     "grade": "",
+     "pos": "",
+     "example": "민주당 경기도당 긴급회의, 추미애 '재정 빨대' 논란 대응 논의",
+     "chars": []
+    },
+    {
+     "ko": "발언",
+     "hanja": "發言",
+     "en": "comment; statement",
+     "grade": "",
+     "pos": "",
+     "example": "“美, 브런슨 ‘韓은 남쪽 철책서 시작’ 발언에 주의 줘”",
+     "chars": [
+      {
+       "c": "發",
+       "hun": "필",
+       "eum": "발",
+       "en": "bloom; set off"
+      },
+      {
+       "c": "言",
+       "hun": "말씀",
+       "eum": "언",
+       "en": "speech"
+      }
+     ]
+    },
+    {
+     "ko": "닮다",
+     "hanja": "",
+     "en": "to resemble, to look like",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "복지",
+     "hanja": "福祉",
+     "en": "welfare; well-being",
+     "grade": "",
+     "pos": "",
+     "example": "서울어린이대공원 '동물복지형' 대전환…보유종 59종→33종",
+     "chars": [
+      {
+       "c": "福",
+       "hun": "복",
+       "eum": "복",
+       "en": "blessing"
+      },
+      {
+       "c": "祉",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "통하다",
+     "hanja": "",
+     "en": "to pass through, from one end to the other; to resonate, to communicate",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "남성",
+     "hanja": "男性",
+     "en": "male, men",
+     "grade": "",
+     "pos": "",
+     "example": "(성남=연합뉴스) 김지원 기자 = 술에 취한 상태로 고속도로를 달리다 화물차를 들이받는 사고를 낸 20대 남성이 경찰에 붙잡혔다.",
+     "chars": [
+      {
+       "c": "男",
+       "hun": "사내",
+       "eum": "남",
+       "en": "man"
+      },
+      {
+       "c": "性",
+       "hun": "성품",
+       "eum": "성",
+       "en": "nature"
+      }
+     ]
+    },
+    {
+     "ko": "남부",
+     "hanja": "南部",
+     "en": "the south",
+     "grade": "",
+     "pos": "",
+     "example": "동해남부먼바다 등 4곳 풍랑주의보 해제",
+     "chars": [
+      {
+       "c": "南",
+       "hun": "남녘",
+       "eum": "남",
+       "en": "south"
+      },
+      {
+       "c": "部",
+       "hun": "떼",
+       "eum": "부",
+       "en": "part, section"
+      }
+     ]
+    },
+    {
+     "ko": "풍랑",
+     "hanja": "風浪",
+     "en": "wind and waves; (maritime) storm; hardship; suffering",
+     "grade": "",
+     "pos": "",
+     "example": "동해남부먼바다 등 4곳 풍랑주의보 해제",
+     "chars": [
+      {
+       "c": "風",
+       "hun": "바람",
+       "eum": "풍",
+       "en": "wind"
+      },
+      {
+       "c": "浪",
+       "hun": "물결",
+       "eum": "랑",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "남쪽",
+     "hanja": "",
+     "en": "The South; South Korea in relation to North Korea",
+     "grade": "",
+     "pos": "",
+     "example": "제주 남쪽 먼바다 등 3곳 내일 풍랑주의보 해제",
+     "chars": []
+    },
+    {
+     "ko": "발령",
+     "hanja": "發令",
+     "en": "appointment; issue",
+     "grade": "",
+     "pos": "",
+     "example": "(광주=연합뉴스) 기상청은 여수에 발령했던 호우주의보를 19일 0시 30분을 기해 해제한다고 밝혔다.",
+     "chars": [
+      {
+       "c": "發",
+       "hun": "필",
+       "eum": "발",
+       "en": "bloom; set off"
+      },
+      {
+       "c": "令",
        "hun": "",
        "eum": "",
        "en": ""
