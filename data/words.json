@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T22:33:19Z",
+ "generated": "2026-10-19T23:54:36Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -4452,6 +4452,118 @@
        "hun": "",
        "eum": "",
        "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "topics": [
+    "루이바오",
+    "대전광역시",
+    "크리스티안 로메로",
+    "한화",
+    "달이 지면 팀은 뜬다?",
+    "cj그룹",
+    "송영길",
+    "경제",
+    "삼성",
+    "스타뉴스"
+   ],
+   "words": [
+    {
+     "ko": "협상",
+     "hanja": "協商",
+     "en": "negotiation",
+     "grade": "",
+     "pos": "",
+     "example": "중앙일보 M&A 우선협상대상자에 ‘다우·CJ 컨소시엄’",
+     "chars": [
+      {
+       "c": "協",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "商",
+       "hun": "장사",
+       "eum": "상",
+       "en": "trade"
+      }
+     ]
+    },
+    {
+     "ko": "쌍둥이",
+     "hanja": "",
+     "en": "twins",
+     "grade": "",
+     "pos": "",
+     "example": "‘쌍둥이 판다’ 마지막 공개일 12월 11일…“중국 이송 준비”",
+     "chars": []
+    },
+    {
+     "ko": "마지막",
+     "hanja": "",
+     "en": "the end; the last thing",
+     "grade": "",
+     "pos": "",
+     "example": "‘쌍둥이 판다’ 마지막 공개일 12월 11일…“중국 이송 준비”",
+     "chars": []
+    },
+    {
+     "ko": "파리",
+     "hanja": "玻璃",
+     "en": "fly (insect); crystal",
+     "grade": "",
+     "pos": "",
+     "example": "삼성전자, '아트 바젤 파리 2026' 출품작 19점 아트 스토어에 공개",
+     "chars": [
+      {
+       "c": "玻",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "璃",
+       "hun": "유리",
+       "eum": "리",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "장모",
+     "hanja": "丈母",
+     "en": "mother-in-law (wife's mother)",
+     "grade": "",
+     "pos": "",
+     "example": "'장모살인·아내납치' 김성우 송치…접근금지 위반 18회 스토킹(종합)",
+     "chars": [
+      {
+       "c": "丈",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "母",
+       "hun": "어미",
+       "eum": "모",
+       "en": "mother"
       }
      ]
     }
