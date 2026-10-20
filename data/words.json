@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T23:54:36Z",
+ "generated": "2026-10-20T23:19:22Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -4564,6 +4564,206 @@
        "hun": "어미",
        "eum": "모",
        "en": "mother"
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-21",
+   "topics": [
+    "조혜련",
+    "오늘날씨",
+    "제1도련선",
+    "새만금",
+    "롤 패치노트",
+    "롤 점검 시간…26.21 패치노트",
+    "오수미",
+    "빅테크",
+    "임영웅",
+    "天氣"
+   ],
+   "words": [
+    {
+     "ko": "특허",
+     "hanja": "特許",
+     "en": "patent",
+     "grade": "",
+     "pos": "",
+     "example": "■ 특허 불만에 역삼빌딩 두 곳에 방화…되풀이되는 '분노의 불길'",
+     "chars": [
+      {
+       "c": "特",
+       "hun": "특별할",
+       "eum": "특",
+       "en": ""
+      },
+      {
+       "c": "許",
+       "hun": "허락할",
+       "eum": "허",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "실적",
+     "hanja": "實績",
+     "en": "performance",
+     "grade": "",
+     "pos": "",
+     "example": "뉴욕증시, 실적 호조·유가 하락에 투자심리 개선…다우 1%↑",
+     "chars": [
+      {
+       "c": "實",
+       "hun": "열매",
+       "eum": "실",
+       "en": "fruit; real"
+      },
+      {
+       "c": "績",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "차트",
+     "hanja": "",
+     "en": "chart",
+     "grade": "",
+     "pos": "",
+     "example": "임영웅, 빌보드 코리아 ‘글로벌 K-송즈’ 10곡 차트인",
+     "chars": []
+    },
+    {
+     "ko": "위협",
+     "hanja": "威脅",
+     "en": "threat, menace",
+     "grade": "",
+     "pos": "",
+     "example": "美 ‘中 최우선 위협’ 상정 새 전투지침… “대만방어 일관된 입장” 한미일 협력 강조",
+     "chars": [
+      {
+       "c": "威",
+       "hun": "위엄",
+       "eum": "위",
+       "en": ""
+      },
+      {
+       "c": "脅",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "건물",
+     "hanja": "建物",
+     "en": "building, construction, edifice",
+     "grade": "",
+     "pos": "",
+     "example": "방치된 공공건물을 지역명소로…인천 강화군, 활용 방안 윤곽",
+     "chars": [
+      {
+       "c": "建",
+       "hun": "세울",
+       "eum": "건",
+       "en": "build"
+      },
+      {
+       "c": "物",
+       "hun": "물건",
+       "eum": "물",
+       "en": "thing"
+      }
+     ]
+    },
+    {
+     "ko": "갈등",
+     "hanja": "葛藤",
+     "en": "discord, conflict",
+     "grade": "",
+     "pos": "",
+     "example": "[충남 공론장] 교실 속 휴대전화 갈등…금지보다 '공동의 약속' 필요",
+     "chars": [
+      {
+       "c": "葛",
+       "hun": "칡",
+       "eum": "갈",
+       "en": ""
+      },
+      {
+       "c": "藤",
+       "hun": "등나무",
+       "eum": "등",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "관계",
+     "hanja": "關係",
+     "en": "connection; relationship",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": [
+      {
+       "c": "關",
+       "hun": "빗장",
+       "eum": "관",
+       "en": ""
+      },
+      {
+       "c": "係",
+       "hun": "맬",
+       "eum": "계",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "강하다",
+     "hanja": "",
+     "en": "strong, powerful",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "제기",
+     "hanja": "提起",
+     "en": "jegi, a Korean traditional game; posing, raising (of a problem or an issue)",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": [
+      {
+       "c": "提",
+       "hun": "끌",
+       "eum": "제",
+       "en": ""
+      },
+      {
+       "c": "起",
+       "hun": "일어날",
+       "eum": "기",
+       "en": ""
       }
      ]
     }
