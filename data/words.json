@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T23:19:22Z",
+ "generated": "2026-10-21T23:33:41Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -4763,6 +4763,147 @@
        "c": "起",
        "hun": "일어날",
        "eum": "기",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "topics": [
+    "nvda",
+    "xrpn",
+    "spch",
+    "미스터트롯",
+    "제너럴 모터스",
+    "박위",
+    "이용규"
+   ],
+   "words": [
+    {
+     "ko": "음주",
+     "hanja": "飮酒",
+     "en": "consumption of alcohol",
+     "grade": "",
+     "pos": "",
+     "example": "‘음주 운전 사고’ 전 프로야구 선수 이용규 불구속 기소",
+     "chars": [
+      {
+       "c": "飮",
+       "hun": "마실",
+       "eum": "음",
+       "en": "drink"
+      },
+      {
+       "c": "酒",
+       "hun": "술",
+       "eum": "주",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "활용",
+     "hanja": "活用",
+     "en": "application (the use of a thing); conjugation, declension, inflection",
+     "grade": "",
+     "pos": "",
+     "example": "서울, 英유력지 선정 'AI 도입·활용 역량' 세계 1위도시",
+     "chars": [
+      {
+       "c": "活",
+       "hun": "살",
+       "eum": "활",
+       "en": "live, lively"
+      },
+      {
+       "c": "用",
+       "hun": "쓸",
+       "eum": "용",
+       "en": "use"
+      }
+     ]
+    },
+    {
+     "ko": "확성기",
+     "hanja": "擴聲器",
+     "en": "loudspeaker; megaphone",
+     "grade": "",
+     "pos": "",
+     "example": "▲ 경향신문 = 북 김여정 \"확성기 이달 가동 상태 돌입\"",
+     "chars": [
+      {
+       "c": "擴",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "聲",
+       "hun": "소리",
+       "eum": "성",
+       "en": ""
+      },
+      {
+       "c": "器",
+       "hun": "그릇",
+       "eum": "기",
+       "en": "vessel, tool"
+      }
+     ]
+    },
+    {
+     "ko": "협력",
+     "hanja": "協力",
+     "en": "collaboration or cooperation",
+     "grade": "",
+     "pos": "",
+     "example": "부산시상수도사업본부, 호찌민 수도공사와 AI 기술 교류 협력",
+     "chars": [
+      {
+       "c": "協",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "力",
+       "hun": "힘",
+       "eum": "력",
+       "en": "strength"
+      }
+     ]
+    },
+    {
+     "ko": "대비",
+     "hanja": "大妃",
+     "en": "a queen dowager",
+     "grade": "",
+     "pos": "",
+     "example": "삼성E&A 3분기 영업이익 5천6억원…작년 동기 대비 183.6%↑",
+     "chars": [
+      {
+       "c": "大",
+       "hun": "큰",
+       "eum": "대",
+       "en": "big"
+      },
+      {
+       "c": "妃",
+       "hun": "",
+       "eum": "",
        "en": ""
       }
      ]
