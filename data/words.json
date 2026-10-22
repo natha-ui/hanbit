@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T23:33:41Z",
+ "generated": "2026-10-22T23:31:20Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -4902,6 +4902,269 @@
       },
       {
        "c": "妃",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "topics": [
+    "상속",
+    "테오스카 에르난데스",
+    "금양",
+    "[뭐라노] 금양 부활할까",
+    "연금",
+    "에어쇼",
+    "주우재",
+    "포스코퓨처엠",
+    "조선소",
+    "weather"
+   ],
+   "words": [
+    {
+     "ko": "법인",
+     "hanja": "法人",
+     "en": "corporate person; legal entity; legal person",
+     "grade": "",
+     "pos": "",
+     "example": "[단독] HD현대, 美 키윗과 합작법인 세운다… '마스가 1호 펀드' 수혜 유력",
+     "chars": [
+      {
+       "c": "法",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "人",
+       "hun": "사람",
+       "eum": "인",
+       "en": "person"
+      }
+     ]
+    },
+    {
+     "ko": "합작",
+     "hanja": "合作",
+     "en": "collaboration",
+     "grade": "",
+     "pos": "",
+     "example": "[단독] HD현대, 美 키윗과 합작법인 세운다… '마스가 1호 펀드' 수혜 유력",
+     "chars": [
+      {
+       "c": "合",
+       "hun": "합할",
+       "eum": "합",
+       "en": "combine"
+      },
+      {
+       "c": "作",
+       "hun": "지을",
+       "eum": "작",
+       "en": "make"
+      }
+     ]
+    },
+    {
+     "ko": "소득",
+     "hanja": "所得",
+     "en": "income",
+     "grade": "",
+     "pos": "",
+     "example": "전업주부도 자기 이름으로 국민연금…무소득 배우자 가입 문 넓힌다[Pick코노미]",
+     "chars": [
+      {
+       "c": "所",
+       "hun": "바",
+       "eum": "소",
+       "en": "place"
+      },
+      {
+       "c": "得",
+       "hun": "얻을",
+       "eum": "득",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "군사",
+     "hanja": "軍士",
+     "en": "A soldier or soldiers; Specifically, a soldier of NCO or lower rank",
+     "grade": "",
+     "pos": "",
+     "example": "수치, 아들과 5년 만에 첫 통화…미얀마 군사정권, 유화 움직임",
+     "chars": [
+      {
+       "c": "軍",
+       "hun": "군사",
+       "eum": "군",
+       "en": "army, soldier"
+      },
+      {
+       "c": "士",
+       "hun": "선비",
+       "eum": "사",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "가입",
+     "hanja": "加入",
+     "en": "entry, admission, accession, joining, signing up",
+     "grade": "",
+     "pos": "",
+     "example": "전업주부도 자기 이름으로 국민연금…무소득 배우자 가입 문 넓힌다[Pick코노미]",
+     "chars": [
+      {
+       "c": "加",
+       "hun": "더할",
+       "eum": "가",
+       "en": "add"
+      },
+      {
+       "c": "入",
+       "hun": "들",
+       "eum": "입",
+       "en": "enter"
+      }
+     ]
+    },
+    {
+     "ko": "조선소",
+     "hanja": "造船所",
+     "en": "shipyard; dockyard",
+     "grade": "",
+     "pos": "",
+     "example": "HD현대, 美 조선소 인수 대신 직접 건립에 무게… 현지 기업과 합작법인 추진",
+     "chars": [
+      {
+       "c": "造",
+       "hun": "지을",
+       "eum": "조",
+       "en": "make"
+      },
+      {
+       "c": "船",
+       "hun": "배",
+       "eum": "선",
+       "en": ""
+      },
+      {
+       "c": "所",
+       "hun": "바",
+       "eum": "소",
+       "en": "place"
+      }
+     ]
+    },
+    {
+     "ko": "무게",
+     "hanja": "",
+     "en": "weight",
+     "grade": "",
+     "pos": "",
+     "example": "HD현대, 美 조선소 인수 대신 직접 건립에 무게… 현지 기업과 합작법인 추진",
+     "chars": []
+    },
+    {
+     "ko": "유가",
+     "hanja": "儒家",
+     "en": "Confucianist, Confucian; school of Confucianism",
+     "grade": "",
+     "pos": "",
+     "example": "[마켓뷰] 美증시 하락·유가 상승…코스피 또 내리나",
+     "chars": [
+      {
+       "c": "儒",
+       "hun": "선비",
+       "eum": "유",
+       "en": "scholar, Confucian"
+      },
+      {
+       "c": "家",
+       "hun": "집",
+       "eum": "가",
+       "en": "house; family"
+      }
+     ]
+    },
+    {
+     "ko": "정치",
+     "hanja": "政治",
+     "en": "politics; governmental affairs",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": [
+      {
+       "c": "政",
+       "hun": "정사",
+       "eum": "정",
+       "en": ""
+      },
+      {
+       "c": "治",
+       "hun": "다스릴",
+       "eum": "치",
+       "en": "govern; cure"
+      }
+     ]
+    },
+    {
+     "ko": "여성",
+     "hanja": "女性",
+     "en": "female, woman, womenfolk, womankind",
+     "grade": "",
+     "pos": "",
+     "example": "관계성 범죄 피해자 돕는 여성긴급전화, 하루 800번씩 울렸다",
+     "chars": [
+      {
+       "c": "女",
+       "hun": "계집",
+       "eum": "녀",
+       "en": "woman"
+      },
+      {
+       "c": "性",
+       "hun": "성품",
+       "eum": "성",
+       "en": "nature"
+      }
+     ]
+    },
+    {
+     "ko": "장애",
+     "hanja": "障礙",
+     "en": "obstruction, hindrance; handicap, disability; disorder, impediment",
+     "grade": "",
+     "pos": "",
+     "example": "교육부 장애 영유아 지원사업에 특수교사 배치 '0명'",
+     "chars": [
+      {
+       "c": "障",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "礙",
        "hun": "",
        "eum": "",
        "en": ""
