@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T23:31:20Z",
+ "generated": "2026-10-23T23:23:16Z",
  "days": [
   {
    "date": "2026-09-25",
@@ -5168,6 +5168,224 @@
        "hun": "",
        "eum": "",
        "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "topics": [
+    "스마트 폰",
+    "신애라",
+    "강예원",
+    "코어장전",
+    "당구",
+    "태풍 경로",
+    "다우 존스 산업평균지수",
+    "天气",
+    "天気",
+    "強い台風30号は九州へ 警報級大雨"
+   ],
+   "words": [
+    {
+     "ko": "태풍",
+     "hanja": "颱風",
+     "en": "typhoon",
+     "grade": "",
+     "pos": "",
+     "example": "[오늘의 날씨 및 주말날씨]30호 태풍 참피,31호 태풍 인파 경로,내일까지 전남권과 경남권, 제주도 중심 강하고 많은 비, 풍랑/너울 유의!",
+     "chars": [
+      {
+       "c": "颱",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "風",
+       "hun": "바람",
+       "eum": "풍",
+       "en": "wind"
+      }
+     ]
+    },
+    {
+     "ko": "투어",
+     "hanja": "",
+     "en": "tour",
+     "grade": "",
+     "pos": "",
+     "example": "조재호도 64강 문턱서 고배…PBA 5차 투어, 강호들 잇단 탈락에 이변 확산",
+     "chars": []
+    },
+    {
+     "ko": "숨지다",
+     "hanja": "",
+     "en": "die (pass away)",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "첫날",
+     "hanja": "",
+     "en": "(the) first day, opening day",
+     "grade": "",
+     "pos": "",
+     "example": "아이폰 듀오, 출시 첫날부터 품귀…“공급망 준비 안 돼”",
+     "chars": []
+    },
+    {
+     "ko": "탈락",
+     "hanja": "脫落",
+     "en": "falling out; omission",
+     "grade": "",
+     "pos": "",
+     "example": "조재호도 64강 문턱서 고배…PBA 5차 투어, 강호들 잇단 탈락에 이변 확산",
+     "chars": [
+      {
+       "c": "脫",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "落",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "긴장",
+     "hanja": "緊張",
+     "en": "tension, nervousness, strain",
+     "grade": "",
+     "pos": "",
+     "example": "뉴욕증시, 이란 긴장 고조·유가 급등에 약세…다우 1%대↓",
+     "chars": [
+      {
+       "c": "緊",
+       "hun": "굳게 얽힐",
+       "eum": "긴",
+       "en": ""
+      },
+      {
+       "c": "張",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "교회",
+     "hanja": "敎會",
+     "en": "church",
+     "grade": "",
+     "pos": "",
+     "example": "요르단 남부 교회서 무장괴한 총격…7명 사망·34명 부상(종합)",
+     "chars": [
+      {
+       "c": "敎",
+       "hun": "가르칠",
+       "eum": "교",
+       "en": "teach"
+      },
+      {
+       "c": "會",
+       "hun": "모일",
+       "eum": "회",
+       "en": "meet, gather"
+      }
+     ]
+    },
+    {
+     "ko": "무장",
+     "hanja": "武裝",
+     "en": "arms, armaments; military leader",
+     "grade": "",
+     "pos": "",
+     "example": "요르단 남부 교회서 무장괴한 총격…7명 사망·34명 부상(종합)",
+     "chars": [
+      {
+       "c": "武",
+       "hun": "굳셀",
+       "eum": "무",
+       "en": ""
+      },
+      {
+       "c": "裝",
+       "hun": "꾸밀",
+       "eum": "장",
+       "en": "equip"
+      }
+     ]
+    },
+    {
+     "ko": "향하다",
+     "hanja": "",
+     "en": "to face; to make for, to go towards",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "출시",
+     "hanja": "出市",
+     "en": "release, launch (of a product onto the market)",
+     "grade": "",
+     "pos": "",
+     "example": "아이폰 듀오, 출시 첫날부터 품귀…“공급망 준비 안 돼”",
+     "chars": [
+      {
+       "c": "出",
+       "hun": "날",
+       "eum": "출",
+       "en": "go out"
+      },
+      {
+       "c": "市",
+       "hun": "저자",
+       "eum": "시",
+       "en": "market; city"
+      }
+     ]
+    },
+    {
+     "ko": "판매",
+     "hanja": "販賣",
+     "en": "selling; sale",
+     "grade": "",
+     "pos": "",
+     "example": "애플 첫 폴더블폰, 판매 첫날부터 대박…\"공급 부족\"",
+     "chars": [
+      {
+       "c": "販",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "賣",
+       "hun": "팔",
+       "eum": "매",
+       "en": "sell"
       }
      ]
     }
