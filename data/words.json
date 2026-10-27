@@ -1,143 +1,6 @@
 {
- "generated": "2026-10-27T00:01:58Z",
+ "generated": "2026-10-27T23:56:38Z",
  "days": [
-  {
-   "date": "2026-09-28",
-   "topics": [
-    "식중독",
-    "권상우",
-    "엔비디아",
-    "weather",
-    "차범근",
-    "김량하",
-    "퇴직",
-    "청원",
-    "이슬람 혁명 수비대"
-   ],
-   "words": [
-    {
-     "ko": "현지",
-     "hanja": "現地",
-     "en": "local",
-     "grade": "",
-     "pos": "",
-     "example": "[아프리카 녹색전환] ②\"소리 없이 바뀐다\"…현지서 본 전기차 혁명",
-     "chars": [
-      {
-       "c": "現",
-       "hun": "나타날",
-       "eum": "현",
-       "en": "appear; present"
-      },
-      {
-       "c": "地",
-       "hun": "땅",
-       "eum": "지",
-       "en": "earth, land"
-      }
-     ]
-    },
-    {
-     "ko": "시설",
-     "hanja": "施設",
-     "en": "facilities; establishment",
-     "grade": "",
-     "pos": "",
-     "example": "대구광역시, 다중이용시설 135곳 위생점검...식중독균 검사 병행",
-     "chars": [
-      {
-       "c": "施",
-       "hun": "베풀",
-       "eum": "시",
-       "en": ""
-      },
-      {
-       "c": "設",
-       "hun": "베풀",
-       "eum": "설",
-       "en": "set up"
-      }
-     ]
-    },
-    {
-     "ko": "논의",
-     "hanja": "論議",
-     "en": "discussion",
-     "grade": "",
-     "pos": "",
-     "example": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의",
-     "chars": [
-      {
-       "c": "論",
-       "hun": "논할",
-       "eum": "론",
-       "en": "discuss"
-      },
-      {
-       "c": "議",
-       "hun": "의논할",
-       "eum": "의",
-       "en": "discuss"
-      }
-     ]
-    },
-    {
-     "ko": "축구",
-     "hanja": "蹴球",
-     "en": "football,  soccer",
-     "grade": "",
-     "pos": "",
-     "example": "손태영, ♥권상우 닮은 '훈남 아들' 앞길 걱정..\"고3인데 축구 올인\" 한숨 - 조선비즈",
-     "chars": [
-      {
-       "c": "蹴",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "球",
-       "hun": "공",
-       "eum": "구",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "지원",
-     "hanja": "支援",
-     "en": "support; aid; application",
-     "grade": "",
-     "pos": "",
-     "example": "“재수는 꿈도 꾸지말자” 확 바뀌는 내년 수능…수험생 10명 중 8명 수시 지원 영향 [세상&]",
-     "chars": [
-      {
-       "c": "支",
-       "hun": "지탱할",
-       "eum": "지",
-       "en": ""
-      },
-      {
-       "c": "援",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-09-29",
    "topics": [
@@ -5388,6 +5251,151 @@
     }
    ],
    "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "topics": [
+    "창신 메모리 테크놀로지",
+    "공중강습",
+    "별자리",
+    "[오늘의 운세/10월 28일]",
+    "허문회",
+    "브라질",
+    "하이닉스 실적발표",
+    "묀헨글라트바흐 대 카를스루에",
+    "기온",
+    "수험"
+   ],
+   "words": [
+    {
+     "ko": "주주",
+     "hanja": "株主",
+     "en": "shareholder, stockholder",
+     "grade": "",
+     "pos": "",
+     "example": "SK하이닉스, 오늘 사상 최대 3Q 실적 발표…주주환원 방안도 '주목'",
+     "chars": [
+      {
+       "c": "株",
+       "hun": "그루",
+       "eum": "주",
+       "en": "stump; share (stock)"
+      },
+      {
+       "c": "主",
+       "hun": "주인",
+       "eum": "주",
+       "en": "master; main"
+      }
+     ]
+    },
+    {
+     "ko": "마치다",
+     "hanja": "",
+     "en": "to finish",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "프로그램",
+     "hanja": "",
+     "en": "program; program",
+     "grade": "",
+     "pos": "",
+     "example": "용인특례시, 수능 마친 수험생 위한 특별 프로그램 운영",
+     "chars": []
+    },
+    {
+     "ko": "육군",
+     "hanja": "陸軍",
+     "en": "army, military, troops",
+     "grade": "",
+     "pos": "",
+     "example": "육군 제2신속대응사단, 공정·공중강습 훈련",
+     "chars": [
+      {
+       "c": "陸",
+       "hun": "뭍",
+       "eum": "륙",
+       "en": ""
+      },
+      {
+       "c": "軍",
+       "hun": "군사",
+       "eum": "군",
+       "en": "army, soldier"
+      }
+     ]
+    },
+    {
+     "ko": "운세",
+     "hanja": "運勢",
+     "en": "fortune-telling, horoscope",
+     "grade": "",
+     "pos": "",
+     "example": "[오늘의 운세] 2026년 10월 28일 띠별 운세",
+     "chars": [
+      {
+       "c": "運",
+       "hun": "옮길",
+       "eum": "운",
+       "en": "move, carry; luck"
+      },
+      {
+       "c": "勢",
+       "hun": "형세",
+       "eum": "세",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [
+    {
+     "title": "브라질",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "브라질 연방공화국(브라질 포르투갈어: República Federativa do Brasil 헤푸블리카 페데라치바 두 브라지우), 줄여서 브라질(브라질 포르투갈어: Brasil 브라지우)은 남아메리카에 위치한 연방제 공화국이다.",
+       ""
+      ],
+      [
+       "브라질은 남아메리카에서 가장 큰 나라로, 세계에서 다섯 번째로 면적이 넓고 인구도 2억 1천만 명이 넘어 세계에서 일곱 번째로 인구가 많은 나라이다.",
+       ""
+      ],
+      [
+       "수도는 브라질리아이고, 최대 도시는 상파울루이다.",
+       ""
+      ],
+      [
+       "26개의 주와 1개의 연방구로 나라를 구성한다.",
+       ""
+      ],
+      [
+       "아메리카 대륙에서 포르투갈어가 공식 언어인 유일한 국가이며, 세계에서 포르투갈어를 사용하는 국가들 중에서 가장 규모가 크다.",
+       ""
+      ]
+     ],
+     "vocab": [],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9D%BC%EC%A7%88",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": []
+    }
+   ],
    "subjects": {
     "math": [],
     "science": [],
