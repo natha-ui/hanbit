@@ -1,277 +1,6 @@
 {
- "generated": "2026-10-27T23:56:38Z",
+ "generated": "2026-10-29T00:15:16Z",
  "days": [
-  {
-   "date": "2026-09-29",
-   "topics": [
-    "sl vs nep",
-    "재산",
-    "창신메모리테크놀로지",
-    "대학",
-    "골프",
-    "수익률",
-    "놀면 뭐하니?",
-    "핑클",
-    "전설 의 사내",
-    "‘전설의사내’ 빈예서·성리 듀엣"
-   ],
-   "words": [
-    {
-     "ko": "골프",
-     "hanja": "",
-     "en": "golf",
-     "grade": "",
-     "pos": "",
-     "example": "여자골프 전설 박인비, 세계골프 명예의 전당 최종 후보",
-     "chars": []
-    },
-    {
-     "ko": "재산",
-     "hanja": "財産",
-     "en": "public or private property; monetary assets",
-     "grade": "",
-     "pos": "",
-     "example": "김상욱 울산시장 재산, 반년 새 31억 늘어 50억",
-     "chars": [
-      {
-       "c": "財",
-       "hun": "재물",
-       "eum": "재",
-       "en": "wealth"
-      },
-      {
-       "c": "産",
-       "hun": "낳을",
-       "eum": "산",
-       "en": "produce"
-      }
-     ]
-    },
-    {
-     "ko": "지능",
-     "hanja": "知能",
-     "en": "intelligence",
-     "grade": "",
-     "pos": "",
-     "example": "(서울=연합뉴스) 임순현 기자 = 멕시코 방송사들이 다큐멘터리를 통해 한국 문화와 인공지능(AI)을 조명했다.",
-     "chars": [
-      {
-       "c": "知",
-       "hun": "알",
-       "eum": "지",
-       "en": "know"
-      },
-      {
-       "c": "能",
-       "hun": "능할",
-       "eum": "능",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "전설",
-     "hanja": "傳說",
-     "en": "legend",
-     "grade": "",
-     "pos": "",
-     "example": "여자골프 전설 박인비, 세계골프 명예의 전당 최종 후보",
-     "chars": [
-      {
-       "c": "傳",
-       "hun": "전할",
-       "eum": "전",
-       "en": "pass on"
-      },
-      {
-       "c": "說",
-       "hun": "말씀",
-       "eum": "설",
-       "en": "explain; theory"
-      }
-     ]
-    },
-    {
-     "ko": "글로벌",
-     "hanja": "",
-     "en": "being global",
-     "grade": "",
-     "pos": "",
-     "example": "브레이크 없는 美 국채…\"전쟁 끝나도 안 돌아갈 것\" [글로벌 뉴스픽]",
-     "chars": []
-    },
-    {
-     "ko": "날씨",
-     "hanja": "",
-     "en": "weather",
-     "grade": "",
-     "pos": "",
-     "example": "[날씨] 동해안 중심 비…모레부터 기온 '뚝'",
-     "chars": []
-    },
-    {
-     "ko": "추진",
-     "hanja": "推進",
-     "en": "promotion, thrust, driving force, propulsion",
-     "grade": "",
-     "pos": "",
-     "example": "日도쿄대 첫 여성 총장 선출…개혁·국제화 추진 전망",
-     "chars": [
-      {
-       "c": "推",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "進",
-       "hun": "나아갈",
-       "eum": "진",
-       "en": "advance"
-      }
-     ]
-    },
-    {
-     "ko": "폭발",
-     "hanja": "爆發",
-     "en": "explosion",
-     "grade": "",
-     "pos": "",
-     "example": "▲ 경향신문 = \"DMZ 폭발, 북 지뢰 가능성 매우 높아\"",
-     "chars": [
-      {
-       "c": "爆",
-       "hun": "터질",
-       "eum": "폭",
-       "en": ""
-      },
-      {
-       "c": "發",
-       "hun": "필",
-       "eum": "발",
-       "en": "bloom; set off"
-      }
-     ]
-    },
-    {
-     "ko": "이어지다",
-     "hanja": "",
-     "en": "to continue, for one thing to follow another; to be connected",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "메모리",
-     "hanja": "",
-     "en": "memory",
-     "grade": "",
-     "pos": "",
-     "example": "창신메모리테크놀로지",
-     "chars": []
-    },
-    {
-     "ko": "고가",
-     "hanja": "高價",
-     "en": "high price; elevated; overhead",
-     "grade": "",
-     "pos": "",
-     "example": "\"대학 품은 단지가 대세\"...대학 인근 아파트 신고가 행진",
-     "chars": [
-      {
-       "c": "高",
-       "hun": "높을",
-       "eum": "고",
-       "en": "high"
-      },
-      {
-       "c": "價",
-       "hun": "값",
-       "eum": "가",
-       "en": "price"
-      }
-     ]
-    },
-    {
-     "ko": "행진",
-     "hanja": "行進",
-     "en": "march; parade",
-     "grade": "",
-     "pos": "",
-     "example": "\"대학 품은 단지가 대세\"...대학 인근 아파트 신고가 행진",
-     "chars": [
-      {
-       "c": "行",
-       "hun": "다닐",
-       "eum": "행",
-       "en": "go, act"
-      },
-      {
-       "c": "進",
-       "hun": "나아갈",
-       "eum": "진",
-       "en": "advance"
-      }
-     ]
-    },
-    {
-     "ko": "도전",
-     "hanja": "挑戰",
-     "en": "challenge; difficulty",
-     "grade": "",
-     "pos": "",
-     "example": "박인비, 세계 골프 명예의 전당 최종 후보…LPGA 이어 10년 만에 입성 도전",
-     "chars": [
-      {
-       "c": "挑",
-       "hun": "돋울",
-       "eum": "도",
-       "en": ""
-      },
-      {
-       "c": "戰",
-       "hun": "싸움",
-       "eum": "전",
-       "en": "war"
-      }
-     ]
-    },
-    {
-     "ko": "상승",
-     "hanja": "上昇",
-     "en": "rise, increase",
-     "grade": "",
-     "pos": "",
-     "example": "미·이란 대치 속 美국채금리 또 상승…뉴욕증시 하락(종합)",
-     "chars": [
-      {
-       "c": "上",
-       "hun": "윗",
-       "eum": "상",
-       "en": "up, above"
-      },
-      {
-       "c": "昇",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-09-30",
    "topics": [
@@ -5396,6 +5125,215 @@
      "chars": []
     }
    ],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "topics": [
+    "구글 실적발표",
+    "담합",
+    "매일경제",
+    "조상",
+    "삼성전자 실적발표",
+    "xrp",
+    "송교창",
+    "lig 디펜스&에어로스페이스",
+    "주차",
+    "한다 감"
+   ],
+   "words": [
+    {
+     "ko": "데이터",
+     "hanja": "",
+     "en": "data",
+     "grade": "",
+     "pos": "",
+     "example": "MS \"자본지출 부족분은 데이터센터 건설 지연 때문\"",
+     "chars": []
+    },
+    {
+     "ko": "검증",
+     "hanja": "檢證",
+     "en": "verification",
+     "grade": "",
+     "pos": "",
+     "example": "공개검증 마친 투표용지 반출 완료…선관위 창고로 이송 중(종합)",
+     "chars": [
+      {
+       "c": "檢",
+       "hun": "검사할",
+       "eum": "검",
+       "en": "inspect"
+      },
+      {
+       "c": "證",
+       "hun": "증거",
+       "eum": "증",
+       "en": "proof"
+      }
+     ]
+    },
+    {
+     "ko": "건설",
+     "hanja": "建設",
+     "en": "construction",
+     "grade": "",
+     "pos": "",
+     "example": "MS \"자본지출 부족분은 데이터센터 건설 지연 때문\"",
+     "chars": [
+      {
+       "c": "建",
+       "hun": "세울",
+       "eum": "건",
+       "en": "build"
+      },
+      {
+       "c": "設",
+       "hun": "베풀",
+       "eum": "설",
+       "en": "set up"
+      }
+     ]
+    },
+    {
+     "ko": "의혹",
+     "hanja": "疑惑",
+     "en": "doubt, suspicion",
+     "grade": "",
+     "pos": "",
+     "example": "공정위, '라면 담합' 의혹‥농심·삼양·팔도·오뚜기 현장조사",
+     "chars": [
+      {
+       "c": "疑",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "惑",
+       "hun": "미혹할",
+       "eum": "혹",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "주목",
+     "hanja": "朱木",
+     "en": "Japanese yew",
+     "grade": "",
+     "pos": "",
+     "example": "삼성전자, 오늘 3Q 확정실적 발표…'HBM 공급 전략·30조 배당' 주목",
+     "chars": [
+      {
+       "c": "朱",
+       "hun": "붉을",
+       "eum": "주",
+       "en": ""
+      },
+      {
+       "c": "木",
+       "hun": "나무",
+       "eum": "목",
+       "en": "tree; wood"
+      }
+     ]
+    },
+    {
+     "ko": "유출",
+     "hanja": "流出",
+     "en": "outflow; leak",
+     "grade": "",
+     "pos": "",
+     "example": "\"전자전기 제안서에 '비리 사업들' 포함\"…'기밀유출'의 산은 어찌 넘으려나 [취재파일]",
+     "chars": [
+      {
+       "c": "流",
+       "hun": "흐를",
+       "eum": "류",
+       "en": "flow"
+      },
+      {
+       "c": "出",
+       "hun": "날",
+       "eum": "출",
+       "en": "go out"
+      }
+     ]
+    },
+    {
+     "ko": "출산",
+     "hanja": "出産",
+     "en": "childbirth",
+     "grade": "",
+     "pos": "",
+     "example": "‘47세 출산’ 한다감, 子 공개..’모태 미남’인증까지 “잘생겼다” (‘슈돌’)[Oh!쎈 예고]",
+     "chars": [
+      {
+       "c": "出",
+       "hun": "날",
+       "eum": "출",
+       "en": "go out"
+      },
+      {
+       "c": "産",
+       "hun": "낳을",
+       "eum": "산",
+       "en": "produce"
+      }
+     ]
+    },
+    {
+     "ko": "통합",
+     "hanja": "統合",
+     "en": "unity; integration",
+     "grade": "",
+     "pos": "",
+     "example": "울산시, 통합돌봄 지역계획 수립 착수…핵심과제·실행방안 도출",
+     "chars": [
+      {
+       "c": "統",
+       "hun": "거느릴",
+       "eum": "통",
+       "en": "unite, govern"
+      },
+      {
+       "c": "合",
+       "hun": "합할",
+       "eum": "합",
+       "en": "combine"
+      }
+     ]
+    },
+    {
+     "ko": "하루",
+     "hanja": "",
+     "en": "a day, 24 hours; daytime",
+     "grade": "",
+     "pos": "",
+     "example": "원주공항 제주노선 동계 운항 시간 조정…하루 2회 유지",
+     "chars": []
+    },
+    {
+     "ko": "내달",
+     "hanja": "",
+     "en": "the coming month, next month",
+     "grade": "",
+     "pos": "",
+     "example": "청주시, 내달 1일부터 50일간 김장쓰레기 무상 수거",
+     "chars": []
+    }
+   ],
+   "stories": [],
    "subjects": {
     "math": [],
     "science": [],
