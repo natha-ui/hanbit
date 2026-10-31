@@ -1,224 +1,6 @@
 {
- "generated": "2026-10-30T23:59:09Z",
+ "generated": "2026-10-31T23:36:10Z",
  "days": [
-  {
-   "date": "2026-10-02",
-   "topics": [
-    "추성훈",
-    "콜레스테롤",
-    "패션",
-    "skhy",
-    "김지원",
-    "박성현",
-    "육군사관학교",
-    "제미 나이 4 아르곤",
-    "경제",
-    "■10월 2일 (금) 경제 캘린더"
-   ],
-   "words": [
-    {
-     "ko": "지나다",
-     "hanja": "",
-     "en": "to pass (by, beyond, through; also of time)",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "지난달",
-     "hanja": "",
-     "en": "last month",
-     "grade": "",
-     "pos": "",
-     "example": "(세종=연합뉴스) 이대희 김수현 송정은 기자 = 지난달 소비자물가 상승률이 다시 2%대로 내려왔다.",
-     "chars": []
-    },
-    {
-     "ko": "최고",
-     "hanja": "最高",
-     "en": "the peak, the pinnacle, the topmost point; the best",
-     "grade": "",
-     "pos": "",
-     "example": "한투증권 \"3분기 상장사 영업익 사상 최고 전망…증가율은 둔화\"",
-     "chars": [
-      {
-       "c": "最",
-       "hun": "가장",
-       "eum": "최",
-       "en": ""
-      },
-      {
-       "c": "高",
-       "hun": "높을",
-       "eum": "고",
-       "en": "high"
-      }
-     ]
-    },
-    {
-     "ko": "조사",
-     "hanja": "調査",
-     "en": "investigation; examination; particle; postposition",
-     "grade": "",
-     "pos": "",
-     "example": "[게시판] 로보락, 2026 고객만족도 조사서 2년 연속 1위",
-     "chars": [
-      {
-       "c": "調",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "査",
-       "hun": "조사할",
-       "eum": "사",
-       "en": "investigate"
-      }
-     ]
-    },
-    {
-     "ko": "보이다",
-     "hanja": "",
-     "en": "to be seen; to be visible",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "정책",
-     "hanja": "政策",
-     "en": "policy",
-     "grade": "",
-     "pos": "",
-     "example": "시민이 만드는 일자리사업…인천시, 정책아이디어 공모",
-     "chars": [
-      {
-       "c": "政",
-       "hun": "정사",
-       "eum": "정",
-       "en": ""
-      },
-      {
-       "c": "策",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "행사",
-     "hanja": "行事",
-     "en": "an event or observance; an action",
-     "grade": "",
-     "pos": "",
-     "example": "(서울=연합뉴스) 정수연 기자 = 신세계사이먼은 여주·파주·부산·시흥 프리미엄 아울렛에서 '슈퍼 골든 위크' 행사를 연다고 2일 밝혔다.",
-     "chars": [
-      {
-       "c": "行",
-       "hun": "다닐",
-       "eum": "행",
-       "en": "go, act"
-      },
-      {
-       "c": "事",
-       "hun": "일",
-       "eum": "사",
-       "en": "matter, affair"
-      }
-     ]
-    },
-    {
-     "ko": "앞두다",
-     "hanja": "",
-     "en": "To have lying ahead of one; to look toward",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "화재",
-     "hanja": "火災",
-     "en": "fire (as a disaster), blaze, conflagration",
-     "grade": "",
-     "pos": "",
-     "example": "\"호르무즈 해협 지나던 유조선, 피격에 화재…선원 무사\"",
-     "chars": [
-      {
-       "c": "火",
-       "hun": "불",
-       "eum": "화",
-       "en": "fire"
-      },
-      {
-       "c": "災",
-       "hun": "재앙",
-       "eum": "재",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "선거",
-     "hanja": "選擧",
-     "en": "election; any process to select an officer",
-     "grade": "",
-     "pos": "",
-     "example": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능”",
-     "chars": [
-      {
-       "c": "選",
-       "hun": "가릴",
-       "eum": "선",
-       "en": ""
-      },
-      {
-       "c": "擧",
-       "hun": "들",
-       "eum": "거",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "핵심",
-     "hanja": "核心",
-     "en": "Something which is central or of key importance; The top social class in North Korean society",
-     "grade": "",
-     "pos": "",
-     "example": "구글 제미나이 4 반격에도…월가 \"주가 가를 핵심은 '스파크'\"",
-     "chars": [
-      {
-       "c": "核",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "心",
-       "hun": "마음",
-       "eum": "심",
-       "en": "heart, mind"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-03",
    "topics": [
@@ -4009,8 +3791,8 @@
       },
       {
        "c": "落",
-       "hun": "",
-       "eum": "",
+       "hun": "떨어질",
+       "eum": "락",
        "en": ""
       }
      ]
@@ -5346,6 +5128,336 @@
     }
    ],
    "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "topics": [
+    "눈 둘 데가 없네",
+    "[삶과문화] 메시지 없는 영화",
+    "대구날씨",
+    "샬럿 대 필라데피아",
+    "대한민국 축구 국가대표팀",
+    "박서진",
+    "바이퍼",
+    "노소영",
+    "드라마",
+    "설악산"
+   ],
+   "words": [
+    {
+     "ko": "남다",
+     "hanja": "",
+     "en": "to remain, to be left over; to profit",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "유치",
+     "hanja": "誘致",
+     "en": "attraction; detainment; custody",
+     "grade": "",
+     "pos": "",
+     "example": "인천해사법원 임시청사 이어 본청사 유치전…5일 실사",
+     "chars": [
+      {
+       "c": "誘",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "致",
+       "hun": "이를",
+       "eum": "치",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "추락",
+     "hanja": "墜落",
+     "en": "crash, fall",
+     "grade": "",
+     "pos": "",
+     "example": "‘손흥민 불확실한 미래, 선수단 내분’···가디언 “한국 축구 계속 추락”",
+     "chars": [
+      {
+       "c": "墜",
+       "hun": "떨어질",
+       "eum": "추",
+       "en": ""
+      },
+      {
+       "c": "落",
+       "hun": "떨어질",
+       "eum": "락",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "드라마",
+     "hanja": "",
+     "en": "drama; specifically, a television drama or soap opera",
+     "grade": "",
+     "pos": "",
+     "example": "\"넷플릭스 없어도 되겠네\"…韓드라마 공짜로 볼 수 있다는데 [김예랑의 K컬처인사이드]",
+     "chars": []
+    },
+    {
+     "ko": "사이",
+     "hanja": "",
+     "en": "gap; space between; relationship",
+     "grade": "",
+     "pos": "",
+     "example": "(청주=연합뉴스) 김형우 기자 = 1일 충북은 대체로 흐리고 아침부터 밤사이 곳에 따라 비가 내리겠다.",
+     "chars": []
+    },
+    {
+     "ko": "북부",
+     "hanja": "北部",
+     "en": "northern part, northern area",
+     "grade": "",
+     "pos": "",
+     "example": "시월 마지막날 경북중·북부내륙 짙은 안개...큰 기온차 '건강 유의'",
+     "chars": [
+      {
+       "c": "北",
+       "hun": "북녘",
+       "eum": "북",
+       "en": "north"
+      },
+      {
+       "c": "部",
+       "hun": "떼",
+       "eum": "부",
+       "en": "part, section"
+      }
+     ]
+    },
+    {
+     "ko": "단체",
+     "hanja": "團體",
+     "en": "a group or organization of people",
+     "grade": "",
+     "pos": "",
+     "example": "(인천=연합뉴스) 김상연 기자 = 해사국제상사법원(해사법원) 본청사 유치를 놓고 인천 지방자치단체들이 일제히 유치전에 뛰어들었다.",
+     "chars": [
+      {
+       "c": "團",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "體",
+       "hun": "몸",
+       "eum": "체",
+       "en": "body"
+      }
+     ]
+    },
+    {
+     "ko": "범행",
+     "hanja": "犯行",
+     "en": "crime",
+     "grade": "",
+     "pos": "",
+     "example": "천안 日여성 살인사건…피의자 범행동기 ‘의문 투성’",
+     "chars": [
+      {
+       "c": "犯",
+       "hun": "범할",
+       "eum": "범",
+       "en": ""
+      },
+      {
+       "c": "行",
+       "hun": "다닐",
+       "eum": "행",
+       "en": "go, act"
+      }
+     ]
+    },
+    {
+     "ko": "범죄",
+     "hanja": "犯罪",
+     "en": "crime",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": [
+      {
+       "c": "犯",
+       "hun": "범할",
+       "eum": "범",
+       "en": ""
+      },
+      {
+       "c": "罪",
+       "hun": "허물",
+       "eum": "죄",
+       "en": "crime, fault"
+      }
+     ]
+    },
+    {
+     "ko": "제출",
+     "hanja": "提出",
+     "en": "submission, handing in",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": [
+      {
+       "c": "提",
+       "hun": "끌",
+       "eum": "제",
+       "en": ""
+      },
+      {
+       "c": "出",
+       "hun": "날",
+       "eum": "출",
+       "en": "go out"
+      }
+     ]
+    },
+    {
+     "ko": "흉기",
+     "hanja": "凶器",
+     "en": "deadly weapon; lethal weapon",
+     "grade": "",
+     "pos": "",
+     "example": "인천 흉기난동 최충락, 범행전에도 잇단 시비…경찰신고 8차례",
+     "chars": [
+      {
+       "c": "凶",
+       "hun": "흉할",
+       "eum": "흉",
+       "en": ""
+      },
+      {
+       "c": "器",
+       "hun": "그릇",
+       "eum": "기",
+       "en": "vessel, tool"
+      }
+     ]
+    },
+    {
+     "ko": "선임",
+     "hanja": "先任",
+     "en": "seniority; predecessor",
+     "grade": "",
+     "pos": "",
+     "example": "‘인턴’ 실사판?…50세에 9급 합격한 공무원 “질문 받아주는 선임들 고마워”",
+     "chars": [
+      {
+       "c": "先",
+       "hun": "먼저",
+       "eum": "선",
+       "en": "first, before"
+      },
+      {
+       "c": "任",
+       "hun": "맡길",
+       "eum": "임",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "뒤늦다",
+     "hanja": "",
+     "en": "late, tardy",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "관광객",
+     "hanja": "觀光客",
+     "en": "tourist, sightseer, traveler",
+     "grade": "",
+     "pos": "",
+     "example": "“관광객 오는데 잠은 안 잔다”…지자체들 특급호텔 유치전",
+     "chars": [
+      {
+       "c": "觀",
+       "hun": "볼",
+       "eum": "관",
+       "en": "view"
+      },
+      {
+       "c": "光",
+       "hun": "빛",
+       "eum": "광",
+       "en": "light"
+      },
+      {
+       "c": "客",
+       "hun": "손",
+       "eum": "객",
+       "en": "guest"
+      }
+     ]
+    },
+    {
+     "ko": "마련",
+     "hanja": "",
+     "en": "preparation, arrangement; being natural (to); being certain (to)",
+     "grade": "",
+     "pos": "",
+     "example": "일본 요리·술 매력 알린다…포항서 11일간 재팬위크 마련",
+     "chars": []
+    }
+   ],
+   "stories": [
+    {
+     "title": "눈 둘 데가 없네",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "\"눈 둘 데가 없네\"(영어: Nowhere to Lay My Eyes)는 2026년 개봉한 대한민국의 드라마 영화이다.",
+       ""
+      ],
+      [
+       "홍상수가 감독과 각본을 맡았다.",
+       ""
+      ],
+      [
+       "제79회(2026년) 로카르노 영화제 감독상 수상작이자 황금표범상 경쟁 후보작이다.",
+       ""
+      ]
+     ],
+     "vocab": [
+      [
+       "드라마",
+       "",
+       "drama; specifically, a television drama or soap opera"
+      ]
+     ],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%EB%88%88_%EB%91%98_%EB%8D%B0%EA%B0%80_%EC%97%86%EB%84%A4",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": []
+    }
+   ],
    "subjects": {
     "math": [],
     "science": [],
