@@ -1,118 +1,6 @@
 {
- "generated": "2026-10-31T23:36:10Z",
+ "generated": "2026-11-01T23:49:46Z",
  "days": [
-  {
-   "date": "2026-10-03",
-   "topics": [
-    "한화 이글스",
-    "7승 화이트, 한화 재계약 불발되나?",
-    "1박 2일",
-    "‘1박 2일’ 문세윤, 먹튀에 사과",
-    "김구라",
-    "문가영",
-    "[포토] 문가영 '이기적인 미모'",
-    "보그",
-    "경복궁",
-    "원자력"
-   ],
-   "words": [
-    {
-     "ko": "발사",
-     "hanja": "發射",
-     "en": "launch, discharge, fire, shoot",
-     "grade": "",
-     "pos": "",
-     "example": "[속보] 합참 \"北, 동해상으로 미상 발사체 발사\"",
-     "chars": [
-      {
-       "c": "發",
-       "hun": "필",
-       "eum": "발",
-       "en": "bloom; set off"
-      },
-      {
-       "c": "射",
-       "hun": "쏠",
-       "eum": "사",
-       "en": "shoot"
-      }
-     ]
-    },
-    {
-     "ko": "정보",
-     "hanja": "情報",
-     "en": "information",
-     "grade": "",
-     "pos": "",
-     "example": "도쿄전력, 미국 PSEG 뉴클리어와 원자력 분야 정보교환 협정 체결",
-     "chars": [
-      {
-       "c": "情",
-       "hun": "뜻",
-       "eum": "정",
-       "en": ""
-      },
-      {
-       "c": "報",
-       "hun": "알릴",
-       "eum": "보",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "아파트",
-     "hanja": "",
-     "en": "apartment building, block of flats; an apartment, a flat",
-     "grade": "",
-     "pos": "",
-     "example": "'김구라 아들' 그리 \"아파트 하나 사놨다\" 재산 공개 - 머니투데이",
-     "chars": []
-    },
-    {
-     "ko": "미사일",
-     "hanja": "",
-     "en": "missile",
-     "grade": "",
-     "pos": "",
-     "example": "北, 김여정 '남북대화 일축' 하루 뒤 동해로 탄도미사일(종합)",
-     "chars": []
-    },
-    {
-     "ko": "법원",
-     "hanja": "法院",
-     "en": "court (of law)",
-     "grade": "",
-     "pos": "",
-     "example": "만취상태로 예인선 오르던 선원 추락사…법원 \"직무상 재해\"",
-     "chars": [
-      {
-       "c": "法",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "院",
-       "hun": "집",
-       "eum": "원",
-       "en": "institution"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-04",
    "topics": [
@@ -5458,6 +5346,131 @@
      "chars": []
     }
    ],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-02",
+   "topics": [
+    "카를로스 알카라스",
+    "빈오픈 첫 우승컵 들어 올린 알카라스",
+    "중대범죄수사청",
+    "휴고 칼데라노",
+    "비트코인",
+    "구미시",
+    "지소연",
+    "사학연금",
+    "김호령",
+    "[사진]아쉬운 김호령 - 머니투데이"
+   ],
+   "words": [
+    {
+     "ko": "구속",
+     "hanja": "拘束",
+     "en": "arrest; detention; restriction; confinement",
+     "grade": "",
+     "pos": "",
+     "example": "대혼란 없었지만… 중수청, 종이 수사기록 ‘배달’하고 구속 5건",
+     "chars": [
+      {
+       "c": "拘",
+       "hun": "잡을",
+       "eum": "구",
+       "en": ""
+      },
+      {
+       "c": "束",
+       "hun": "묶을",
+       "eum": "속",
+       "en": "bind"
+      }
+     ]
+    },
+    {
+     "ko": "진출",
+     "hanja": "進出",
+     "en": "advancement",
+     "grade": "",
+     "pos": "",
+     "example": "'끈질긴 선수' 드미노, 세계 1위 즈베레프 꺾고 비엔나 결승 진출",
+     "chars": [
+      {
+       "c": "進",
+       "hun": "나아갈",
+       "eum": "진",
+       "en": "advance"
+      },
+      {
+       "c": "出",
+       "hun": "날",
+       "eum": "출",
+       "en": "go out"
+      }
+     ]
+    },
+    {
+     "ko": "해커",
+     "hanja": "",
+     "en": "hacker",
+     "grade": "",
+     "pos": "",
+     "example": "北해커가 훔친 비트코인, 테슬라 보유량 추월…北연간 수출액 3배",
+     "chars": []
+    },
+    {
+     "ko": "대상",
+     "hanja": "隊商",
+     "en": "caravan; target; object",
+     "grade": "",
+     "pos": "",
+     "example": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
+     "chars": [
+      {
+       "c": "隊",
+       "hun": "떼",
+       "eum": "대",
+       "en": ""
+      },
+      {
+       "c": "商",
+       "hun": "장사",
+       "eum": "상",
+       "en": "trade"
+      }
+     ]
+    },
+    {
+     "ko": "임금",
+     "hanja": "賃金",
+     "en": "king; monarch; wages",
+     "grade": "",
+     "pos": "",
+     "example": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
+     "chars": [
+      {
+       "c": "賃",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "金",
+       "hun": "쇠",
+       "eum": "금",
+       "en": "metal; gold (also the surname 김)"
+      }
+     ]
+    }
+   ],
+   "stories": [],
    "subjects": {
     "math": [],
     "science": [],
