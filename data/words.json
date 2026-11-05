@@ -1,255 +1,6 @@
 {
- "generated": "2026-11-04T00:49:14Z",
+ "generated": "2026-11-05T01:00:22Z",
  "days": [
-  {
-   "date": "2026-10-06",
-   "topics": [
-    "성현주",
-    "우리은행",
-    "하나은행",
-    "클로드",
-    "엔화",
-    "1박 2일",
-    "이자",
-    "송강",
-    "유승민",
-    "백악관 대변인"
-   ],
-   "words": [
-    {
-     "ko": "사고",
-     "hanja": "事故",
-     "en": "an accident; thought; reflection",
-     "grade": "",
-     "pos": "",
-     "example": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
-     "chars": [
-      {
-       "c": "事",
-       "hun": "일",
-       "eum": "사",
-       "en": "matter, affair"
-      },
-      {
-       "c": "故",
-       "hun": "옛",
-       "eum": "고",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "센터",
-     "hanja": "",
-     "en": "center",
-     "grade": "",
-     "pos": "",
-     "example": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
-     "chars": []
-    },
-    {
-     "ko": "대응",
-     "hanja": "對應",
-     "en": "action or maneuver; correspondence with something",
-     "grade": "",
-     "pos": "",
-     "example": "[인뱅 보안 시험대]③ 케이뱅크, 망분리 완화 '선제 대응'…IT 자산·취약점 관리 강화",
-     "chars": [
-      {
-       "c": "對",
-       "hun": "대할",
-       "eum": "대",
-       "en": "face, respond"
-      },
-      {
-       "c": "應",
-       "hun": "응할",
-       "eum": "응",
-       "en": "respond"
-      }
-     ]
-    },
-    {
-     "ko": "수사",
-     "hanja": "數詞",
-     "en": "number; numeral; a criminal investigation",
-     "grade": "",
-     "pos": "",
-     "example": "경찰, 삼성전자 노조위원장 '장인회사 계약 논란' 수사 착수",
-     "chars": [
-      {
-       "c": "數",
-       "hun": "셈",
-       "eum": "수",
-       "en": "number, count"
-      },
-      {
-       "c": "詞",
-       "hun": "말",
-       "eum": "사",
-       "en": "words, lyrics"
-      }
-     ]
-    },
-    {
-     "ko": "합류",
-     "hanja": "合流",
-     "en": "joining, merger, act of coming together",
-     "grade": "",
-     "pos": "",
-     "example": "'1박2일' 신입 이기택, 합류 100일 소감…\"많이 편해졌다\"",
-     "chars": [
-      {
-       "c": "合",
-       "hun": "합할",
-       "eum": "합",
-       "en": "combine"
-      },
-      {
-       "c": "流",
-       "hun": "흐를",
-       "eum": "류",
-       "en": "flow"
-      }
-     ]
-    },
-    {
-     "ko": "배우",
-     "hanja": "俳優",
-     "en": "actor (person who performs in a theatrical play or film)",
-     "grade": "",
-     "pos": "",
-     "example": "송강 옆에서 '쩍벌'한 태국 배우…\"미안해, 다음엔 내 다리 쳐도 돼\"",
-     "chars": [
-      {
-       "c": "俳",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "優",
-       "hun": "넉넉할",
-       "eum": "우",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "전하다",
-     "hanja": "",
-     "en": "to pass along; to convey",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "눈물",
-     "hanja": "",
-     "en": "tears",
-     "grade": "",
-     "pos": "",
-     "example": "성현주, 8살 아들상 비보..\"천일간 의식 無→마지막 눈 직접 감겨줘\" 눈물[짠한형]",
-     "chars": []
-    },
-    {
-     "ko": "최초",
-     "hanja": "最初",
-     "en": "first; earliest",
-     "grade": "",
-     "pos": "",
-     "example": "우리은행 런던서 현지 기업과 첫 파생상품 거래, 국내 은행 최초 자체 운용",
-     "chars": [
-      {
-       "c": "最",
-       "hun": "가장",
-       "eum": "최",
-       "en": ""
-      },
-      {
-       "c": "初",
-       "hun": "처음",
-       "eum": "초",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "자체",
-     "hanja": "自體",
-     "en": "the thing itself",
-     "grade": "",
-     "pos": "",
-     "example": "우리은행 런던서 현지 기업과 첫 파생상품 거래, 국내 은행 최초 자체 운용",
-     "chars": [
-      {
-       "c": "自",
-       "hun": "스스로",
-       "eum": "자",
-       "en": "self"
-      },
-      {
-       "c": "體",
-       "hun": "몸",
-       "eum": "체",
-       "en": "body"
-      }
-     ]
-    },
-    {
-     "ko": "마크",
-     "hanja": "",
-     "en": "mark",
-     "grade": "",
-     "pos": "",
-     "example": "클로드 이어 챗GPT도 텍스트 워터마크 적용…EU지역 우선 적용",
-     "chars": []
-    },
-    {
-     "ko": "토스",
-     "hanja": "",
-     "en": "Toss",
-     "grade": "",
-     "pos": "",
-     "example": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
-     "chars": []
-    },
-    {
-     "ko": "보안",
-     "hanja": "保安",
-     "en": "preservation of public security",
-     "grade": "",
-     "pos": "",
-     "example": "[인뱅 보안 시험대]③ 케이뱅크, 망분리 완화 '선제 대응'…IT 자산·취약점 관리 강화",
-     "chars": [
-      {
-       "c": "保",
-       "hun": "지킬",
-       "eum": "보",
-       "en": "protect"
-      },
-      {
-       "c": "安",
-       "hun": "편안",
-       "eum": "안",
-       "en": "peaceful, safe"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-07",
    "topics": [
@@ -5424,6 +5175,184 @@
      "pos": "",
      "example": "",
      "chars": []
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-05",
+   "topics": [
+    "lg그룹",
+    "디트로이트 대 필라데피아",
+    "젠지",
+    "한국대학신문",
+    "엔씨",
+    "매일경제",
+    "kia 타이거즈",
+    "이혼 소송",
+    "hd현대중공업",
+    "이자"
+   ],
+   "words": [
+    {
+     "ko": "나누다",
+     "hanja": "",
+     "en": "to divide (into pieces); to split up; to divide",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "신규",
+     "hanja": "新規",
+     "en": "new regulation; new",
+     "grade": "",
+     "pos": "",
+     "example": "엔씨, '길드워' 20년 만의 신규 콘텐츠 '애프터라이프' 내년 1월 출시",
+     "chars": [
+      {
+       "c": "新",
+       "hun": "새",
+       "eum": "신",
+       "en": "new"
+      },
+      {
+       "c": "規",
+       "hun": "법",
+       "eum": "규",
+       "en": "rule"
+      }
+     ]
+    },
+    {
+     "ko": "혐의",
+     "hanja": "嫌疑",
+     "en": "suspicion, charge, accusation",
+     "grade": "",
+     "pos": "",
+     "example": "국회의원 활동 홍보 혐의 김형찬 전 부산 강서구청장 기소",
+     "chars": [
+      {
+       "c": "嫌",
+       "hun": "싫어할",
+       "eum": "혐",
+       "en": ""
+      },
+      {
+       "c": "疑",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "개선",
+     "hanja": "改善",
+     "en": "reform or improvement in general; a triumphant return",
+     "grade": "",
+     "pos": "",
+     "example": "'안전인력 충원·처우개선'…김포시-김포골드라인 노조 간담회",
+     "chars": [
+      {
+       "c": "改",
+       "hun": "고칠",
+       "eum": "개",
+       "en": ""
+      },
+      {
+       "c": "善",
+       "hun": "착할",
+       "eum": "선",
+       "en": "good"
+      }
+     ]
+    },
+    {
+     "ko": "그룹",
+     "hanja": "",
+     "en": "group; group",
+     "grade": "",
+     "pos": "",
+     "example": "LG그룹, 연말 CEO 쇄신 예고…실적·사업 재편·세대교체",
+     "chars": []
+    },
+    {
+     "ko": "영향",
+     "hanja": "影響",
+     "en": "influence; effect",
+     "grade": "",
+     "pos": "",
+     "example": "수도권 분양가 1년 새 25.7% 올라… 공사비 증가 영향",
+     "chars": [
+      {
+       "c": "影",
+       "hun": "그림자",
+       "eum": "영",
+       "en": ""
+      },
+      {
+       "c": "響",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "이혼",
+     "hanja": "離婚",
+     "en": "divorce (legal dissolution of a marriage)",
+     "grade": "",
+     "pos": "",
+     "example": "장모 퇴직금 보태서 산 6억 집, 18억 되자…이혼 소송 남편 \"'옛 공시가'로 나누자\"",
+     "chars": [
+      {
+       "c": "離",
+       "hun": "떠날",
+       "eum": "리",
+       "en": ""
+      },
+      {
+       "c": "婚",
+       "hun": "혼인할",
+       "eum": "혼",
+       "en": "marry"
+      }
+     ]
+    },
+    {
+     "ko": "규제",
+     "hanja": "規制",
+     "en": "regulation; restriction",
+     "grade": "",
+     "pos": "",
+     "example": "코스피, 美 데이터센터 규제 우려에 장 초반 1∼2%대 하락(종합)",
+     "chars": [
+      {
+       "c": "規",
+       "hun": "법",
+       "eum": "규",
+       "en": "rule"
+      },
+      {
+       "c": "制",
+       "hun": "절제할",
+       "eum": "제",
+       "en": "control; system"
+      }
+     ]
     }
    ],
    "stories": [],
