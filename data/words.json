@@ -1,96 +1,6 @@
 {
- "generated": "2026-11-07T00:15:00Z",
+ "generated": "2026-11-07T23:50:40Z",
  "days": [
-  {
-   "date": "2026-10-09",
-   "topics": [
-    "오윤아",
-    "한고은",
-    "잠실 돔구장",
-    "금양",
-    "해피투게더",
-    "해피투게더, 김범수의 후예들",
-    "류필립",
-    "박현경",
-    "아이언샷 치는 이예원",
-    "김승윤"
-   ],
-   "words": [
-    {
-     "ko": "연상",
-     "hanja": "聯想",
-     "en": "association; senior (older person)",
-     "grade": "",
-     "pos": "",
-     "example": "‘17세 연상 미나 남편’ 류필립, 홀로 미국행…“불안정한 미래 때문에”",
-     "chars": [
-      {
-       "c": "聯",
-       "hun": "잇달",
-       "eum": "련",
-       "en": ""
-      },
-      {
-       "c": "想",
-       "hun": "생각",
-       "eum": "상",
-       "en": "imagine"
-      }
-     ]
-    },
-    {
-     "ko": "위반",
-     "hanja": "違反",
-     "en": "violation, breach",
-     "grade": "",
-     "pos": "",
-     "example": "금융위, 금양에 과징금 76억 부과…“회계처리기준 위반”",
-     "chars": [
-      {
-       "c": "違",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "反",
-       "hun": "돌이킬",
-       "eum": "반",
-       "en": "reverse, oppose"
-      }
-     ]
-    },
-    {
-     "ko": "이틀",
-     "hanja": "",
-     "en": "two days; the second day of the month",
-     "grade": "",
-     "pos": "",
-     "example": "이유진, 9일 백년가약 맺는다…동명이인 배우 이틀 연속 결혼 발표 눈길",
-     "chars": []
-    },
-    {
-     "ko": "데뷔",
-     "hanja": "",
-     "en": "debut",
-     "grade": "",
-     "pos": "",
-     "example": "이수만 제작 신인 보이그룹·걸그룹 동시 데뷔",
-     "chars": []
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-10",
    "topics": [
@@ -5257,6 +5167,131 @@
     }
    ],
    "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "topics": [
+    "로마 대 사수올로",
+    "박서진",
+    "xrp 레저",
+    "XRP 가격이 10% 하락",
+    "중국인민은행",
+    "토트넘 홋스퍼 fc",
+    "포스코",
+    "치지직"
+   ],
+   "words": [
+    {
+     "ko": "관심",
+     "hanja": "關心",
+     "en": "interest in, or inclination to, a topic or activity",
+     "grade": "",
+     "pos": "",
+     "example": "박서진, 강남서 리프팅 시술 고백 \"당일에 바로 효과\"…이요원도 관심",
+     "chars": [
+      {
+       "c": "關",
+       "hun": "빗장",
+       "eum": "관",
+       "en": ""
+      },
+      {
+       "c": "心",
+       "hun": "마음",
+       "eum": "심",
+       "en": "heart, mind"
+      }
+     ]
+    },
+    {
+     "ko": "기소",
+     "hanja": "起訴",
+     "en": "prosecution, indictment",
+     "grade": "",
+     "pos": "",
+     "example": "초선부터 3선까지 기소…오태완 의령군수 '사법리스크' 반복",
+     "chars": [
+      {
+       "c": "起",
+       "hun": "일어날",
+       "eum": "기",
+       "en": ""
+      },
+      {
+       "c": "訴",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "회장",
+     "hanja": "會長",
+     "en": "the chairman or chairperson of a board, or the president of some organizations; hall; venue; conference center",
+     "grade": "",
+     "pos": "",
+     "example": "농담일까 진심일까…트럼프 \"UFC회장에 백악관 대변인 제안\"(종합2보)",
+     "chars": [
+      {
+       "c": "會",
+       "hun": "모일",
+       "eum": "회",
+       "en": "meet, gather"
+      },
+      {
+       "c": "長",
+       "hun": "긴",
+       "eum": "장",
+       "en": "long; eldest; chief"
+      }
+     ]
+    }
+   ],
+   "stories": [
+    {
+     "title": "포스코",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "주식회사 포스코(POSCO, Pohang Iron and Steel Co., Ltd.)는 대한민국의 철강 회사이다.",
+       ""
+      ],
+      [
+       "당시 세계 톱클래스의 일본기업 3사, 야하타제철(현.",
+       ""
+      ],
+      [
+       "일본제철)과 후지제철(현.",
+       ""
+      ],
+      [
+       "일본제철), 일본강관(현.",
+       ""
+      ],
+      [
+       "JFE홀딩스)의 기술 공여로 급속히 발전했다.",
+       ""
+      ]
+     ],
+     "vocab": [],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%EC%BD%94",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": []
+    }
+   ],
    "subjects": {
     "math": [],
     "science": [],
