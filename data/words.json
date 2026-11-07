@@ -1,146 +1,6 @@
 {
- "generated": "2026-11-06T01:04:49Z",
+ "generated": "2026-11-07T00:15:00Z",
  "days": [
-  {
-   "date": "2026-10-08",
-   "topics": [
-    "트로트",
-    "삼성전자 실적",
-    "한글날",
-    "임윤찬",
-    "에페",
-    "성심당",
-    "전북경찰청",
-    "조두순",
-    "버크셔 해서웨이",
-    "베이비뉴스"
-   ],
-   "words": [
-    {
-     "ko": "분기",
-     "hanja": "分期",
-     "en": "quarter; bifurcation, division, divarication",
-     "grade": "",
-     "pos": "",
-     "example": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록",
-     "chars": [
-      {
-       "c": "分",
-       "hun": "나눌",
-       "eum": "분",
-       "en": "divide; minute"
-      },
-      {
-       "c": "期",
-       "hun": "기약할",
-       "eum": "기",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "영업",
-     "hanja": "營業",
-     "en": "business, trade, sales",
-     "grade": "",
-     "pos": "",
-     "example": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록",
-     "chars": [
-      {
-       "c": "營",
-       "hun": "경영할",
-       "eum": "영",
-       "en": "manage"
-      },
-      {
-       "c": "業",
-       "hun": "업",
-       "eum": "업",
-       "en": "work, business"
-      }
-     ]
-    },
-    {
-     "ko": "브랜드",
-     "hanja": "",
-     "en": "brand",
-     "grade": "",
-     "pos": "",
-     "example": "[빅데이터로본다] 제과제빵 전문점 2026년 10월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠",
-     "chars": []
-    },
-    {
-     "ko": "한글",
-     "hanja": "",
-     "en": "hangul; the Korean alphabet; the Korean language",
-     "grade": "",
-     "pos": "",
-     "example": "29CM, 한글날 100주년 맞아 '한글문화상품' 선보인다",
-     "chars": []
-    },
-    {
-     "ko": "위원회",
-     "hanja": "委員會",
-     "en": "committee",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": [
-      {
-       "c": "委",
-       "hun": "맡길",
-       "eum": "위",
-       "en": ""
-      },
-      {
-       "c": "員",
-       "hun": "인원",
-       "eum": "원",
-       "en": "member"
-      },
-      {
-       "c": "會",
-       "hun": "모일",
-       "eum": "회",
-       "en": "meet, gather"
-      }
-     ]
-    },
-    {
-     "ko": "의료",
-     "hanja": "醫療",
-     "en": "medical treatment",
-     "grade": "",
-     "pos": "",
-     "example": "단국대병원, 재난·응급의료 유공 충남도지사 표창",
-     "chars": [
-      {
-       "c": "醫",
-       "hun": "의원",
-       "eum": "의",
-       "en": "medicine, doctor"
-      },
-      {
-       "c": "療",
-       "hun": "병고칠",
-       "eum": "료",
-       "en": "heal"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-09",
    "topics": [
@@ -5298,6 +5158,100 @@
        "hun": "말미암을",
        "eum": "유",
        "en": "reason; from"
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "topics": [
+    "문화일보",
+    "농구",
+    "아들",
+    "대한민국 농림축산식품부 장관",
+    "테슬라 사이버트럭",
+    "의약품",
+    "노동자",
+    "기초 연구",
+    "아프리카",
+    "박민지"
+   ],
+   "words": [
+    {
+     "ko": "한파",
+     "hanja": "寒波",
+     "en": "a cold wave",
+     "grade": "",
+     "pos": "",
+     "example": "충북 영동에 한파주의보 해제",
+     "chars": [
+      {
+       "c": "寒",
+       "hun": "찰",
+       "eum": "한",
+       "en": ""
+      },
+      {
+       "c": "波",
+       "hun": "물결",
+       "eum": "파",
+       "en": "wave"
+      }
+     ]
+    },
+    {
+     "ko": "참패",
+     "hanja": "慘敗",
+     "en": "crushing defeat, utter defeat",
+     "grade": "",
+     "pos": "",
+     "example": "선거참패 1호 희생양?…'얼음아가씨' 백악관 첫 女비서실장 퇴장(종합)",
+     "chars": [
+      {
+       "c": "慘",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "敗",
+       "hun": "질",
+       "eum": "패",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "최종",
+     "hanja": "最終",
+     "en": "the last, the final",
+     "grade": "",
+     "pos": "",
+     "example": "금메달 주역 8명에 허훈·안영준까지 합류! 마줄스호 월드컵 예선 최종 12인 발표... 카타르 원정 2연전 나선다 - 머니투데이",
+     "chars": [
+      {
+       "c": "最",
+       "hun": "가장",
+       "eum": "최",
+       "en": ""
+      },
+      {
+       "c": "終",
+       "hun": "마칠",
+       "eum": "종",
+       "en": ""
       }
      ]
     }
