@@ -1,87 +1,6 @@
 {
- "generated": "2026-11-07T23:50:40Z",
+ "generated": "2026-11-08T23:56:39Z",
  "days": [
-  {
-   "date": "2026-10-10",
-   "topics": [
-    "서동주",
-    "여수세계박람회장",
-    "돈",
-    "[오늘 금시세] 순금 1돈 얼마?",
-    "한혜연",
-    "노윤서",
-    "대한민국 축구 국가대표팀",
-    "[사진]오세훈,'뜨거운 환호'",
-    "홍혜걸",
-    "조선민주주의인민공화국"
-   ],
-   "words": [
-    {
-     "ko": "경유",
-     "hanja": "輕油",
-     "en": "diesel; going via, by way of",
-     "grade": "",
-     "pos": "",
-     "example": "러도 경유 30만t 이달 미 등에 공급 확인…\"수출제한 즉각 해제\"",
-     "chars": [
-      {
-       "c": "輕",
-       "hun": "가벼울",
-       "eum": "경",
-       "en": ""
-      },
-      {
-       "c": "油",
-       "hun": "기름",
-       "eum": "유",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "공격",
-     "hanja": "攻擊",
-     "en": "attack; charge; accusation",
-     "grade": "",
-     "pos": "",
-     "example": "“돈 그만 벌겠다” 여에스더 발언 왜?… “고인 모독” 홍혜걸 ‘암살자(들)’ 비판했다 악플러들 부부 공격",
-     "chars": [
-      {
-       "c": "攻",
-       "hun": "칠",
-       "eum": "공",
-       "en": ""
-      },
-      {
-       "c": "擊",
-       "hun": "칠",
-       "eum": "격",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "절벽",
-     "hanja": "",
-     "en": "precipice; cliff",
-     "grade": "",
-     "pos": "",
-     "example": "서동주, 절벽으로 추락해 죽을 뻔.. \"브레이크 대신 액셀 밟았다\"",
-     "chars": []
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-11",
    "topics": [
@@ -5292,6 +5211,166 @@
      "chars": []
     }
    ],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-09",
+   "topics": [
+    "노동법",
+    "기영식",
+    "황유민",
+    "수능날",
+    "할증",
+    "의약품",
+    "t1",
+    "lck",
+    "이준호",
+    "젠슨 황"
+   ],
+   "words": [
+    {
+     "ko": "할증",
+     "hanja": "割增",
+     "en": "extra charge, extra fare",
+     "grade": "",
+     "pos": "",
+     "example": "택시 ‘요일별 할증제’ 추진… 불금·주말엔 더 비싸지나",
+     "chars": [
+      {
+       "c": "割",
+       "hun": "벨",
+       "eum": "할",
+       "en": ""
+      },
+      {
+       "c": "增",
+       "hun": "더할",
+       "eum": "증",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "선정",
+     "hanja": "選定",
+     "en": "selection",
+     "grade": "",
+     "pos": "",
+     "example": "희귀질환 신약 5종, 건보 신속 등재 시범사업 대상 선정",
+     "chars": [
+      {
+       "c": "選",
+       "hun": "가릴",
+       "eum": "선",
+       "en": ""
+      },
+      {
+       "c": "定",
+       "hun": "정할",
+       "eum": "정",
+       "en": "decide, fix"
+      }
+     ]
+    },
+    {
+     "ko": "유민",
+     "hanja": "流民",
+     "en": "refugees; displaced people",
+     "grade": "",
+     "pos": "",
+     "example": "황유민·김효주 LPGA 토토 저팬 공동 6위…우승은 사쿠마",
+     "chars": [
+      {
+       "c": "流",
+       "hun": "흐를",
+       "eum": "류",
+       "en": "flow"
+      },
+      {
+       "c": "民",
+       "hun": "백성",
+       "eum": "민",
+       "en": "the people"
+      }
+     ]
+    },
+    {
+     "ko": "요일",
+     "hanja": "曜日",
+     "en": "day of the week",
+     "grade": "",
+     "pos": "",
+     "example": "택시 ‘요일별 할증제’ 추진… 불금·주말엔 더 비싸지나",
+     "chars": [
+      {
+       "c": "曜",
+       "hun": "빛날",
+       "eum": "요",
+       "en": "shine (used in weekdays)"
+      },
+      {
+       "c": "日",
+       "hun": "날",
+       "eum": "일",
+       "en": "day; sun"
+      }
+     ]
+    },
+    {
+     "ko": "공동",
+     "hanja": "共同",
+     "en": "commonality, sharedness (of assets or actions)",
+     "grade": "",
+     "pos": "",
+     "example": "황유민·김효주 LPGA 토토 저팬 공동 6위…우승은 사쿠마",
+     "chars": [
+      {
+       "c": "共",
+       "hun": "함께",
+       "eum": "공",
+       "en": ""
+      },
+      {
+       "c": "同",
+       "hun": "한가지",
+       "eum": "동",
+       "en": "same"
+      }
+     ]
+    },
+    {
+     "ko": "질환",
+     "hanja": "疾患",
+     "en": "disease, illness, sickness, disorder",
+     "grade": "",
+     "pos": "",
+     "example": "희귀질환 신약 5종, 건보 신속 등재 시범사업 대상 선정",
+     "chars": [
+      {
+       "c": "疾",
+       "hun": "병",
+       "eum": "질",
+       "en": "disease"
+      },
+      {
+       "c": "患",
+       "hun": "근심",
+       "eum": "환",
+       "en": "illness; worry"
+      }
+     ]
+    }
+   ],
+   "stories": [],
    "subjects": {
     "math": [],
     "science": [],
