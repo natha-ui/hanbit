@@ -1,186 +1,6 @@
 {
- "generated": "2026-11-08T23:56:39Z",
+ "generated": "2026-11-10T02:53:33Z",
  "days": [
-  {
-   "date": "2026-10-11",
-   "topics": [
-    "김사랑",
-    "lafc",
-    "박유나",
-    "고양이",
-    "성리",
-    "몽산포해수욕장",
-    "육영수",
-    "대전광역시",
-    "天気",
-    "１２日の天気（東日本）"
-   ],
-   "words": [
-    {
-     "ko": "소나기",
-     "hanja": "",
-     "en": "shower; thunder",
-     "grade": "",
-     "pos": "",
-     "example": "강원 남부 내륙·산지·태백에 5∼20㎜ 소나기…큰 일교차",
-     "chars": []
-    },
-    {
-     "ko": "발견",
-     "hanja": "發見",
-     "en": "find; discovery",
-     "grade": "",
-     "pos": "",
-     "example": "[속보]해수욕장 산책하러 나간 30대, 바다서 숨진 채 발견",
-     "chars": [
-      {
-       "c": "發",
-       "hun": "필",
-       "eum": "발",
-       "en": "bloom; set off"
-      },
-      {
-       "c": "見",
-       "hun": "볼",
-       "eum": "견",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "확정",
-     "hanja": "確定",
-     "en": "decision",
-     "grade": "",
-     "pos": "",
-     "example": "경남 고성군, 2차 인구감소지역 대응 기본계획 확정",
-     "chars": [
-      {
-       "c": "確",
-       "hun": "굳을",
-       "eum": "확",
-       "en": "certain"
-      },
-      {
-       "c": "定",
-       "hun": "정할",
-       "eum": "정",
-       "en": "decide, fix"
-      }
-     ]
-    },
-    {
-     "ko": "불륜",
-     "hanja": "不倫",
-     "en": "affair, adultery, infidelity, liaison, unfaithfulness",
-     "grade": "",
-     "pos": "",
-     "example": "‘사랑이 온다’ 박유나, 시부 불륜→남편 불륜 충격 이어… 시모는 ‘호빠’까지?",
-     "chars": [
-      {
-       "c": "不",
-       "hun": "아닐",
-       "eum": "불",
-       "en": "not"
-      },
-      {
-       "c": "倫",
-       "hun": "인륜",
-       "eum": "륜",
-       "en": "human relations"
-      }
-     ]
-    },
-    {
-     "ko": "현장",
-     "hanja": "現場",
-     "en": "site, location, place; workplace, construction site",
-     "grade": "",
-     "pos": "",
-     "example": "전남바이오진흥원 식품센터, '2026 나주영산강축제' 현장 환경정화 봉사",
-     "chars": [
-      {
-       "c": "現",
-       "hun": "나타날",
-       "eum": "현",
-       "en": "appear; present"
-      },
-      {
-       "c": "場",
-       "hun": "마당",
-       "eum": "장",
-       "en": "yard, place"
-      }
-     ]
-    },
-    {
-     "ko": "산책",
-     "hanja": "散策",
-     "en": "walk, stroll",
-     "grade": "",
-     "pos": "",
-     "example": "[속보]해수욕장 산책하러 나간 30대, 바다서 숨진 채 발견",
-     "chars": [
-      {
-       "c": "散",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "策",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    }
-   ],
-   "stories": [
-    {
-     "title": "육영수",
-     "en": "",
-     "lvl": 4,
-     "lines": [
-      [
-       "육영수(陸英修, 일본식 이름: 陸海英修, 1925년 11월 29일~1974년 8월 15일) 여사는 대한민국의 제5·6·7·8·9대 박정희 대통령의 두 번째 배우자이자, 박근혜, 박지만, 박근령의 어머니이기도 하다.",
-       ""
-      ],
-      [
-       "본관은 옥천이다.",
-       ""
-      ],
-      [
-       "충청북도 옥천공립여자전수학교에서 교사로 1년여 간 재직한 바 있다.",
-       ""
-      ],
-      [
-       "1974년 8월 15일 서울 장충동의 국립극장에서 재일교포 문세광이 박정희 대통령을 저격하려 하였지만 육영수 여사가 총에 맞아서 사망했다.",
-       ""
-      ],
-      [
-       "장녀 박근혜 대통령은 육영수 여사의 사망 후 영부인의 역할을 대신 하였다.",
-       ""
-      ]
-     ],
-     "vocab": [],
-     "quiz": [],
-     "source": "https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%98%81%EC%88%98",
-     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
-     "chars": []
-    }
-   ],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-12",
    "topics": [
@@ -5371,6 +5191,245 @@
     }
    ],
    "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-10",
+   "topics": [
+    "박진만",
+    "3 기 신도시 남양주 왕숙 지구",
+    "중대범죄 수사청",
+    "인구",
+    "홍성군 인구 10만 2000 명 돌파",
+    "병무청",
+    "병무청, 복무기관 담당자 전문성 강화",
+    "청약홈",
+    "대구백화점 본점",
+    "삼성증권"
+   ],
+   "words": [
+    {
+     "ko": "돌파",
+     "hanja": "突破",
+     "en": "breaking through; breakthrough; passing; surpassing",
+     "grade": "",
+     "pos": "",
+     "example": "홍성군 인구 10만 2천 명 돌파…\"전입·정착 지원 강화\"",
+     "chars": [
+      {
+       "c": "突",
+       "hun": "갑자기",
+       "eum": "돌",
+       "en": ""
+      },
+      {
+       "c": "破",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "참석",
+     "hanja": "參席",
+     "en": "attendance",
+     "grade": "",
+     "pos": "",
+     "example": "'억지 참석할 필요없다'해도…김지용 중수청장 4주째 국무회의 배석",
+     "chars": [
+      {
+       "c": "參",
+       "hun": "참여할",
+       "eum": "참",
+       "en": ""
+      },
+      {
+       "c": "席",
+       "hun": "자리",
+       "eum": "석",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "모델",
+     "hanja": "",
+     "en": "model (example); model (person)",
+     "grade": "",
+     "pos": "",
+     "example": "앤스로픽, AI 에이전트 1000개 지휘하는 신모델 공개",
+     "chars": []
+    },
+    {
+     "ko": "특별",
+     "hanja": "特別",
+     "en": "The state or quality of being special",
+     "grade": "",
+     "pos": "",
+     "example": "민주화운동기념관 특별기획전 '공존모색: 노동이 민주에게'",
+     "chars": [
+      {
+       "c": "特",
+       "hun": "특별할",
+       "eum": "특",
+       "en": ""
+      },
+      {
+       "c": "別",
+       "hun": "다를",
+       "eum": "별",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "넘기다",
+     "hanja": "",
+     "en": "to make something pass over; to turn over; to pass over; to hand over; to give",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "환경",
+     "hanja": "環境",
+     "en": "environment, as a general concept; the natural environment",
+     "grade": "",
+     "pos": "",
+     "example": "교육감협의회 \"노후학교 안전·환경개선에 5년간 38조9천억 필요\"",
+     "chars": [
+      {
+       "c": "環",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "境",
+       "hun": "지경",
+       "eum": "경",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "부부",
+     "hanja": "夫婦",
+     "en": "couple, husband and wife; marital",
+     "grade": "",
+     "pos": "",
+     "example": "교리로 신도 지배해 성폭력 혐의…시흥 목사 부부 영장 신청",
+     "chars": [
+      {
+       "c": "夫",
+       "hun": "지아비",
+       "eum": "부",
+       "en": "husband; man"
+      },
+      {
+       "c": "婦",
+       "hun": "아내",
+       "eum": "부",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "의무",
+     "hanja": "義務",
+     "en": "duty, obligation",
+     "grade": "",
+     "pos": "",
+     "example": "LH·한신공영, '왕숙 한신더휴센텀' 11월 공급…환매 의무 없는 일반분양 확정",
+     "chars": [
+      {
+       "c": "義",
+       "hun": "옳을",
+       "eum": "의",
+       "en": "righteousness"
+      },
+      {
+       "c": "務",
+       "hun": "힘쓸",
+       "eum": "무",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "하반기",
+     "hanja": "下半期",
+     "en": "the second half (of the) year",
+     "grade": "",
+     "pos": "",
+     "example": "전북병무청, 2026년 하반기 사회복무요원 복무기관담당자 교육",
+     "chars": [
+      {
+       "c": "下",
+       "hun": "아래",
+       "eum": "하",
+       "en": "down, below"
+      },
+      {
+       "c": "半",
+       "hun": "반",
+       "eum": "반",
+       "en": "half"
+      },
+      {
+       "c": "期",
+       "hun": "기약할",
+       "eum": "기",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [
+    {
+     "title": "박진만",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "박진만(朴鎭萬, 1976년 11월 30일 ~ )은 전 KBO 리그 SK 와이번스의 내야수이자, 현 KBO 리그 삼성 라이온즈의 감독이다.",
+       ""
+      ],
+      [
+       "인천고를 졸업하고 현대 유니콘스에 입단, 데뷔 때부터 팀의 주전 유격수로 활약했다.",
+       ""
+      ],
+      [
+       "현대 유니콘스에서 팀을 4차례 한국시리즈 우승으로 이끌었다.",
+       ""
+      ],
+      [
+       "2010년 시즌 후 SK 와이번스로 이적해 5년 동안 활동했다.",
+       ""
+      ],
+      [
+       "유격수 부문 골든 글러브를 5회 수상했다.",
+       ""
+      ]
+     ],
+     "vocab": [],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%84%EB%A7%8C",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": []
+    }
+   ],
    "subjects": {
     "math": [],
     "science": [],
