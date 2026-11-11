@@ -1,161 +1,6 @@
 {
- "generated": "2026-11-10T02:53:33Z",
+ "generated": "2026-11-11T00:49:31Z",
  "days": [
-  {
-   "date": "2026-10-12",
-   "topics": [
-    "국제선",
-    "이수만",
-    "네팔",
-    "uae vs usa",
-    "날씨",
-    "weather",
-    "погода",
-    "키움 히어로즈",
-    "제민일보"
-   ],
-   "words": [
-    {
-     "ko": "나서다",
-     "hanja": "",
-     "en": "to go forth; to present oneself",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "에너지",
-     "hanja": "",
-     "en": "energy",
-     "grade": "",
-     "pos": "",
-     "example": "■ 트럼프, '러·우 에너지 휴전합의' 했다는데…러는 공습 계속",
-     "chars": []
-    },
-    {
-     "ko": "홍수",
-     "hanja": "洪水",
-     "en": "flood, spate, deluge",
-     "grade": "",
-     "pos": "",
-     "example": "네팔, 또 다시 산사태로 홍수 발생···최소 5명 실종",
-     "chars": [
-      {
-       "c": "洪",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "水",
-       "hun": "물",
-       "eum": "수",
-       "en": "water"
-      }
-     ]
-    },
-    {
-     "ko": "방출",
-     "hanja": "放出",
-     "en": "release, emission; removal, release, dismissal",
-     "grade": "",
-     "pos": "",
-     "example": "프로야구 키움, 2019년 1차 지명 박주성 등 8명 방출",
-     "chars": [
-      {
-       "c": "放",
-       "hun": "놓을",
-       "eum": "방",
-       "en": "release"
-      },
-      {
-       "c": "出",
-       "hun": "날",
-       "eum": "출",
-       "en": "go out"
-      }
-     ]
-    },
-    {
-     "ko": "검토",
-     "hanja": "檢討",
-     "en": "examination, review",
-     "grade": "",
-     "pos": "",
-     "example": "내년 '글로벌 고신뢰 탄소시장' 운영…디지털자산 발행 검토",
-     "chars": [
-      {
-       "c": "檢",
-       "hun": "검사할",
-       "eum": "검",
-       "en": "inspect"
-      },
-      {
-       "c": "討",
-       "hun": "칠",
-       "eum": "토",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "장관",
-     "hanja": "長官",
-     "en": "a minister, a member of Cabinet; magnificent spectacle; thrilling sight; grand view",
-     "grade": "",
-     "pos": "",
-     "example": "행안장관, 임은정 감찰 지시… 강경파와 충돌 확산",
-     "chars": [
-      {
-       "c": "長",
-       "hun": "긴",
-       "eum": "장",
-       "en": "long; eldest; chief"
-      },
-      {
-       "c": "官",
-       "hun": "벼슬",
-       "eum": "관",
-       "en": "official"
-      }
-     ]
-    },
-    {
-     "ko": "지명",
-     "hanja": "地名",
-     "en": "place name, toponym; nomination, designation",
-     "grade": "",
-     "pos": "",
-     "example": "프로야구 키움, 2019년 1차 지명 박주성 등 8명 방출",
-     "chars": [
-      {
-       "c": "地",
-       "hun": "땅",
-       "eum": "지",
-       "en": "earth, land"
-      },
-      {
-       "c": "名",
-       "hun": "이름",
-       "eum": "명",
-       "en": "name; famous"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-13",
    "topics": [
@@ -5430,6 +5275,109 @@
      "chars": []
     }
    ],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-11",
+   "topics": [
+    "빼난지원금",
+    "대구교도소",
+    "ssg 랜더스",
+    "이효정",
+    "광주시",
+    "훈련",
+    "불",
+    "노이 바이 국제 공항",
+    "신안산선",
+    "수능날"
+   ],
+   "words": [
+    {
+     "ko": "연장",
+     "hanja": "",
+     "en": "tool, instrument",
+     "grade": "",
+     "pos": "",
+     "example": "평택 안중~여의도 70분 시대 열리나…신안산선 연장 타당성 검증한다",
+     "chars": []
+    },
+    {
+     "ko": "점검",
+     "hanja": "點檢",
+     "en": "check, inspection",
+     "grade": "",
+     "pos": "",
+     "example": "코레일, 수능 앞두고 수도권 철도 전력설비 점검",
+     "chars": [
+      {
+       "c": "點",
+       "hun": "점",
+       "eum": "점",
+       "en": "dot, point"
+      },
+      {
+       "c": "檢",
+       "hun": "검사할",
+       "eum": "검",
+       "en": "inspect"
+      }
+     ]
+    },
+    {
+     "ko": "진상",
+     "hanja": "眞相",
+     "en": "the real facts, the true facts; an object of poor quality",
+     "grade": "",
+     "pos": "",
+     "example": "특검, 경기도·광주시 선관위 강제수사…임태희 전 교육감, 진상규명 촉구",
+     "chars": [
+      {
+       "c": "眞",
+       "hun": "참",
+       "eum": "진",
+       "en": "true"
+      },
+      {
+       "c": "相",
+       "hun": "서로",
+       "eum": "상",
+       "en": "mutual"
+      }
+     ]
+    },
+    {
+     "ko": "신청",
+     "hanja": "申請",
+     "en": "application",
+     "grade": "",
+     "pos": "",
+     "example": "\"빼빼로 못 받았다면 신청하세요\"…어른들은 모르는 '빼난지원금' - 머니투데이",
+     "chars": [
+      {
+       "c": "申",
+       "hun": "펼칠",
+       "eum": "신",
+       "en": ""
+      },
+      {
+       "c": "請",
+       "hun": "청할",
+       "eum": "청",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
    "subjects": {
     "math": [],
     "science": [],
