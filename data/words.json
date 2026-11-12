@@ -1,153 +1,6 @@
 {
- "generated": "2026-11-11T00:49:31Z",
+ "generated": "2026-11-12T01:59:28Z",
  "days": [
-  {
-   "date": "2026-10-13",
-   "topics": [
-    "삼성전자 주가",
-    "kospi",
-    "국정감사",
-    "하이닉스 주가",
-    "rj 미테",
-    "창신메모리",
-    "야마모토 요시노부",
-    "톰 홀랜드",
-    "메간폭스",
-    "여배우 메간 폭스의 예상치 못한 행동"
-   ],
-   "words": [
-    {
-     "ko": "주가",
-     "hanja": "株價",
-     "en": "stock/share price",
-     "grade": "",
-     "pos": "",
-     "example": "100조원 영업이익에도 삼성전자 주가 왜 안올라? “감동이 없어서” [반도체 투자 리포트]",
-     "chars": [
-      {
-       "c": "株",
-       "hun": "그루",
-       "eum": "주",
-       "en": "stump; share (stock)"
-      },
-      {
-       "c": "價",
-       "hun": "값",
-       "eum": "가",
-       "en": "price"
-      }
-     ]
-    },
-    {
-     "ko": "수준",
-     "hanja": "水準",
-     "en": "a standard or criterion level",
-     "grade": "",
-     "pos": "",
-     "example": "“외국인 계속 팔더니”…삼성전자 外人 지분율, 17년 3개월 만에 최저수준 - 조선비즈",
-     "chars": [
-      {
-       "c": "水",
-       "hun": "물",
-       "eum": "수",
-       "en": "water"
-      },
-      {
-       "c": "準",
-       "hun": "준할",
-       "eum": "준",
-       "en": "standard; level"
-      }
-     ]
-    },
-    {
-     "ko": "운영",
-     "hanja": "運營",
-     "en": "management; administration; operation",
-     "grade": "",
-     "pos": "",
-     "example": "[세종소식] 2026 세종 밤마실 주간 운영",
-     "chars": [
-      {
-       "c": "運",
-       "hun": "옮길",
-       "eum": "운",
-       "en": "move, carry; luck"
-      },
-      {
-       "c": "營",
-       "hun": "경영할",
-       "eum": "영",
-       "en": "manage"
-      }
-     ]
-    },
-    {
-     "ko": "업무",
-     "hanja": "業務",
-     "en": "business, work, task, duty, business operations, service",
-     "grade": "",
-     "pos": "",
-     "example": "한국 대표 선사 HMM, 본사 부산 이전…120명 업무 시작",
-     "chars": [
-      {
-       "c": "業",
-       "hun": "업",
-       "eum": "업",
-       "en": "work, business"
-      },
-      {
-       "c": "務",
-       "hun": "힘쓸",
-       "eum": "무",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "버스",
-     "hanja": "",
-     "en": "bus",
-     "grade": "",
-     "pos": "",
-     "example": "파주시, GTX 연계 마을버스 노선 신설…하루 36회 운행",
-     "chars": []
-    },
-    {
-     "ko": "전망",
-     "hanja": "展望",
-     "en": "Prospect: physical view or future outlook",
-     "grade": "",
-     "pos": "",
-     "example": "행안위 경기도 국감, '재정위기·관사' 최대 쟁점 전망",
-     "chars": [
-      {
-       "c": "展",
-       "hun": "펼",
-       "eum": "전",
-       "en": "unfold, display"
-      },
-      {
-       "c": "望",
-       "hun": "바랄",
-       "eum": "망",
-       "en": ""
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-14",
    "topics": [
@@ -5373,6 +5226,269 @@
        "hun": "청할",
        "eum": "청",
        "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "topics": [
+    "교사",
+    "엔화",
+    "일타강사",
+    "장도연",
+    "폭발",
+    "우스만",
+    "득점 환호하는 한국전력 선수들",
+    "이재 아",
+    "서울지하철",
+    "메랍"
+   ],
+   "words": [
+    {
+     "ko": "미모",
+     "hanja": "美貌",
+     "en": "beauty",
+     "grade": "",
+     "pos": "",
+     "example": "'전희철 딸' 전지우, 연예인급 미모 \"이대 무용과 수석\"",
+     "chars": [
+      {
+       "c": "美",
+       "hun": "아름다울",
+       "eum": "미",
+       "en": "beautiful"
+      },
+      {
+       "c": "貌",
+       "hun": "모양",
+       "eum": "모",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "교사",
+     "hanja": "敎師",
+     "en": "a teacher, the profession, especially in a primary or secondary school, of being a teacher; school building; school hous",
+     "grade": "",
+     "pos": "",
+     "example": "부산 유치원 교사 14명, 유아·놀이 중심 수업혁신대회 입상",
+     "chars": [
+      {
+       "c": "敎",
+       "hun": "가르칠",
+       "eum": "교",
+       "en": "teach"
+      },
+      {
+       "c": "師",
+       "hun": "스승",
+       "eum": "사",
+       "en": "teacher, expert"
+      }
+     ]
+    },
+    {
+     "ko": "유치원",
+     "hanja": "幼稚園",
+     "en": "kindergarten",
+     "grade": "",
+     "pos": "",
+     "example": "부산 유치원 교사 14명, 유아·놀이 중심 수업혁신대회 입상",
+     "chars": [
+      {
+       "c": "幼",
+       "hun": "어릴",
+       "eum": "유",
+       "en": ""
+      },
+      {
+       "c": "稚",
+       "hun": "어릴",
+       "eum": "치",
+       "en": ""
+      },
+      {
+       "c": "園",
+       "hun": "동산",
+       "eum": "원",
+       "en": "garden"
+      }
+     ]
+    },
+    {
+     "ko": "수업",
+     "hanja": "授業",
+     "en": "a class",
+     "grade": "",
+     "pos": "",
+     "example": "부산 유치원 교사 14명, 유아·놀이 중심 수업혁신대회 입상",
+     "chars": [
+      {
+       "c": "授",
+       "hun": "줄",
+       "eum": "수",
+       "en": ""
+      },
+      {
+       "c": "業",
+       "hun": "업",
+       "eum": "업",
+       "en": "work, business"
+      }
+     ]
+    },
+    {
+     "ko": "강의",
+     "hanja": "講義",
+     "en": "lecture",
+     "grade": "",
+     "pos": "",
+     "example": "강의까지 중단하고 출연했는데?…넷플릭스 나간 일타강사, ‘데블스 플랜3’ 첫 탈락",
+     "chars": [
+      {
+       "c": "講",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "義",
+       "hun": "옳을",
+       "eum": "의",
+       "en": "righteousness"
+      }
+     ]
+    },
+    {
+     "ko": "조작",
+     "hanja": "造作",
+     "en": "fabrication, invention, rigging",
+     "grade": "",
+     "pos": "",
+     "example": "조작 방송 전현무, 대국민 사과 “당분간 DM 안 보겠다”",
+     "chars": [
+      {
+       "c": "造",
+       "hun": "지을",
+       "eum": "조",
+       "en": "make"
+      },
+      {
+       "c": "作",
+       "hun": "지을",
+       "eum": "작",
+       "en": "make"
+      }
+     ]
+    },
+    {
+     "ko": "혁신",
+     "hanja": "革新",
+     "en": "innovation; reform",
+     "grade": "",
+     "pos": "",
+     "example": "부산 유치원 교사 14명, 유아·놀이 중심 수업혁신대회 입상",
+     "chars": [
+      {
+       "c": "革",
+       "hun": "가죽",
+       "eum": "혁",
+       "en": "leather; reform"
+      },
+      {
+       "c": "新",
+       "hun": "새",
+       "eum": "신",
+       "en": "new"
+      }
+     ]
+    },
+    {
+     "ko": "출연",
+     "hanja": "出演",
+     "en": "appearance; contribution",
+     "grade": "",
+     "pos": "",
+     "example": "강의까지 중단하고 출연했는데?…넷플릭스 나간 일타강사, ‘데블스 플랜3’ 첫 탈락",
+     "chars": [
+      {
+       "c": "出",
+       "hun": "날",
+       "eum": "출",
+       "en": "go out"
+      },
+      {
+       "c": "演",
+       "hun": "펼",
+       "eum": "연",
+       "en": "perform; expand"
+      }
+     ]
+    },
+    {
+     "ko": "차량",
+     "hanja": "車輛",
+     "en": "vehicle",
+     "grade": "",
+     "pos": "",
+     "example": "대구 아파트서 보일러실 폭발⋯깨진 유리창에 차량 10여대 파손",
+     "chars": [
+      {
+       "c": "車",
+       "hun": "수레",
+       "eum": "차",
+       "en": "vehicle, cart"
+      },
+      {
+       "c": "輛",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "놀이",
+     "hanja": "",
+     "en": "play; game; pastime; amusement, (formal) recreation; performance of traditional Korean arts",
+     "grade": "",
+     "pos": "",
+     "example": "부산 유치원 교사 14명, 유아·놀이 중심 수업혁신대회 입상",
+     "chars": []
+    },
+    {
+     "ko": "은퇴",
+     "hanja": "隱退",
+     "en": "retirement",
+     "grade": "",
+     "pos": "",
+     "example": "“은퇴 원치 않았다”…‘이동국 딸’ 이재아, 테니스 접고 골프 택한 이유",
+     "chars": [
+      {
+       "c": "隱",
+       "hun": "숨을",
+       "eum": "은",
+       "en": ""
+      },
+      {
+       "c": "退",
+       "hun": "물러날",
+       "eum": "퇴",
+       "en": "retreat"
       }
      ]
     }
