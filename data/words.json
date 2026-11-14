@@ -1,170 +1,6 @@
 {
- "generated": "2026-11-13T01:23:59Z",
+ "generated": "2026-11-14T00:59:25Z",
  "days": [
-  {
-   "date": "2026-10-15",
-   "topics": [
-    "로봇",
-    "송전선",
-    "코어위브",
-    "날씨",
-    "그린란드",
-    "셀트리온",
-    "weather",
-    "天气"
-   ],
-   "words": [
-    {
-     "ko": "국회",
-     "hanja": "國會",
-     "en": "A national parliament or assembly",
-     "grade": "",
-     "pos": "",
-     "example": "'트럼프 밀착' 베네수 국회의장 8년 만에 美 제재서 벗어나",
-     "chars": [
-      {
-       "c": "國",
-       "hun": "나라",
-       "eum": "국",
-       "en": "country"
-      },
-      {
-       "c": "會",
-       "hun": "모일",
-       "eum": "회",
-       "en": "meet, gather"
-      }
-     ]
-    },
-    {
-     "ko": "승인",
-     "hanja": "承認",
-     "en": "approval, recognition",
-     "grade": "",
-     "pos": "",
-     "example": "셀트리온, 짐펜트라 류마티스 관절염 국내 3상 승인",
-     "chars": [
-      {
-       "c": "承",
-       "hun": "이을",
-       "eum": "승",
-       "en": ""
-      },
-      {
-       "c": "認",
-       "hun": "알",
-       "eum": "인",
-       "en": "recognise"
-      }
-     ]
-    },
-    {
-     "ko": "주요",
-     "hanja": "主要",
-     "en": "importance, primacy",
-     "grade": "",
-     "pos": "",
-     "example": "[전국 주요 신문 톱뉴스](15일 조간)",
-     "chars": [
-      {
-       "c": "主",
-       "hun": "주인",
-       "eum": "주",
-       "en": "master; main"
-      },
-      {
-       "c": "要",
-       "hun": "요긴할",
-       "eum": "요",
-       "en": "need, important"
-      }
-     ]
-    },
-    {
-     "ko": "전환",
-     "hanja": "轉換",
-     "en": "change, switch, changeover",
-     "grade": "",
-     "pos": "",
-     "example": "상의 55차 물류위원회…\"AI 전환은 선택 아닌 필수\"",
-     "chars": [
-      {
-       "c": "轉",
-       "hun": "구를",
-       "eum": "전",
-       "en": "roll, turn"
-      },
-      {
-       "c": "換",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "청소기",
-     "hanja": "淸掃機",
-     "en": "vacuum cleaner, hoover",
-     "grade": "",
-     "pos": "",
-     "example": "롯데하이마트, 로봇청소기 할인전…신제품 체험 기회도",
-     "chars": [
-      {
-       "c": "淸",
-       "hun": "맑을",
-       "eum": "청",
-       "en": ""
-      },
-      {
-       "c": "掃",
-       "hun": "쓸",
-       "eum": "소",
-       "en": ""
-      },
-      {
-       "c": "機",
-       "hun": "틀",
-       "eum": "기",
-       "en": "machine"
-      }
-     ]
-    },
-    {
-     "ko": "필요",
-     "hanja": "必要",
-     "en": "need; necessity",
-     "grade": "",
-     "pos": "",
-     "example": "용인 '트리니티 팹' 주목…\"호남도 반도체 테스트 팹 필요\"",
-     "chars": [
-      {
-       "c": "必",
-       "hun": "반드시",
-       "eum": "필",
-       "en": ""
-      },
-      {
-       "c": "要",
-       "hun": "요긴할",
-       "eum": "요",
-       "en": "need, important"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-16",
    "topics": [
@@ -5451,6 +5287,269 @@
        "hun": "잡을",
        "eum": "포",
        "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "topics": [
+    "보험계약",
+    "매일경제신문",
+    "단풍",
+    "lg 트윈스",
+    "리그 오브 레전드",
+    "윤아",
+    "방탄소년단",
+    "한국교원단체총연합회",
+    "[오늘을 생각한다] 이게 법이냐?",
+    "대한민국의 특별검사제도"
+   ],
+   "words": [
+    {
+     "ko": "보험",
+     "hanja": "保險",
+     "en": "insurance",
+     "grade": "",
+     "pos": "",
+     "example": "‘대체 누구야? 개인이 보장금액 4270억원짜리 생명보험 가입’…기네스 오른 세계 최고액 생명보험[아하 홍콩]",
+     "chars": [
+      {
+       "c": "保",
+       "hun": "지킬",
+       "eum": "보",
+       "en": "protect"
+      },
+      {
+       "c": "險",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "회담",
+     "hanja": "會談",
+     "en": "conference, talks",
+     "grade": "",
+     "pos": "",
+     "example": "APEC 닷새 앞 방중 조현 “북미회담 가능성 있다”",
+     "chars": [
+      {
+       "c": "會",
+       "hun": "모일",
+       "eum": "회",
+       "en": "meet, gather"
+      },
+      {
+       "c": "談",
+       "hun": "말씀",
+       "eum": "담",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "단풍",
+     "hanja": "丹楓",
+     "en": "autumn leaves, autumn foliage; the suit of maple in hwatu playing cards, representing the month of October",
+     "grade": "",
+     "pos": "",
+     "example": "달랏의 가을 단풍은 관광객들을 매료시킨다.",
+     "chars": [
+      {
+       "c": "丹",
+       "hun": "붉을",
+       "eum": "단",
+       "en": ""
+      },
+      {
+       "c": "楓",
+       "hun": "단풍나무",
+       "eum": "풍",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "줄이다",
+     "hanja": "",
+     "en": "to reduce something",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    },
+    {
+     "ko": "자격",
+     "hanja": "資格",
+     "en": "qualifications",
+     "grade": "",
+     "pos": "",
+     "example": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+     "chars": [
+      {
+       "c": "資",
+       "hun": "재물",
+       "eum": "자",
+       "en": "resources"
+      },
+      {
+       "c": "格",
+       "hun": "격식",
+       "eum": "격",
+       "en": "standard, rule"
+      }
+     ]
+    },
+    {
+     "ko": "소매",
+     "hanja": "小賣",
+     "en": "sleeve; retail",
+     "grade": "",
+     "pos": "",
+     "example": "윤아, 크롭 민소매 입고 뽐낸 한 줌 허리…비결은 공복 ‘이 운동’",
+     "chars": [
+      {
+       "c": "小",
+       "hun": "작을",
+       "eum": "소",
+       "en": "small"
+      },
+      {
+       "c": "賣",
+       "hun": "팔",
+       "eum": "매",
+       "en": "sell"
+      }
+     ]
+    },
+    {
+     "ko": "예비군",
+     "hanja": "豫備軍",
+     "en": "armed reserve, reservists",
+     "grade": "",
+     "pos": "",
+     "example": "월드스타도 예외 없다…BTS 뷔, 첫 예비군 소화",
+     "chars": [
+      {
+       "c": "豫",
+       "hun": "미리",
+       "eum": "예",
+       "en": "beforehand"
+      },
+      {
+       "c": "備",
+       "hun": "갖출",
+       "eum": "비",
+       "en": "prepare"
+      },
+      {
+       "c": "軍",
+       "hun": "군사",
+       "eum": "군",
+       "en": "army, soldier"
+      }
+     ]
+    },
+    {
+     "ko": "일상",
+     "hanja": "日常",
+     "en": "daily life",
+     "grade": "",
+     "pos": "",
+     "example": "BTS 뷔, 예비군복 입은 김태형의 일상…“대충 이러고 살아요”",
+     "chars": [
+      {
+       "c": "日",
+       "hun": "날",
+       "eum": "일",
+       "en": "day; sun"
+      },
+      {
+       "c": "常",
+       "hun": "떳떳할",
+       "eum": "상",
+       "en": "constant, usual"
+      }
+     ]
+    },
+    {
+     "ko": "역할",
+     "hanja": "役割",
+     "en": "a role or part",
+     "grade": "",
+     "pos": "",
+     "example": "조현 \"한반도 평화 한중 공동 이익\"…中 왕이 \"건설적 역할 지속할 것\" - 머니투데이",
+     "chars": [
+      {
+       "c": "役",
+       "hun": "부릴",
+       "eum": "역",
+       "en": ""
+      },
+      {
+       "c": "割",
+       "hun": "벨",
+       "eum": "할",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "항공",
+     "hanja": "航空",
+     "en": "aviation",
+     "grade": "",
+     "pos": "",
+     "example": "美항공관제 장애에 유럽발 미국행 항공편 전면 중단",
+     "chars": [
+      {
+       "c": "航",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "空",
+       "hun": "빌",
+       "eum": "공",
+       "en": "empty; sky"
+      }
+     ]
+    },
+    {
+     "ko": "전면",
+     "hanja": "全面",
+     "en": "all sides, all aspects; front side",
+     "grade": "",
+     "pos": "",
+     "example": "美항공관제 장애에 유럽발 미국행 항공편 전면 중단",
+     "chars": [
+      {
+       "c": "全",
+       "hun": "온전",
+       "eum": "전",
+       "en": "whole"
+      },
+      {
+       "c": "面",
+       "hun": "낯",
+       "eum": "면",
+       "en": "face; side"
       }
      ]
     }
