@@ -1,161 +1,6 @@
 {
- "generated": "2026-11-15T00:07:38Z",
+ "generated": "2026-11-16T00:14:16Z",
  "days": [
-  {
-   "date": "2026-10-17",
-   "topics": [
-    "홍윤화",
-    "린, '슬로우 조깅' 유행 탑승 완료",
-    "심형탁",
-    "kia 타이거즈",
-    "'내일 선발' 네일",
-    "류필립",
-    "장인화",
-    "ionq",
-    "soxl",
-    "두산에너 빌리티"
-   ],
-   "words": [
-    {
-     "ko": "프로",
-     "hanja": "",
-     "en": "percent; proletarian",
-     "grade": "",
-     "pos": "",
-     "example": "프로야구 준PO 1,2차전 시구자에 데이식스 원필·배우 김의성",
-     "chars": []
-    },
-    {
-     "ko": "논란",
-     "hanja": "論難",
-     "en": "controversy",
-     "grade": "",
-     "pos": "",
-     "example": "백악관 대변인 나흘 만에 경질…허위경력·자질 논란에 하차(종합)",
-     "chars": [
-      {
-       "c": "論",
-       "hun": "논할",
-       "eum": "론",
-       "en": "discuss"
-      },
-      {
-       "c": "難",
-       "hun": "어려울",
-       "eum": "난",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "대변인",
-     "hanja": "代辯人",
-     "en": "spokesperson",
-     "grade": "",
-     "pos": "",
-     "example": "트럼프 손절에 '최단명 대변인' 오명…데뷔전이 마지막 브리핑돼",
-     "chars": [
-      {
-       "c": "代",
-       "hun": "대신할",
-       "eum": "대",
-       "en": "replace; era"
-      },
-      {
-       "c": "辯",
-       "hun": "말씀",
-       "eum": "변",
-       "en": ""
-      },
-      {
-       "c": "人",
-       "hun": "사람",
-       "eum": "인",
-       "en": "person"
-      }
-     ]
-    },
-    {
-     "ko": "승진",
-     "hanja": "",
-     "en": "promotion",
-     "grade": "",
-     "pos": "",
-     "example": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임",
-     "chars": []
-    },
-    {
-     "ko": "두다",
-     "hanja": "",
-     "en": "to put; to leave (behind), let there be",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "자산",
-     "hanja": "資産",
-     "en": "assets",
-     "grade": "",
-     "pos": "",
-     "example": "포스코그룹, 비핵심 자산 매각 속도…미래 투자 확대",
-     "chars": [
-      {
-       "c": "資",
-       "hun": "재물",
-       "eum": "자",
-       "en": "resources"
-      },
-      {
-       "c": "産",
-       "hun": "낳을",
-       "eum": "산",
-       "en": "produce"
-      }
-     ]
-    },
-    {
-     "ko": "부회장",
-     "hanja": "副會長",
-     "en": "vice-chairman",
-     "grade": "",
-     "pos": "",
-     "example": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임",
-     "chars": [
-      {
-       "c": "副",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "會",
-       "hun": "모일",
-       "eum": "회",
-       "en": "meet, gather"
-      },
-      {
-       "c": "長",
-       "hun": "긴",
-       "eum": "장",
-       "en": "long; eldest; chief"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-18",
    "topics": [
@@ -5516,6 +5361,293 @@
      "pos": "",
      "example": "",
      "chars": []
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-16",
+   "topics": [
+    "미사일",
+    "주한 미군 사령관",
+    "사장님 귀는 당나귀 귀",
+    "양의지",
+    "집",
+    "수능날",
+    "수능 문제지 배부",
+    "부산 kcc 이지스",
+    "동아일보"
+   ],
+   "words": [
+    {
+     "ko": "능력",
+     "hanja": "能力",
+     "en": "capacity, ability (especially of a person)",
+     "grade": "",
+     "pos": "",
+     "example": "인천시, ‘2027학년도 대학수학능력시험’ 당일 특별교통 대책 운영",
+     "chars": [
+      {
+       "c": "能",
+       "hun": "능할",
+       "eum": "능",
+       "en": ""
+      },
+      {
+       "c": "力",
+       "hun": "힘",
+       "eum": "력",
+       "en": "strength"
+      }
+     ]
+    },
+    {
+     "ko": "동맹",
+     "hanja": "同盟",
+     "en": "alliance; union",
+     "grade": "",
+     "pos": "",
+     "example": "\"전작권 전환, 한국서 정치적 선언처럼 돼… 워싱턴이 걱정하는 건 군사적 동맹 약화\"",
+     "chars": [
+      {
+       "c": "同",
+       "hun": "한가지",
+       "eum": "동",
+       "en": "same"
+      },
+      {
+       "c": "盟",
+       "hun": "맹세할",
+       "eum": "맹",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "대책",
+     "hanja": "對策",
+     "en": "policy with regard to a particular issue; a type of problem on the civil service examinations of the Joseon Dynasty",
+     "grade": "",
+     "pos": "",
+     "example": "인천시, ‘2027학년도 대학수학능력시험’ 당일 특별교통 대책 운영",
+     "chars": [
+      {
+       "c": "對",
+       "hun": "대할",
+       "eum": "대",
+       "en": "face, respond"
+      },
+      {
+       "c": "策",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "긴급",
+     "hanja": "緊急",
+     "en": "emergency",
+     "grade": "",
+     "pos": "",
+     "example": "울산시, 수능일 시험장 교통관리 강화…수험생 긴급 수송도",
+     "chars": [
+      {
+       "c": "緊",
+       "hun": "굳게 얽힐",
+       "eum": "긴",
+       "en": ""
+      },
+      {
+       "c": "急",
+       "hun": "급할",
+       "eum": "급",
+       "en": "urgent"
+      }
+     ]
+    },
+    {
+     "ko": "잔류",
+     "hanja": "殘留",
+     "en": "staying behind; residue",
+     "grade": "",
+     "pos": "",
+     "example": "'초대박' 52억에 두산 잔류 확정→FA 선배들 향해 외쳤다 \"양의지-정수빈 형 없으면 우승 힘들어, 박치국은…\" [오!쎈 미야자키]",
+     "chars": [
+      {
+       "c": "殘",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "留",
+       "hun": "머무를",
+       "eum": "류",
+       "en": "stay, remain"
+      }
+     ]
+    },
+    {
+     "ko": "비상",
+     "hanja": "非常",
+     "en": "emergency; soar",
+     "grade": "",
+     "pos": "",
+     "example": "부산시, 수능 종합대책 마련…대중교통 증편·비상수송 지원",
+     "chars": [
+      {
+       "c": "非",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "常",
+       "hun": "떳떳할",
+       "eum": "상",
+       "en": "constant, usual"
+      }
+     ]
+    },
+    {
+     "ko": "온라인",
+     "hanja": "",
+     "en": "being online",
+     "grade": "",
+     "pos": "",
+     "example": "갤러리아백화점, 22일까지 온라인몰 행사 '갤올라잇'",
+     "chars": []
+    },
+    {
+     "ko": "설치",
+     "hanja": "設置",
+     "en": "installation, establishment",
+     "grade": "",
+     "pos": "",
+     "example": "울산시 \"공무원 사칭 대기오염방지시설 설치 강요 사기 주의\"",
+     "chars": [
+      {
+       "c": "設",
+       "hun": "베풀",
+       "eum": "설",
+       "en": "set up"
+      },
+      {
+       "c": "置",
+       "hun": "둘",
+       "eum": "치",
+       "en": "place"
+      }
+     ]
+    },
+    {
+     "ko": "로켓",
+     "hanja": "",
+     "en": "rocket",
+     "grade": "",
+     "pos": "",
+     "example": "쿠팡 착한상점, 서울동행상회와 지역상품 로켓배송 기획전",
+     "chars": []
+    },
+    {
+     "ko": "자원",
+     "hanja": "資源",
+     "en": "resource",
+     "grade": "",
+     "pos": "",
+     "example": "소진공, 인적자원개발 우수기관 선정…지역 인재 등 채용 확대",
+     "chars": [
+      {
+       "c": "資",
+       "hun": "재물",
+       "eum": "자",
+       "en": "resources"
+      },
+      {
+       "c": "源",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "지지",
+     "hanja": "支持",
+     "en": "support; earthly branch",
+     "grade": "",
+     "pos": "",
+     "example": "미중러 회담 앞둔 다카이치 대중외교 평가 '최저'…지지율 보합",
+     "chars": [
+      {
+       "c": "支",
+       "hun": "지탱할",
+       "eum": "지",
+       "en": ""
+      },
+      {
+       "c": "持",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "체계",
+     "hanja": "體系",
+     "en": "system",
+     "grade": "",
+     "pos": "",
+     "example": "강남구, 폭설 대응체계 내년 3월까지 가동…보도제설 강화",
+     "chars": [
+      {
+       "c": "體",
+       "hun": "몸",
+       "eum": "체",
+       "en": "body"
+      },
+      {
+       "c": "系",
+       "hun": "이을",
+       "eum": "계",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "변화",
+     "hanja": "變化",
+     "en": "change; variation",
+     "grade": "",
+     "pos": "",
+     "example": "충남농기원, 기후 변화 견디는 인삼 신품종 금향·금강향 개발",
+     "chars": [
+      {
+       "c": "變",
+       "hun": "변할",
+       "eum": "변",
+       "en": "change"
+      },
+      {
+       "c": "化",
+       "hun": "될",
+       "eum": "화",
+       "en": "change, become"
+      }
+     ]
     }
    ],
    "stories": [],
