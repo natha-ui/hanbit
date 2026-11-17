@@ -1,223 +1,6 @@
 {
- "generated": "2026-11-16T00:14:16Z",
+ "generated": "2026-11-17T03:05:16Z",
  "days": [
-  {
-   "date": "2026-10-18",
-   "topics": [
-    "thời tiết",
-    "天气",
-    "적금",
-    "부동산",
-    "성과급",
-    "สภาพอากาศ",
-    "한국경제",
-    "ufc",
-    "봉화송이축제"
-   ],
-   "words": [
-    {
-     "ko": "최대",
-     "hanja": "最大",
-     "en": "the greatest; the largest",
-     "grade": "",
-     "pos": "",
-     "example": "(서울=연합뉴스) 홍규빈 기자 = 내년 3월 출범하는 국내 최대 저비용항공사(LCC) '통합 진에어'가 부산발 국제선 운항을 대폭 확대한다.",
-     "chars": [
-      {
-       "c": "最",
-       "hun": "가장",
-       "eum": "최",
-       "en": ""
-      },
-      {
-       "c": "大",
-       "hun": "큰",
-       "eum": "대",
-       "en": "big"
-      }
-     ]
-    },
-    {
-     "ko": "출신",
-     "hanja": "出身",
-     "en": "a native; someone native-born to a place",
-     "grade": "",
-     "pos": "",
-     "example": "\"성과급 못 받아\" 소송 낸 채용형 인턴 출신 한수원 직원 2천 명 패소",
-     "chars": [
-      {
-       "c": "出",
-       "hun": "날",
-       "eum": "출",
-       "en": "go out"
-      },
-      {
-       "c": "身",
-       "hun": "몸",
-       "eum": "신",
-       "en": "body"
-      }
-     ]
-    },
-    {
-     "ko": "반전",
-     "hanja": "反轉",
-     "en": "a twist (of a story); reversion, inversion",
-     "grade": "",
-     "pos": "",
-     "example": "“대출은 힘들고 아파트는 비싸졌네요”…다시 불붙기 시작한 빌라의 반전",
-     "chars": [
-      {
-       "c": "反",
-       "hun": "돌이킬",
-       "eum": "반",
-       "en": "reverse, oppose"
-      },
-      {
-       "c": "轉",
-       "hun": "구를",
-       "eum": "전",
-       "en": "roll, turn"
-      }
-     ]
-    },
-    {
-     "ko": "인턴",
-     "hanja": "",
-     "en": "intern",
-     "grade": "",
-     "pos": "",
-     "example": "\"성과급 못 받아\" 소송 낸 채용형 인턴 출신 한수원 직원 2천 명 패소",
-     "chars": []
-    },
-    {
-     "ko": "송이",
-     "hanja": "",
-     "en": "a bunch of flowers, grapes, mushrooms; a flake of snow; matsutake",
-     "grade": "",
-     "pos": "",
-     "example": "봉화송이축제서 교류도시 한자리에···지역 간 상생협력 강화",
-     "chars": []
-    },
-    {
-     "ko": "소방",
-     "hanja": "消防",
-     "en": "firefighting, fire prevention; chamberlet",
-     "grade": "",
-     "pos": "",
-     "example": "추미애 ‘소방 재정 빨대’ 발언 후폭풍...민주당 경기도당 공직자들까지 사과",
-     "chars": [
-      {
-       "c": "消",
-       "hun": "사라질",
-       "eum": "소",
-       "en": "vanish; consume"
-      },
-      {
-       "c": "防",
-       "hun": "막을",
-       "eum": "방",
-       "en": "defend"
-      }
-     ]
-    },
-    {
-     "ko": "내다",
-     "hanja": "",
-     "en": "to bring about, to pull forth; to put out, put forth, put forward, produce, yield, issue, pay, offer, present, submit, e",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "중간",
-     "hanja": "中間",
-     "en": "(in) the middle; medium",
-     "grade": "",
-     "pos": "",
-     "example": "경북 봉화군, 경북도민체전 상징물 디자인 매뉴얼 중간보고회 개최",
-     "chars": [
-      {
-       "c": "中",
-       "hun": "가운데",
-       "eum": "중",
-       "en": "middle"
-      },
-      {
-       "c": "間",
-       "hun": "사이",
-       "eum": "간",
-       "en": "between; interval"
-      }
-     ]
-    },
-    {
-     "ko": "처음",
-     "hanja": "",
-     "en": "the first time; the beginning",
-     "grade": "",
-     "pos": "",
-     "example": "(부산=연합뉴스) 김재홍 기자 = \"처음엔 회사가 노조 자체를 인정하지 않았지만, 최근에는 상생협력까지 체결했습니다.\"",
-     "chars": []
-    },
-    {
-     "ko": "피해",
-     "hanja": "被害",
-     "en": "harm; damage",
-     "grade": "",
-     "pos": "",
-     "example": "(김해=연합뉴스) 장지현 기자 = 밤사이 경남 김해시의 한 단독주택에서 불이 나 7천500만원 상당의 재산 피해가 났다.",
-     "chars": [
-      {
-       "c": "被",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "害",
-       "hun": "해할",
-       "eum": "해",
-       "en": "harm"
-      }
-     ]
-    },
-    {
-     "ko": "유지",
-     "hanja": "維持",
-     "en": "maintenance; sustenance; upkeep",
-     "grade": "",
-     "pos": "",
-     "example": "여수 등 전남 15곳 강풍주의보…흑산도·홍도에 강풍경보 유지",
-     "chars": [
-      {
-       "c": "維",
-       "hun": "벼리",
-       "eum": "유",
-       "en": ""
-      },
-      {
-       "c": "持",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-19",
    "topics": [
@@ -1178,8 +961,8 @@
      "chars": [
       {
        "c": "障",
-       "hun": "",
-       "eum": "",
+       "hun": "막을",
+       "eum": "장",
        "en": ""
       },
       {
@@ -5651,6 +5434,254 @@
     }
    ],
    "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-17",
+   "topics": [
+    "예비소집일",
+    "[지지대] 흔들리지 말고 당당하게",
+    "피의자",
+    "상장",
+    "너구리",
+    "2027",
+    "미스터트롯4",
+    "서울고등법원",
+    "풍자",
+    "유학생"
+   ],
+   "words": [
+    {
+     "ko": "행위",
+     "hanja": "行爲",
+     "en": "an act or behavior",
+     "grade": "",
+     "pos": "",
+     "example": "세무사 가짜 수석, 경찰에 ‘계산기’ 증거 자료 제출…“부정행위 사용” 실토",
+     "chars": [
+      {
+       "c": "行",
+       "hun": "다닐",
+       "eum": "행",
+       "en": "go, act"
+      },
+      {
+       "c": "爲",
+       "hun": "할",
+       "eum": "위",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "기기",
+     "hanja": "",
+     "en": "machine, device, equipment, instrument; a bowl or other container for go stones",
+     "grade": "",
+     "pos": "",
+     "example": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
+     "chars": []
+    },
+    {
+     "ko": "부정",
+     "hanja": "否定",
+     "en": "negation; indeterminacy; variability",
+     "grade": "",
+     "pos": "",
+     "example": "세무사 가짜 수석, 경찰에 ‘계산기’ 증거 자료 제출…“부정행위 사용” 실토",
+     "chars": [
+      {
+       "c": "否",
+       "hun": "아닐",
+       "eum": "부",
+       "en": ""
+      },
+      {
+       "c": "定",
+       "hun": "정할",
+       "eum": "정",
+       "en": "decide, fix"
+      }
+     ]
+    },
+    {
+     "ko": "스마트",
+     "hanja": "",
+     "en": "smart",
+     "grade": "",
+     "pos": "",
+     "example": "[속보] 한 총리 \"수능서 스마트기기 원천 차단‥안경·시계 전수검사\"",
+     "chars": []
+    },
+    {
+     "ko": "징계",
+     "hanja": "懲戒",
+     "en": "discipline, disciplinary action",
+     "grade": "",
+     "pos": "",
+     "example": "'면허정지 수준' 음주운전 서울고법 판사에 감봉 1개월 징계",
+     "chars": [
+      {
+       "c": "懲",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "戒",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "고장",
+     "hanja": "故障",
+     "en": "breakdown; a populated district; a town",
+     "grade": "",
+     "pos": "",
+     "example": "“AI로 발전설비 고장 사전에 예측한다”…두산에너빌리티, 발전운영기술교류회 개최",
+     "chars": [
+      {
+       "c": "故",
+       "hun": "옛",
+       "eum": "고",
+       "en": ""
+      },
+      {
+       "c": "障",
+       "hun": "막을",
+       "eum": "장",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "사전",
+     "hanja": "辭典",
+     "en": "dictionary; encyclopedia",
+     "grade": "",
+     "pos": "",
+     "example": "“AI로 발전설비 고장 사전에 예측한다”…두산에너빌리티, 발전운영기술교류회 개최",
+     "chars": [
+      {
+       "c": "辭",
+       "hun": "말씀",
+       "eum": "사",
+       "en": ""
+      },
+      {
+       "c": "典",
+       "hun": "법",
+       "eum": "전",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "치료제",
+     "hanja": "治療劑",
+     "en": "medicine, medical drug, medical treatment",
+     "grade": "",
+     "pos": "",
+     "example": "나이지리아 북부에서 디프테리아가 다시 번지고 있다. 국경없는의사회는 치료제인 항독소와 백신이 모자라 아동 수천 명이 위험하다고 경고했다.",
+     "chars": [
+      {
+       "c": "治",
+       "hun": "다스릴",
+       "eum": "치",
+       "en": "govern; cure"
+      },
+      {
+       "c": "療",
+       "hun": "병고칠",
+       "eum": "료",
+       "en": "heal"
+      },
+      {
+       "c": "劑",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "디지털",
+     "hanja": "",
+     "en": "digital",
+     "grade": "",
+     "pos": "",
+     "example": "스트레이 키즈 아이엔, 솔로 디지털 싱글 '노 리턴' 발표",
+     "chars": []
+    },
+    {
+     "ko": "위성",
+     "hanja": "衛星",
+     "en": "satellite",
+     "grade": "",
+     "pos": "",
+     "example": "[영상] 아마존 위성 실은 벌컨 로켓 추락…스타링크 대항마 '레오' 제동",
+     "chars": [
+      {
+       "c": "衛",
+       "hun": "지킬",
+       "eum": "위",
+       "en": ""
+      },
+      {
+       "c": "星",
+       "hun": "별",
+       "eum": "성",
+       "en": "star"
+      }
+     ]
+    }
+   ],
+   "stories": [
+    {
+     "title": "문화방송",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "문화방송(文化放送, 영어: Munhwa Broadcasting Corporation, 약칭 MBC)은 서울특별시에 본사를 둔 대한민국의 지상파 방송사이다.",
+       ""
+      ],
+      [
+       "1961년 12월 2일 서울에서 라디오 방송을 시작했고, 1969년 8월 8일 텔레비전 방송을 개시하였다.",
+       ""
+      ],
+      [
+       "텔레비전 채널 MBC TV와 라디오 채널 표준FM·FM4U를 운영하며, 전국 16개 지역 계열사와 함께 방송망을 구성한다.",
+       ""
+      ],
+      [
+       "자회사 MBC 플러스와 아이엠비씨를 통해 유료 방송 채널과 인터넷 사업도 한다.",
+       ""
+      ],
+      [
+       "본사는 2014년 여의도에서 서울 마포구 상암동의 상암 MBC 사옥으로 옮겼다.",
+       ""
+      ]
+     ],
+     "vocab": [],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": []
+    }
+   ],
    "subjects": {
     "math": [],
     "science": [],
