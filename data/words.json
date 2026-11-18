@@ -1,275 +1,6 @@
 {
- "generated": "2026-11-17T03:05:16Z",
+ "generated": "2026-11-18T02:33:10Z",
  "days": [
-  {
-   "date": "2026-10-19",
-   "topics": [
-    "라리가",
-    "김희재",
-    "신세계 백화점 강남점",
-    "madrid vs sevilla",
-    "로스앤젤레스 다저스",
-    "후티",
-    "배정남",
-    "기사"
-   ],
-   "words": [
-    {
-     "ko": "해제",
-     "hanja": "解除",
-     "en": "cancellation; description of a book",
-     "grade": "",
-     "pos": "",
-     "example": "동해남부먼바다 등 4곳 풍랑주의보 해제",
-     "chars": [
-      {
-       "c": "解",
-       "hun": "풀",
-       "eum": "해",
-       "en": "solve"
-      },
-      {
-       "c": "除",
-       "hun": "덜",
-       "eum": "제",
-       "en": "remove; divide"
-      }
-     ]
-    },
-    {
-     "ko": "강풍",
-     "hanja": "",
-     "en": "gale",
-     "grade": "",
-     "pos": "",
-     "example": "강풍에 지붕 날아가고…폭우에 곳곳 도로 침수",
-     "chars": []
-    },
-    {
-     "ko": "우승",
-     "hanja": "優勝",
-     "en": "victory; championship",
-     "grade": "",
-     "pos": "",
-     "example": "\"내가 마법을 부렸어!\" 前 한화 외인 타자 감격, 밀워키 '우승 요정' 되나…끝내기 안타 3번 다 현장에 있었다",
-     "chars": [
-      {
-       "c": "優",
-       "hun": "넉넉할",
-       "eum": "우",
-       "en": ""
-      },
-      {
-       "c": "勝",
-       "hun": "이길",
-       "eum": "승",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "시위",
-     "hanja": "示威",
-     "en": "demonstration; protest; bowstring",
-     "grade": "",
-     "pos": "",
-     "example": "\"전쟁터 같다\" 아수라장 된 파리…시위 격화 속 약탈도(종합)",
-     "chars": [
-      {
-       "c": "示",
-       "hun": "보일",
-       "eum": "시",
-       "en": "show"
-      },
-      {
-       "c": "威",
-       "hun": "위엄",
-       "eum": "위",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "빨대",
-     "hanja": "",
-     "en": "straw, drinking straw",
-     "grade": "",
-     "pos": "",
-     "example": "민주당 경기도당 긴급회의, 추미애 '재정 빨대' 논란 대응 논의",
-     "chars": []
-    },
-    {
-     "ko": "발언",
-     "hanja": "發言",
-     "en": "comment; statement",
-     "grade": "",
-     "pos": "",
-     "example": "“美, 브런슨 ‘韓은 남쪽 철책서 시작’ 발언에 주의 줘”",
-     "chars": [
-      {
-       "c": "發",
-       "hun": "필",
-       "eum": "발",
-       "en": "bloom; set off"
-      },
-      {
-       "c": "言",
-       "hun": "말씀",
-       "eum": "언",
-       "en": "speech"
-      }
-     ]
-    },
-    {
-     "ko": "닮다",
-     "hanja": "",
-     "en": "to resemble, to look like",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "복지",
-     "hanja": "福祉",
-     "en": "welfare; well-being",
-     "grade": "",
-     "pos": "",
-     "example": "서울어린이대공원 '동물복지형' 대전환…보유종 59종→33종",
-     "chars": [
-      {
-       "c": "福",
-       "hun": "복",
-       "eum": "복",
-       "en": "blessing"
-      },
-      {
-       "c": "祉",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "통하다",
-     "hanja": "",
-     "en": "to pass through, from one end to the other; to resonate, to communicate",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "남성",
-     "hanja": "男性",
-     "en": "male, men",
-     "grade": "",
-     "pos": "",
-     "example": "(성남=연합뉴스) 김지원 기자 = 술에 취한 상태로 고속도로를 달리다 화물차를 들이받는 사고를 낸 20대 남성이 경찰에 붙잡혔다.",
-     "chars": [
-      {
-       "c": "男",
-       "hun": "사내",
-       "eum": "남",
-       "en": "man"
-      },
-      {
-       "c": "性",
-       "hun": "성품",
-       "eum": "성",
-       "en": "nature"
-      }
-     ]
-    },
-    {
-     "ko": "남부",
-     "hanja": "南部",
-     "en": "the south",
-     "grade": "",
-     "pos": "",
-     "example": "동해남부먼바다 등 4곳 풍랑주의보 해제",
-     "chars": [
-      {
-       "c": "南",
-       "hun": "남녘",
-       "eum": "남",
-       "en": "south"
-      },
-      {
-       "c": "部",
-       "hun": "떼",
-       "eum": "부",
-       "en": "part, section"
-      }
-     ]
-    },
-    {
-     "ko": "풍랑",
-     "hanja": "風浪",
-     "en": "wind and waves; (maritime) storm; hardship; suffering",
-     "grade": "",
-     "pos": "",
-     "example": "동해남부먼바다 등 4곳 풍랑주의보 해제",
-     "chars": [
-      {
-       "c": "風",
-       "hun": "바람",
-       "eum": "풍",
-       "en": "wind"
-      },
-      {
-       "c": "浪",
-       "hun": "물결",
-       "eum": "랑",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "남쪽",
-     "hanja": "",
-     "en": "The South; South Korea in relation to North Korea",
-     "grade": "",
-     "pos": "",
-     "example": "제주 남쪽 먼바다 등 3곳 내일 풍랑주의보 해제",
-     "chars": []
-    },
-    {
-     "ko": "발령",
-     "hanja": "發令",
-     "en": "appointment; issue",
-     "grade": "",
-     "pos": "",
-     "example": "(광주=연합뉴스) 기상청은 여수에 발령했던 호우주의보를 19일 0시 30분을 기해 해제한다고 밝혔다.",
-     "chars": [
-      {
-       "c": "發",
-       "hun": "필",
-       "eum": "발",
-       "en": "bloom; set off"
-      },
-      {
-       "c": "令",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-20",
    "topics": [
@@ -5678,6 +5409,242 @@
      "vocab": [],
      "quiz": [],
      "source": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": []
+    }
+   ],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "topics": [
+    "삼천당제약",
+    "탄약",
+    "변요한",
+    "음료",
+    "금양",
+    "공무원연금공단",
+    "카르다노",
+    "메가커피"
+   ],
+   "words": [
+    {
+     "ko": "징역",
+     "hanja": "懲役",
+     "en": "imprisonment ; prison sentence",
+     "grade": "",
+     "pos": "",
+     "example": "'체포지시 없었다' 허위 발언…조태용, 징역 2년6개월 확정(종합)",
+     "chars": [
+      {
+       "c": "懲",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "役",
+       "hun": "부릴",
+       "eum": "역",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "음료",
+     "hanja": "飮料",
+     "en": "drink, beverage",
+     "grade": "",
+     "pos": "",
+     "example": "이마트24, '옐로우' 차음료 2종 출시…헬시 플레저 수요 공략",
+     "chars": [
+      {
+       "c": "飮",
+       "hun": "마실",
+       "eum": "음",
+       "en": "drink"
+      },
+      {
+       "c": "料",
+       "hun": "헤아릴",
+       "eum": "료",
+       "en": "material; fee"
+      }
+     ]
+    },
+    {
+     "ko": "서비스",
+     "hanja": "",
+     "en": "service; the act of giving away something or doing something for free, as a gift or free service for someone; on the hou",
+     "grade": "",
+     "pos": "",
+     "example": "법제처, 입법참고 모델에 '디지털 저장매체 파기서비스' 등 선정",
+     "chars": []
+    },
+    {
+     "ko": "성장",
+     "hanja": "成長",
+     "en": "growth, expansion; the warden of a castle",
+     "grade": "",
+     "pos": "",
+     "example": "(서울=연합뉴스) 장하나 기자 = 내년에는 중국과 미국의 내수 시장이 회복하며 소폭 성장할 것이라는 전망이 나왔다.",
+     "chars": [
+      {
+       "c": "成",
+       "hun": "이룰",
+       "eum": "성",
+       "en": "achieve"
+      },
+      {
+       "c": "長",
+       "hun": "긴",
+       "eum": "장",
+       "en": "long; eldest; chief"
+      }
+     ]
+    },
+    {
+     "ko": "절차",
+     "hanja": "節次",
+     "en": "procedures",
+     "grade": "",
+     "pos": "",
+     "example": "금양, 분기보고서 미제출로 상장폐지 사유 추가…가처분 결과까지 절차 보류",
+     "chars": [
+      {
+       "c": "節",
+       "hun": "마디",
+       "eum": "절",
+       "en": "joint; season, festival"
+      },
+      {
+       "c": "次",
+       "hun": "버금",
+       "eum": "차",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "본격",
+     "hanja": "本格",
+     "en": "genuine; authentic (to tradition)",
+     "grade": "",
+     "pos": "",
+     "example": "(평창=연합뉴스) 유형재 기자 = 모나용평스키장이 22일 개장하고 본격적인 운영을 시작한다.",
+     "chars": [
+      {
+       "c": "本",
+       "hun": "근본",
+       "eum": "본",
+       "en": "root, origin"
+      },
+      {
+       "c": "格",
+       "hun": "격식",
+       "eum": "격",
+       "en": "standard, rule"
+      }
+     ]
+    },
+    {
+     "ko": "구분",
+     "hanja": "區分",
+     "en": "category; classification; division",
+     "grade": "",
+     "pos": "",
+     "example": "선문대, 전공 구분 없는 AI 교육혁신 본격 추진…교육과정 개편",
+     "chars": [
+      {
+       "c": "區",
+       "hun": "구역",
+       "eum": "구",
+       "en": ""
+      },
+      {
+       "c": "分",
+       "hun": "나눌",
+       "eum": "분",
+       "en": "divide; minute"
+      }
+     ]
+    },
+    {
+     "ko": "과정",
+     "hanja": "課程",
+     "en": "process, a course of events; course",
+     "grade": "",
+     "pos": "",
+     "example": "선문대, 전공 구분 없는 AI 교육혁신 본격 추진…교육과정 개편",
+     "chars": [
+      {
+       "c": "課",
+       "hun": "과정",
+       "eum": "과",
+       "en": ""
+      },
+      {
+       "c": "程",
+       "hun": "한도",
+       "eum": "정",
+       "en": "limit; journey"
+      }
+     ]
+    },
+    {
+     "ko": "최소",
+     "hanja": "最少",
+     "en": "minimum; the youngest",
+     "grade": "",
+     "pos": "",
+     "example": "(산청=연합뉴스) 박정헌 기자 = 경남 산청군은 겨울철 대설·폭설 등으로 인한 피해를 최소화하기 위한 설해대책을 수립했다고 18일 밝혔다.",
+     "chars": [
+      {
+       "c": "最",
+       "hun": "가장",
+       "eum": "최",
+       "en": ""
+      },
+      {
+       "c": "少",
+       "hun": "적을",
+       "eum": "소",
+       "en": "few; young"
+      }
+     ]
+    }
+   ],
+   "stories": [
+    {
+     "title": "삼천당제약",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "삼천당제약 주식회사(三千堂製藥 株式會社)는 흔히 SCD로 약칭되며, 전문 의약품의 개발, 제조 및 판매를 영위하는 대한민국의 제약 회사이다.",
+       ""
+      ],
+      [
+       "1943년에 설립되었으며 본사는 서울특별시 서초구에 위치해 있고, 경기도 화성시 향남제약단지에 제조 시설을 두고 있다.",
+       ""
+      ],
+      [
+       "SCD는 한국거래소에 상장되어 있다.",
+       ""
+      ]
+     ],
+     "vocab": [],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%9C%EB%8B%B9%EC%A0%9C%EC%95%BD",
      "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
      "chars": []
     }
