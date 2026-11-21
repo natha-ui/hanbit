@@ -1,147 +1,6 @@
 {
- "generated": "2026-11-20T01:52:00Z",
+ "generated": "2026-11-21T01:40:42Z",
  "days": [
-  {
-   "date": "2026-10-22",
-   "topics": [
-    "nvda",
-    "xrpn",
-    "spch",
-    "미스터트롯",
-    "제너럴 모터스",
-    "박위",
-    "이용규"
-   ],
-   "words": [
-    {
-     "ko": "음주",
-     "hanja": "飮酒",
-     "en": "consumption of alcohol",
-     "grade": "",
-     "pos": "",
-     "example": "‘음주 운전 사고’ 전 프로야구 선수 이용규 불구속 기소",
-     "chars": [
-      {
-       "c": "飮",
-       "hun": "마실",
-       "eum": "음",
-       "en": "drink"
-      },
-      {
-       "c": "酒",
-       "hun": "술",
-       "eum": "주",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "활용",
-     "hanja": "活用",
-     "en": "application (the use of a thing); conjugation, declension, inflection",
-     "grade": "",
-     "pos": "",
-     "example": "서울, 英유력지 선정 'AI 도입·활용 역량' 세계 1위도시",
-     "chars": [
-      {
-       "c": "活",
-       "hun": "살",
-       "eum": "활",
-       "en": "live, lively"
-      },
-      {
-       "c": "用",
-       "hun": "쓸",
-       "eum": "용",
-       "en": "use"
-      }
-     ]
-    },
-    {
-     "ko": "확성기",
-     "hanja": "擴聲器",
-     "en": "loudspeaker; megaphone",
-     "grade": "",
-     "pos": "",
-     "example": "▲ 경향신문 = 북 김여정 \"확성기 이달 가동 상태 돌입\"",
-     "chars": [
-      {
-       "c": "擴",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "聲",
-       "hun": "소리",
-       "eum": "성",
-       "en": ""
-      },
-      {
-       "c": "器",
-       "hun": "그릇",
-       "eum": "기",
-       "en": "vessel, tool"
-      }
-     ]
-    },
-    {
-     "ko": "협력",
-     "hanja": "協力",
-     "en": "collaboration or cooperation",
-     "grade": "",
-     "pos": "",
-     "example": "부산시상수도사업본부, 호찌민 수도공사와 AI 기술 교류 협력",
-     "chars": [
-      {
-       "c": "協",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "力",
-       "hun": "힘",
-       "eum": "력",
-       "en": "strength"
-      }
-     ]
-    },
-    {
-     "ko": "대비",
-     "hanja": "大妃",
-     "en": "a queen dowager",
-     "grade": "",
-     "pos": "",
-     "example": "삼성E&A 3분기 영업이익 5천6억원…작년 동기 대비 183.6%↑",
-     "chars": [
-      {
-       "c": "大",
-       "hun": "큰",
-       "eum": "대",
-       "en": "big"
-      },
-      {
-       "c": "妃",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-23",
    "topics": [
@@ -5509,6 +5368,172 @@
      "pos": "",
      "example": "멸종위기 물수리 포착…물고기 사냥 ‘생생’",
      "chars": []
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "topics": [
+    "패딩",
+    "동아일보",
+    "lpga",
+    "공군사관학교",
+    "지스타",
+    "ราคาทองวันนี้",
+    "브루노 마스",
+    "공인회계사",
+    "안양시",
+    "반도체"
+   ],
+   "words": [
+    {
+     "ko": "화물",
+     "hanja": "貨物",
+     "en": "freight, cargo, goods",
+     "grade": "",
+     "pos": "",
+     "example": "경부선 화물열차 5량 탈선에 일반열차 운행 중지…\"수험생 유의해야\"(종합)",
+     "chars": [
+      {
+       "c": "貨",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "物",
+       "hun": "물건",
+       "eum": "물",
+       "en": "thing"
+      }
+     ]
+    },
+    {
+     "ko": "회계사",
+     "hanja": "會計士",
+     "en": "accountant",
+     "grade": "",
+     "pos": "",
+     "example": "“14살이 회계사 시험 합격?”…日서 나온 놀라운 기록",
+     "chars": [
+      {
+       "c": "會",
+       "hun": "모일",
+       "eum": "회",
+       "en": "meet, gather"
+      },
+      {
+       "c": "計",
+       "hun": "셀",
+       "eum": "계",
+       "en": "count, measure"
+      },
+      {
+       "c": "士",
+       "hun": "선비",
+       "eum": "사",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "공인",
+     "hanja": "公認",
+     "en": "official recognition; authorization",
+     "grade": "",
+     "pos": "",
+     "example": "14세에 일본 공인회계사 시험 합격…역대 최연소 기록 경신",
+     "chars": [
+      {
+       "c": "公",
+       "hun": "공평할",
+       "eum": "공",
+       "en": "fair; public"
+      },
+      {
+       "c": "認",
+       "hun": "알",
+       "eum": "인",
+       "en": "recognise"
+      }
+     ]
+    },
+    {
+     "ko": "흑자",
+     "hanja": "黑字",
+     "en": "surplus, in the black",
+     "grade": "",
+     "pos": "",
+     "example": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
+     "chars": [
+      {
+       "c": "黑",
+       "hun": "검을",
+       "eum": "흑",
+       "en": ""
+      },
+      {
+       "c": "字",
+       "hun": "글자",
+       "eum": "자",
+       "en": "letter, character"
+      }
+     ]
+    },
+    {
+     "ko": "열차",
+     "hanja": "列車",
+     "en": "train",
+     "grade": "",
+     "pos": "",
+     "example": "경부선 화물열차 5량 탈선에 일반열차 운행 중지…\"수험생 유의해야\"(종합)",
+     "chars": [
+      {
+       "c": "列",
+       "hun": "벌일",
+       "eum": "렬",
+       "en": "row, line"
+      },
+      {
+       "c": "車",
+       "hun": "수레",
+       "eum": "차",
+       "en": "vehicle, cart"
+      }
+     ]
+    },
+    {
+     "ko": "건조",
+     "hanja": "建造",
+     "en": "construction; dryness",
+     "grade": "",
+     "pos": "",
+     "example": "서울 동북·서남권에 건조주의보",
+     "chars": [
+      {
+       "c": "建",
+       "hun": "세울",
+       "eum": "건",
+       "en": "build"
+      },
+      {
+       "c": "造",
+       "hun": "지을",
+       "eum": "조",
+       "en": "make"
+      }
+     ]
     }
    ],
    "stories": [],
