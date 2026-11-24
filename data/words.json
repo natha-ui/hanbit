@@ -1,263 +1,6 @@
 {
- "generated": "2026-11-23T01:04:24Z",
+ "generated": "2026-11-24T04:56:11Z",
  "days": [
-  {
-   "date": "2026-10-25",
-   "topics": [
-    "박현호",
-    "이다해",
-    "메이저 리그 사커",
-    "대구날씨",
-    "이강인",
-    "김장",
-    "f1",
-    "삼성전자",
-    "포스코노동조합",
-    "로스앤젤레스 fc"
-   ],
-   "words": [
-    {
-     "ko": "예고",
-     "hanja": "豫告",
-     "en": "advance notice, forewarning",
-     "grade": "",
-     "pos": "",
-     "example": "포스코노사 임금 교섭 결렬…노조, 다음달 2일 무기한 파업 예고",
-     "chars": [
-      {
-       "c": "豫",
-       "hun": "미리",
-       "eum": "예",
-       "en": "beforehand"
-      },
-      {
-       "c": "告",
-       "hun": "고할",
-       "eum": "고",
-       "en": "tell, announce"
-      }
-     ]
-    },
-    {
-     "ko": "시즌",
-     "hanja": "",
-     "en": "season; season",
-     "grade": "",
-     "pos": "",
-     "example": "`메시와 리그 1위 경쟁` 손흥민, LAFC 역사 쓴다…`단일 시즌 최다 어시스트 눈앞`",
-     "chars": []
-    },
-    {
-     "ko": "방송",
-     "hanja": "放送",
-     "en": "broadcasting; a specific broadcast; a radio or television program",
-     "grade": "",
-     "pos": "",
-     "example": "은가은♥박현호, 신나는 부부 동반 행사 | KBS 261024 방송",
-     "chars": [
-      {
-       "c": "放",
-       "hun": "놓을",
-       "eum": "방",
-       "en": "release"
-      },
-      {
-       "c": "送",
-       "hun": "보낼",
-       "eum": "송",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "노조",
-     "hanja": "怒潮",
-     "en": "raging tide",
-     "grade": "",
-     "pos": "",
-     "example": "포스코노사 임금 교섭 결렬…노조, 다음달 2일 무기한 파업 예고",
-     "chars": [
-      {
-       "c": "怒",
-       "hun": "성낼",
-       "eum": "노",
-       "en": ""
-      },
-      {
-       "c": "潮",
-       "hun": "밀물",
-       "eum": "조",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "파업",
-     "hanja": "罷業",
-     "en": "strike, walkout",
-     "grade": "",
-     "pos": "",
-     "example": "포스코노사 임금 교섭 결렬…노조, 다음달 2일 무기한 파업 예고",
-     "chars": [
-      {
-       "c": "罷",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "業",
-       "hun": "업",
-       "eum": "업",
-       "en": "work, business"
-      }
-     ]
-    },
-    {
-     "ko": "결렬",
-     "hanja": "決裂",
-     "en": "breakdown",
-     "grade": "",
-     "pos": "",
-     "example": "포스코노사 임금 교섭 결렬…노조, 다음달 2일 무기한 파업 예고",
-     "chars": [
-      {
-       "c": "決",
-       "hun": "결단할",
-       "eum": "결",
-       "en": ""
-      },
-      {
-       "c": "裂",
-       "hun": "찢을",
-       "eum": "렬",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "투표",
-     "hanja": "投票",
-     "en": "vote",
-     "grade": "",
-     "pos": "",
-     "example": "충남대, 이번주 공주대 통합 추진 여부 발표…'재투표냐 포기냐'",
-     "chars": [
-      {
-       "c": "投",
-       "hun": "던질",
-       "eum": "투",
-       "en": "throw"
-      },
-      {
-       "c": "票",
-       "hun": "표",
-       "eum": "표",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "개인",
-     "hanja": "個人",
-     "en": "an individual or individuals; a private person; personal, individual",
-     "grade": "",
-     "pos": "",
-     "example": "개인정보 유출사건 175건, 1년 넘게 '조사중'…대형사건 쏠림 탓",
-     "chars": [
-      {
-       "c": "個",
-       "hun": "낱",
-       "eum": "개",
-       "en": ""
-      },
-      {
-       "c": "人",
-       "hun": "사람",
-       "eum": "인",
-       "en": "person"
-      }
-     ]
-    },
-    {
-     "ko": "재정",
-     "hanja": "財政",
-     "en": "finances; financial condition",
-     "grade": "",
-     "pos": "",
-     "example": "석유 최고가격제 장기화 딜레마…재정부담에 출구전략 고민",
-     "chars": [
-      {
-       "c": "財",
-       "hun": "재물",
-       "eum": "재",
-       "en": "wealth"
-      },
-      {
-       "c": "政",
-       "hun": "정사",
-       "eum": "정",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "취소",
-     "hanja": "臭素",
-     "en": "bromine (Br); cancellation",
-     "grade": "",
-     "pos": "",
-     "example": "대형 건설사들, 중대재해 영업정지에 '취소소송' 후 계속 수주",
-     "chars": [
-      {
-       "c": "臭",
-       "hun": "냄새",
-       "eum": "취",
-       "en": ""
-      },
-      {
-       "c": "素",
-       "hun": "본디",
-       "eum": "소",
-       "en": "origin; element"
-      }
-     ]
-    },
-    {
-     "ko": "의심",
-     "hanja": "疑心",
-     "en": "doubt, distrust",
-     "grade": "",
-     "pos": "",
-     "example": "음주운전 의심 신고에 소주 마셔 '술타기' 40대 집유",
-     "chars": [
-      {
-       "c": "疑",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "心",
-       "hun": "마음",
-       "eum": "심",
-       "en": "heart, mind"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-26",
    "topics": [
@@ -5271,6 +5014,334 @@
     }
    ],
    "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-24",
+   "topics": [
+    "대전 서남부 종합스포츠타운",
+    "그랜드 테프트 오토 vi",
+    "GTA 6가 증명한 30프레임의 가치",
+    "12월 3일",
+    "중고",
+    "삼성전자 임원 인사",
+    "장학금",
+    "반포자이",
+    "윤하정",
+    "k9 자주포"
+   ],
+   "words": [
+    {
+     "ko": "후보자",
+     "hanja": "候補者",
+     "en": "applicant, candidate",
+     "grade": "",
+     "pos": "",
+     "example": "국세청장 후보자 \"자녀 학업 문제 정리되면 이문동 집 입주\"",
+     "chars": [
+      {
+       "c": "候",
+       "hun": "기후",
+       "eum": "후",
+       "en": ""
+      },
+      {
+       "c": "補",
+       "hun": "도울",
+       "eum": "보",
+       "en": ""
+      },
+      {
+       "c": "者",
+       "hun": "놈",
+       "eum": "자",
+       "en": "person (who does)"
+      }
+     ]
+    },
+    {
+     "ko": "장학금",
+     "hanja": "奬學金",
+     "en": "scholarship",
+     "grade": "",
+     "pos": "",
+     "example": "계룡장학재단, 전국체전 대전 우수입상자 장학금 수여…“체육 인재 성장 응원\"",
+     "chars": [
+      {
+       "c": "奬",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "學",
+       "hun": "배울",
+       "eum": "학",
+       "en": "learn"
+      },
+      {
+       "c": "金",
+       "hun": "쇠",
+       "eum": "금",
+       "en": "metal; gold (also the surname 김)"
+      }
+     ]
+    },
+    {
+     "ko": "성과",
+     "hanja": "成果",
+     "en": "result; outcome; fruits; product",
+     "grade": "",
+     "pos": "",
+     "example": "[게시판] 국립보건연구원, 인체자원 활용 우수성과 공유 심포지엄",
+     "chars": [
+      {
+       "c": "成",
+       "hun": "이룰",
+       "eum": "성",
+       "en": "achieve"
+      },
+      {
+       "c": "果",
+       "hun": "실과",
+       "eum": "과",
+       "en": "fruit; result"
+      }
+     ]
+    },
+    {
+     "ko": "기반",
+     "hanja": "基盤",
+     "en": "base, foundation",
+     "grade": "",
+     "pos": "",
+     "example": "중고나라, '지도 기반 상품 탐색' 기능 도입",
+     "chars": [
+      {
+       "c": "基",
+       "hun": "터",
+       "eum": "기",
+       "en": ""
+      },
+      {
+       "c": "盤",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "도입",
+     "hanja": "導入",
+     "en": "introduction",
+     "grade": "",
+     "pos": "",
+     "example": "중고나라, '지도 기반 상품 탐색' 기능 도입",
+     "chars": [
+      {
+       "c": "導",
+       "hun": "인도할",
+       "eum": "도",
+       "en": "guide, conduct"
+      },
+      {
+       "c": "入",
+       "hun": "들",
+       "eum": "입",
+       "en": "enter"
+      }
+     ]
+    },
+    {
+     "ko": "인재",
+     "hanja": "人材",
+     "en": "talented person",
+     "grade": "",
+     "pos": "",
+     "example": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용",
+     "chars": [
+      {
+       "c": "人",
+       "hun": "사람",
+       "eum": "인",
+       "en": "person"
+      },
+      {
+       "c": "材",
+       "hun": "재목",
+       "eum": "재",
+       "en": "timber, material"
+      }
+     ]
+    },
+    {
+     "ko": "조성",
+     "hanja": "組成",
+     "en": "composition; constitution",
+     "grade": "",
+     "pos": "",
+     "example": "파주 미래농업 혁신타운 조성 본격화…경기일보, 농업기술센터 이전 토론회",
+     "chars": [
+      {
+       "c": "組",
+       "hun": "짤",
+       "eum": "조",
+       "en": "assemble; group"
+      },
+      {
+       "c": "成",
+       "hun": "이룰",
+       "eum": "성",
+       "en": "achieve"
+      }
+     ]
+    }
+   ],
+   "stories": [
+    {
+     "title": "문화방송",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "문화방송(文化放送, 영어: Munhwa Broadcasting Corporation, 약칭 MBC)은 서울특별시에 본사를 둔 대한민국의 지상파 방송사이다.",
+       ""
+      ],
+      [
+       "1961년 12월 2일 서울에서 라디오 방송을 시작했고, 1969년 8월 8일 텔레비전 방송을 개시하였다.",
+       ""
+      ],
+      [
+       "텔레비전 채널 MBC TV와 라디오 채널 표준FM·FM4U를 운영하며, 전국 16개 지역 계열사와 함께 방송망을 구성한다.",
+       ""
+      ],
+      [
+       "자회사 MBC 플러스와 아이엠비씨를 통해 유료 방송 채널과 인터넷 사업도 한다.",
+       ""
+      ],
+      [
+       "본사는 2014년 여의도에서 서울 마포구 상암동의 상암 MBC 사옥으로 옮겼다.",
+       ""
+      ]
+     ],
+     "vocab": [
+      [
+       "약칭",
+       "略稱",
+       "abbreviation"
+      ],
+      [
+       "본사",
+       "本社",
+       "headquarters"
+      ],
+      [
+       "방송사",
+       "放送社",
+       "broadcast station, broadcast company"
+      ],
+      [
+       "라디오",
+       "",
+       "radio"
+      ],
+      [
+       "방송",
+       "放送",
+       "broadcasting; a specific broadcast; a radio or television program"
+      ],
+      [
+       "시작",
+       "始作",
+       "start, beginning; composition of poetry"
+      ],
+      [
+       "텔레비전",
+       "",
+       "television"
+      ],
+      [
+       "개시",
+       "開始",
+       "start; beginning"
+      ],
+      [
+       "채널",
+       "",
+       "channel (communications)"
+      ]
+     ],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": [
+      {
+       "c": "略",
+       "hun": "간략할",
+       "eum": "략",
+       "en": "brief; plan"
+      },
+      {
+       "c": "稱",
+       "hun": "일컬을",
+       "eum": "칭",
+       "en": "call; balance"
+      },
+      {
+       "c": "本",
+       "hun": "근본",
+       "eum": "본",
+       "en": "root, origin"
+      },
+      {
+       "c": "社",
+       "hun": "모일",
+       "eum": "사",
+       "en": "society, company"
+      },
+      {
+       "c": "放",
+       "hun": "놓을",
+       "eum": "방",
+       "en": "release"
+      },
+      {
+       "c": "送",
+       "hun": "보낼",
+       "eum": "송",
+       "en": ""
+      },
+      {
+       "c": "始",
+       "hun": "비로소",
+       "eum": "시",
+       "en": "begin"
+      },
+      {
+       "c": "作",
+       "hun": "지을",
+       "eum": "작",
+       "en": "make"
+      },
+      {
+       "c": "開",
+       "hun": "열",
+       "eum": "개",
+       "en": "open"
+      }
+     ]
+    }
+   ],
    "subjects": {
     "math": [],
     "science": [],
