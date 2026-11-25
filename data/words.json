@@ -1,118 +1,6 @@
 {
- "generated": "2026-11-24T04:56:11Z",
+ "generated": "2026-11-25T03:41:42Z",
  "days": [
-  {
-   "date": "2026-10-26",
-   "topics": [
-    "이시영",
-    "lcs",
-    "barca",
-    "이다해",
-    "손지창",
-    "퇴직",
-    "장례",
-    "박서진",
-    "며느리",
-    "조규성"
-   ],
-   "words": [
-    {
-     "ko": "마라톤",
-     "hanja": "",
-     "en": "marathon",
-     "grade": "",
-     "pos": "",
-     "example": "박서진, 발목 부상 숨기고 21km 마라톤 뛰었다..황영조도 감동한 '완주' ('살림남')",
-     "chars": []
-    },
-    {
-     "ko": "퇴직",
-     "hanja": "退職",
-     "en": "retirement",
-     "grade": "",
-     "pos": "",
-     "example": "입사 후도 퇴직 후도 차별? 도로공사 현장지원직 ‘이중고’",
-     "chars": [
-      {
-       "c": "退",
-       "hun": "물러날",
-       "eum": "퇴",
-       "en": "retreat"
-      },
-      {
-       "c": "職",
-       "hun": "직분",
-       "eum": "직",
-       "en": "post, job"
-      }
-     ]
-    },
-    {
-     "ko": "며느리",
-     "hanja": "",
-     "en": "daughter-in-law",
-     "grade": "",
-     "pos": "",
-     "example": "시母 백옥자, 며느리 장정윤 생일에 '다이아 목걸이' 플렉스…가격 보고 \"어머머머\" 찐한숨 ('광산김씨패밀리')",
-     "chars": []
-    },
-    {
-     "ko": "부상",
-     "hanja": "負傷",
-     "en": "injury; wound; rising/surfacing to the surface",
-     "grade": "",
-     "pos": "",
-     "example": "박서진, 발목 부상 숨기고 21km 마라톤 뛰었다..황영조도 감동한 '완주' ('살림남')",
-     "chars": [
-      {
-       "c": "負",
-       "hun": "질",
-       "eum": "부",
-       "en": "bear; owe"
-      },
-      {
-       "c": "傷",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "과세",
-     "hanja": "課稅",
-     "en": "taxation",
-     "grade": "",
-     "pos": "",
-     "example": "코인 과세 유예 기류에 업계 '반색'…자금 이탈 감소 기대",
-     "chars": [
-      {
-       "c": "課",
-       "hun": "과정",
-       "eum": "과",
-       "en": ""
-      },
-      {
-       "c": "稅",
-       "hun": "세금",
-       "eum": "세",
-       "en": "tax"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-27",
    "topics": [
@@ -5342,6 +5230,144 @@
      ]
     }
    ],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-25",
+   "topics": [
+    "반도체",
+    "한국대학신문",
+    "서훈",
+    "연금 개혁",
+    "3기 신도시",
+    "디에고 시메오네",
+    "김천(구미)",
+    "폭설",
+    "디트로이트 타이거스",
+    "южная корея"
+   ],
+   "words": [
+    {
+     "ko": "폭설",
+     "hanja": "暴雪",
+     "en": "heavy snow, deep snowfall, sudden fall of snow; diarrhea",
+     "grade": "",
+     "pos": "",
+     "example": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
+     "chars": [
+      {
+       "c": "暴",
+       "hun": "나타날",
+       "eum": "폭",
+       "en": ""
+      },
+      {
+       "c": "雪",
+       "hun": "눈",
+       "eum": "설",
+       "en": "snow"
+      }
+     ]
+    },
+    {
+     "ko": "공소",
+     "hanja": "公訴",
+     "en": "public prosecution; indictment",
+     "grade": "",
+     "pos": "",
+     "example": "정점식 \"이용철 임명시 공소취소 강행 선언…정권 자멸할 것\"",
+     "chars": [
+      {
+       "c": "公",
+       "hun": "공평할",
+       "eum": "공",
+       "en": "fair; public"
+      },
+      {
+       "c": "訴",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "포상",
+     "hanja": "褒賞",
+     "en": "reward",
+     "grade": "",
+     "pos": "",
+     "example": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
+     "chars": [
+      {
+       "c": "褒",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "賞",
+       "hun": "상줄",
+       "eum": "상",
+       "en": "prize; appreciate"
+      }
+     ]
+    },
+    {
+     "ko": "조치",
+     "hanja": "措置",
+     "en": "measure; step; action",
+     "grade": "",
+     "pos": "",
+     "example": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
+     "chars": [
+      {
+       "c": "措",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "置",
+       "hun": "둘",
+       "eum": "치",
+       "en": "place"
+      }
+     ]
+    },
+    {
+     "ko": "요청",
+     "hanja": "要請",
+     "en": "request, claim, appeal",
+     "grade": "",
+     "pos": "",
+     "example": "노소영, '9천440억원 전액지급' 최태원 화해권고 요청 거부(종합)",
+     "chars": [
+      {
+       "c": "要",
+       "hun": "요긴할",
+       "eum": "요",
+       "en": "need, important"
+      },
+      {
+       "c": "請",
+       "hun": "청할",
+       "eum": "청",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
    "subjects": {
     "math": [],
     "science": [],
