@@ -1,127 +1,6 @@
 {
- "generated": "2026-11-25T03:41:42Z",
+ "generated": "2026-11-26T03:00:17Z",
  "days": [
-  {
-   "date": "2026-10-27",
-   "topics": [
-    "병역 기피",
-    "욕망의 덫",
-    "고현항",
-    "체포",
-    "[도청도설] 프랑스를 망친 결정",
-    "이스라엘 총선",
-    "제네시스 gv80",
-    "광명시",
-    "이차전지",
-    "al"
-   ],
-   "words": [
-    {
-     "ko": "욕망",
-     "hanja": "",
-     "en": "desire, lust, appetite, craving",
-     "grade": "",
-     "pos": "",
-     "example": "‘욕망의 덫’ 장세현 죽음에 전혜원 오열…“나만 믿어라” 결국 복수 칼 뺐다",
-     "chars": []
-    },
-    {
-     "ko": "훈련",
-     "hanja": "",
-     "en": "training, drill, discipline",
-     "grade": "",
-     "pos": "",
-     "example": "은평구, 30일 산불·인파사고 가정 '재난대응 훈련'",
-     "chars": []
-    },
-    {
-     "ko": "막다",
-     "hanja": "",
-     "en": "to stop up; to enclose, to fence, to screen off, to shield",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "비자",
-     "hanja": "榧子",
-     "en": "visa (travel permit); The fruit of the kaya tree",
-     "grade": "",
-     "pos": "",
-     "example": "유승준 비자발급 취소 소송 또 대법원 판단...LA 총영사 상고",
-     "chars": [
-      {
-       "c": "榧",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "子",
-       "hun": "아들",
-       "eum": "자",
-       "en": "child, son"
-      }
-     ]
-    },
-    {
-     "ko": "소송",
-     "hanja": "訴訟",
-     "en": "lawsuit",
-     "grade": "",
-     "pos": "",
-     "example": "유승준 비자발급 취소 소송 또 대법원 판단...LA 총영사 상고",
-     "chars": [
-      {
-       "c": "訴",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "訟",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "상고",
-     "hanja": "上古",
-     "en": "the distant past; ancient times; appeal to a higher court",
-     "grade": "",
-     "pos": "",
-     "example": "유승준 비자발급 취소 소송 또 대법원 판단...LA 총영사 상고",
-     "chars": [
-      {
-       "c": "上",
-       "hun": "윗",
-       "eum": "상",
-       "en": "up, above"
-      },
-      {
-       "c": "古",
-       "hun": "예",
-       "eum": "고",
-       "en": "old"
-      }
-     ]
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-28",
    "topics": [
@@ -5362,6 +5241,177 @@
        "c": "請",
        "hun": "청할",
        "eum": "청",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-26",
+   "topics": [
+    "육아휴직",
+    "안민석",
+    "에어부산",
+    "민원24",
+    "전기자동차 배터리",
+    "삼성",
+    "호랑이",
+    "초전마을",
+    "수험",
+    "순댓국"
+   ],
+   "words": [
+    {
+     "ko": "우수",
+     "hanja": "雨水",
+     "en": "Rain Water; excellence",
+     "grade": "",
+     "pos": "",
+     "example": "쿠도커뮤니케이션, '2026년 대한민국 일·생활균형 우수기업' 선정",
+     "chars": [
+      {
+       "c": "雨",
+       "hun": "비",
+       "eum": "우",
+       "en": "rain"
+      },
+      {
+       "c": "水",
+       "hun": "물",
+       "eum": "수",
+       "en": "water"
+      }
+     ]
+    },
+    {
+     "ko": "제도",
+     "hanja": "諸島",
+     "en": "archipelago; system",
+     "grade": "",
+     "pos": "",
+     "example": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+     "chars": [
+      {
+       "c": "諸",
+       "hun": "모두",
+       "eum": "제",
+       "en": ""
+      },
+      {
+       "c": "島",
+       "hun": "섬",
+       "eum": "도",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "국제선",
+     "hanja": "國際線",
+     "en": "international air route, international airline",
+     "grade": "",
+     "pos": "",
+     "example": "에어부산, 겨울맞이 국제선 28개 노선 특가 행사",
+     "chars": [
+      {
+       "c": "國",
+       "hun": "나라",
+       "eum": "국",
+       "en": "country"
+      },
+      {
+       "c": "際",
+       "hun": "즈음",
+       "eum": "제",
+       "en": ""
+      },
+      {
+       "c": "線",
+       "hun": "줄",
+       "eum": "선",
+       "en": "line"
+      }
+     ]
+    },
+    {
+     "ko": "반값",
+     "hanja": "",
+     "en": "half price",
+     "grade": "",
+     "pos": "",
+     "example": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
+     "chars": []
+    },
+    {
+     "ko": "원칙",
+     "hanja": "原則",
+     "en": "principle; rule",
+     "grade": "",
+     "pos": "",
+     "example": "안민석 교육감 “교장 한 학교서 4년 근무 원칙…2년 연장도 검토”",
+     "chars": [
+      {
+       "c": "原",
+       "hun": "언덕",
+       "eum": "원",
+       "en": "origin, source"
+      },
+      {
+       "c": "則",
+       "hun": "곧",
+       "eum": "즉",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "ko": "맞이",
+     "hanja": "",
+     "en": "welcoming, receiving, greeting",
+     "grade": "",
+     "pos": "",
+     "example": "에어부산, 겨울맞이 국제선 28개 노선 특가 행사",
+     "chars": []
+    },
+    {
+     "ko": "배터리",
+     "hanja": "",
+     "en": "battery (device to store electricity); a battery (the catcher and the pitcher together)",
+     "grade": "",
+     "pos": "",
+     "example": "전기자동차 배터리",
+     "chars": []
+    },
+    {
+     "ko": "구매",
+     "hanja": "購買",
+     "en": "purchase",
+     "grade": "",
+     "pos": "",
+     "example": "전기차, 반값에 구매?…'배터리 리스제' 검토",
+     "chars": [
+      {
+       "c": "購",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "買",
+       "hun": "살",
+       "eum": "매",
        "en": ""
       }
      ]
