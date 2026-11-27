@@ -1,151 +1,6 @@
 {
- "generated": "2026-11-26T03:00:17Z",
+ "generated": "2026-11-27T03:08:48Z",
  "days": [
-  {
-   "date": "2026-10-28",
-   "topics": [
-    "창신 메모리 테크놀로지",
-    "공중강습",
-    "별자리",
-    "[오늘의 운세/10월 28일]",
-    "허문회",
-    "브라질",
-    "하이닉스 실적발표",
-    "묀헨글라트바흐 대 카를스루에",
-    "기온",
-    "수험"
-   ],
-   "words": [
-    {
-     "ko": "주주",
-     "hanja": "株主",
-     "en": "shareholder, stockholder",
-     "grade": "",
-     "pos": "",
-     "example": "SK하이닉스, 오늘 사상 최대 3Q 실적 발표…주주환원 방안도 '주목'",
-     "chars": [
-      {
-       "c": "株",
-       "hun": "그루",
-       "eum": "주",
-       "en": "stump; share (stock)"
-      },
-      {
-       "c": "主",
-       "hun": "주인",
-       "eum": "주",
-       "en": "master; main"
-      }
-     ]
-    },
-    {
-     "ko": "마치다",
-     "hanja": "",
-     "en": "to finish",
-     "grade": "",
-     "pos": "",
-     "example": "",
-     "chars": []
-    },
-    {
-     "ko": "프로그램",
-     "hanja": "",
-     "en": "program; program",
-     "grade": "",
-     "pos": "",
-     "example": "용인특례시, 수능 마친 수험생 위한 특별 프로그램 운영",
-     "chars": []
-    },
-    {
-     "ko": "육군",
-     "hanja": "陸軍",
-     "en": "army, military, troops",
-     "grade": "",
-     "pos": "",
-     "example": "육군 제2신속대응사단, 공정·공중강습 훈련",
-     "chars": [
-      {
-       "c": "陸",
-       "hun": "뭍",
-       "eum": "륙",
-       "en": ""
-      },
-      {
-       "c": "軍",
-       "hun": "군사",
-       "eum": "군",
-       "en": "army, soldier"
-      }
-     ]
-    },
-    {
-     "ko": "운세",
-     "hanja": "運勢",
-     "en": "fortune-telling, horoscope",
-     "grade": "",
-     "pos": "",
-     "example": "[오늘의 운세] 2026년 10월 28일 띠별 운세",
-     "chars": [
-      {
-       "c": "運",
-       "hun": "옮길",
-       "eum": "운",
-       "en": "move, carry; luck"
-      },
-      {
-       "c": "勢",
-       "hun": "형세",
-       "eum": "세",
-       "en": ""
-      }
-     ]
-    }
-   ],
-   "stories": [
-    {
-     "title": "브라질",
-     "en": "",
-     "lvl": 4,
-     "lines": [
-      [
-       "브라질 연방공화국(브라질 포르투갈어: República Federativa do Brasil 헤푸블리카 페데라치바 두 브라지우), 줄여서 브라질(브라질 포르투갈어: Brasil 브라지우)은 남아메리카에 위치한 연방제 공화국이다.",
-       ""
-      ],
-      [
-       "브라질은 남아메리카에서 가장 큰 나라로, 세계에서 다섯 번째로 면적이 넓고 인구도 2억 1천만 명이 넘어 세계에서 일곱 번째로 인구가 많은 나라이다.",
-       ""
-      ],
-      [
-       "수도는 브라질리아이고, 최대 도시는 상파울루이다.",
-       ""
-      ],
-      [
-       "26개의 주와 1개의 연방구로 나라를 구성한다.",
-       ""
-      ],
-      [
-       "아메리카 대륙에서 포르투갈어가 공식 언어인 유일한 국가이며, 세계에서 포르투갈어를 사용하는 국가들 중에서 가장 규모가 크다.",
-       ""
-      ]
-     ],
-     "vocab": [],
-     "quiz": [],
-     "source": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9D%BC%EC%A7%88",
-     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
-     "chars": []
-    }
-   ],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-29",
    "topics": [
@@ -5418,6 +5273,133 @@
     }
    ],
    "stories": [],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "topics": [
+    "이동욱",
+    "대한민국의 중앙행정기관",
+    "한동훈",
+    "코스닥",
+    "국시원",
+    "sema",
+    "ai 에이전트",
+    "유한양행",
+    "lg에너지솔루션",
+    "병무청"
+   ],
+   "words": [
+    {
+     "ko": "자료",
+     "hanja": "資料",
+     "en": "data; documentation; materials",
+     "grade": "",
+     "pos": "",
+     "example": "[단독] 경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+     "chars": [
+      {
+       "c": "資",
+       "hun": "재물",
+       "eum": "자",
+       "en": "resources"
+      },
+      {
+       "c": "料",
+       "hun": "헤아릴",
+       "eum": "료",
+       "en": "material; fee"
+      }
+     ]
+    },
+    {
+     "ko": "압수",
+     "hanja": "押收",
+     "en": "confiscation; seizure",
+     "grade": "",
+     "pos": "",
+     "example": "[단독] 경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+     "chars": [
+      {
+       "c": "押",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "收",
+       "hun": "거둘",
+       "eum": "수",
+       "en": "collect"
+      }
+     ]
+    },
+    {
+     "ko": "수색",
+     "hanja": "搜索",
+     "en": "search",
+     "grade": "",
+     "pos": "",
+     "example": "[단독] 경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+     "chars": [
+      {
+       "c": "搜",
+       "hun": "",
+       "eum": "",
+       "en": ""
+      },
+      {
+       "c": "索",
+       "hun": "찾을",
+       "eum": "색",
+       "en": ""
+      }
+     ]
+    }
+   ],
+   "stories": [
+    {
+     "title": "문화방송",
+     "en": "",
+     "lvl": 4,
+     "lines": [
+      [
+       "문화방송(文化放送, 영어: Munhwa Broadcasting Corporation, 약칭 MBC)은 서울특별시에 본사를 둔 대한민국의 지상파 방송사이다.",
+       ""
+      ],
+      [
+       "1961년 12월 2일 서울에서 라디오 방송을 시작했고, 1969년 8월 8일 텔레비전 방송을 개시하였다.",
+       ""
+      ],
+      [
+       "텔레비전 채널 MBC TV와 라디오 채널 표준FM·FM4U를 운영하며, 전국 16개 지역 계열사와 함께 방송망을 구성한다.",
+       ""
+      ],
+      [
+       "자회사 MBC 플러스와 아이엠비씨를 통해 유료 방송 채널과 인터넷 사업도 한다.",
+       ""
+      ],
+      [
+       "본사는 2014년 여의도에서 서울 마포구 상암동의 상암 MBC 사옥으로 옮겼다.",
+       ""
+      ]
+     ],
+     "vocab": [],
+     "quiz": [],
+     "source": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1",
+     "license": "Text from Korean Wikipedia, CC BY-SA 4.0",
+     "chars": []
+    }
+   ],
    "subjects": {
     "math": [],
     "science": [],
