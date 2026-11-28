@@ -1,215 +1,6 @@
 {
- "generated": "2026-11-27T03:08:48Z",
+ "generated": "2026-11-28T02:54:26Z",
  "days": [
-  {
-   "date": "2026-10-29",
-   "topics": [
-    "구글 실적발표",
-    "담합",
-    "매일경제",
-    "조상",
-    "삼성전자 실적발표",
-    "xrp",
-    "송교창",
-    "lig 디펜스&에어로스페이스",
-    "주차",
-    "한다 감"
-   ],
-   "words": [
-    {
-     "ko": "데이터",
-     "hanja": "",
-     "en": "data",
-     "grade": "",
-     "pos": "",
-     "example": "MS \"자본지출 부족분은 데이터센터 건설 지연 때문\"",
-     "chars": []
-    },
-    {
-     "ko": "검증",
-     "hanja": "檢證",
-     "en": "verification",
-     "grade": "",
-     "pos": "",
-     "example": "공개검증 마친 투표용지 반출 완료…선관위 창고로 이송 중(종합)",
-     "chars": [
-      {
-       "c": "檢",
-       "hun": "검사할",
-       "eum": "검",
-       "en": "inspect"
-      },
-      {
-       "c": "證",
-       "hun": "증거",
-       "eum": "증",
-       "en": "proof"
-      }
-     ]
-    },
-    {
-     "ko": "건설",
-     "hanja": "建設",
-     "en": "construction",
-     "grade": "",
-     "pos": "",
-     "example": "MS \"자본지출 부족분은 데이터센터 건설 지연 때문\"",
-     "chars": [
-      {
-       "c": "建",
-       "hun": "세울",
-       "eum": "건",
-       "en": "build"
-      },
-      {
-       "c": "設",
-       "hun": "베풀",
-       "eum": "설",
-       "en": "set up"
-      }
-     ]
-    },
-    {
-     "ko": "의혹",
-     "hanja": "疑惑",
-     "en": "doubt, suspicion",
-     "grade": "",
-     "pos": "",
-     "example": "공정위, '라면 담합' 의혹‥농심·삼양·팔도·오뚜기 현장조사",
-     "chars": [
-      {
-       "c": "疑",
-       "hun": "",
-       "eum": "",
-       "en": ""
-      },
-      {
-       "c": "惑",
-       "hun": "미혹할",
-       "eum": "혹",
-       "en": ""
-      }
-     ]
-    },
-    {
-     "ko": "주목",
-     "hanja": "朱木",
-     "en": "Japanese yew",
-     "grade": "",
-     "pos": "",
-     "example": "삼성전자, 오늘 3Q 확정실적 발표…'HBM 공급 전략·30조 배당' 주목",
-     "chars": [
-      {
-       "c": "朱",
-       "hun": "붉을",
-       "eum": "주",
-       "en": ""
-      },
-      {
-       "c": "木",
-       "hun": "나무",
-       "eum": "목",
-       "en": "tree; wood"
-      }
-     ]
-    },
-    {
-     "ko": "유출",
-     "hanja": "流出",
-     "en": "outflow; leak",
-     "grade": "",
-     "pos": "",
-     "example": "\"전자전기 제안서에 '비리 사업들' 포함\"…'기밀유출'의 산은 어찌 넘으려나 [취재파일]",
-     "chars": [
-      {
-       "c": "流",
-       "hun": "흐를",
-       "eum": "류",
-       "en": "flow"
-      },
-      {
-       "c": "出",
-       "hun": "날",
-       "eum": "출",
-       "en": "go out"
-      }
-     ]
-    },
-    {
-     "ko": "출산",
-     "hanja": "出産",
-     "en": "childbirth",
-     "grade": "",
-     "pos": "",
-     "example": "‘47세 출산’ 한다감, 子 공개..’모태 미남’인증까지 “잘생겼다” (‘슈돌’)[Oh!쎈 예고]",
-     "chars": [
-      {
-       "c": "出",
-       "hun": "날",
-       "eum": "출",
-       "en": "go out"
-      },
-      {
-       "c": "産",
-       "hun": "낳을",
-       "eum": "산",
-       "en": "produce"
-      }
-     ]
-    },
-    {
-     "ko": "통합",
-     "hanja": "統合",
-     "en": "unity; integration",
-     "grade": "",
-     "pos": "",
-     "example": "울산시, 통합돌봄 지역계획 수립 착수…핵심과제·실행방안 도출",
-     "chars": [
-      {
-       "c": "統",
-       "hun": "거느릴",
-       "eum": "통",
-       "en": "unite, govern"
-      },
-      {
-       "c": "合",
-       "hun": "합할",
-       "eum": "합",
-       "en": "combine"
-      }
-     ]
-    },
-    {
-     "ko": "하루",
-     "hanja": "",
-     "en": "a day, 24 hours; daytime",
-     "grade": "",
-     "pos": "",
-     "example": "원주공항 제주노선 동계 운항 시간 조정…하루 2회 유지",
-     "chars": []
-    },
-    {
-     "ko": "내달",
-     "hanja": "",
-     "en": "the coming month, next month",
-     "grade": "",
-     "pos": "",
-     "example": "청주시, 내달 1일부터 50일간 김장쓰레기 무상 수거",
-     "chars": []
-    }
-   ],
-   "stories": [],
-   "subjects": {
-    "math": [],
-    "science": [],
-    "engineering": [],
-    "business": [],
-    "culture": [],
-    "philosophy": [],
-    "history": [],
-    "medicine": []
-   }
-  },
   {
    "date": "2026-10-30",
    "topics": [
@@ -5400,6 +5191,118 @@
      "chars": []
     }
    ],
+   "subjects": {
+    "math": [],
+    "science": [],
+    "engineering": [],
+    "business": [],
+    "culture": [],
+    "philosophy": [],
+    "history": [],
+    "medicine": []
+   }
+  },
+  {
+   "date": "2026-11-28",
+   "topics": [
+    "브론슨 리드",
+    "은평구",
+    "타릭 스쿠발",
+    "의사",
+    "뉴스1",
+    "도로",
+    "한화솔루션",
+    "대한민국 u-17 축구 국가대표팀",
+    "nh농협은행",
+    "경상수지"
+   ],
+   "words": [
+    {
+     "ko": "월드컵",
+     "hanja": "",
+     "en": "World Cup",
+     "grade": "",
+     "pos": "",
+     "example": "3전 전승 한국, 3위 턱걸이 일본과 U-17 월드컵축구 32강 한일전",
+     "chars": []
+    },
+    {
+     "ko": "기금",
+     "hanja": "基金",
+     "en": "fund",
+     "grade": "",
+     "pos": "",
+     "example": "(보도설명) 미래대응기금은 반도체 호황 등에 따른 대규모 세수를 미래세대를 위한 투자에 활용하기 위한 것입니다.",
+     "chars": [
+      {
+       "c": "基",
+       "hun": "터",
+       "eum": "기",
+       "en": ""
+      },
+      {
+       "c": "金",
+       "hun": "쇠",
+       "eum": "금",
+       "en": "metal; gold (also the surname 김)"
+      }
+     ]
+    },
+    {
+     "ko": "발효",
+     "hanja": "發效",
+     "en": "taking effect; fermentation",
+     "grade": "",
+     "pos": "",
+     "example": "(춘천=연합뉴스) 기상청은 28일 오후 9시를 기해 춘천·태백·속초평지·양구산지·홍천산지·정선산지·삼척산지에 한파주의보를 발효한다고 밝혔다.",
+     "chars": [
+      {
+       "c": "發",
+       "hun": "필",
+       "eum": "발",
+       "en": "bloom; set off"
+      },
+      {
+       "c": "效",
+       "hun": "본받을",
+       "eum": "효",
+       "en": "effect"
+      }
+     ]
+    },
+    {
+     "ko": "세대",
+     "hanja": "世代",
+     "en": "age, generation, era; household",
+     "grade": "",
+     "pos": "",
+     "example": "은평구, 불광역세권 4092세대 재개발 정비구역 지정 고시",
+     "chars": [
+      {
+       "c": "世",
+       "hun": "인간",
+       "eum": "세",
+       "en": "world; generation"
+      },
+      {
+       "c": "代",
+       "hun": "대신할",
+       "eum": "대",
+       "en": "replace; era"
+      }
+     ]
+    },
+    {
+     "ko": "올리다",
+     "hanja": "",
+     "en": "to raise, to increase; to record, to enter",
+     "grade": "",
+     "pos": "",
+     "example": "",
+     "chars": []
+    }
+   ],
+   "stories": [],
    "subjects": {
     "math": [],
     "science": [],
